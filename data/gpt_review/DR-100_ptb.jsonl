@@ -1,0 +1,1000 @@
+{"id": 0, "review": "MQM annotation:\n\"final effect was\" - terminology - 25", "severity": "minor", "category": "terminology", "total_token": 1241}
+{"id": 1, "review": "MQM annotation:\n\"I gave a\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1253}
+{"id": 2, "review": "MQM annotations:\n\"incoming call and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1245}
+{"id": 3, "review": "MQM annotations:\n\"I hope it\" - addition - 45", "severity": "minor", "category": "addition", "total_token": 1238}
+{"id": 4, "review": "MQM annotations:\n\"is the national\" - mistranslation - 54", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 5, "review": "MQM annotations:\n\"very active and\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1244}
+{"id": 6, "review": "MQM annotations:\n\"$600 and was\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 7, "review": "MQM annotations:\n\"too good about\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1238}
+{"id": 8, "review": "MQM annotations:\n\"been used 3-4\" - omission - 50", "severity": "minor", "category": "omission", "total_token": 1246}
+{"id": 9, "review": "MQM annotations:\n\"will take a\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 10, "review": "MQM annotations:\n\"often can't connect\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1243}
+{"id": 11, "review": "MQM annotations:\n\"Very good, the\" - addition - 50", "severity": "minor", "category": "addition", "total_token": 1241}
+{"id": 12, "review": "MQM annotations:\n\"terminology fluctuates between\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1254}
+{"id": 13, "review": "MQM annotations:\n\"became a die-hard\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1247}
+{"id": 14, "review": "MQM annotations:\n\"mattress is really\" - incorrect word order - 10", "severity": "minor", "category": "word order", "total_token": 1243}
+{"id": 15, "review": "MQM annotations:\n\"price cut is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1234}
+{"id": 16, "review": "MQM annotations:\n\"mentioned some issue\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 17, "review": "MQM annotations:\n\"think this is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 18, "review": "MQM annotations:\n\"Could it be\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1242}
+{"id": 19, "review": "MQM annotations:\n\"to Understanding Internet\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1241}
+{"id": 20, "review": "MQM annotations:\n\"I want delivery\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1243}
+{"id": 21, "review": "MQM annotations:\n\"self-operated products are\" - terminology - 27", "severity": "minor", "category": "terminology", "total_token": 1245}
+{"id": 22, "review": "MQM annotations:\n\"Financial Reporter Xia\" - terminology - 40", "severity": "minor", "category": "terminology", "total_token": 1235}
+{"id": 23, "review": "MQM annotations:\n\"high-quality city-level wireless\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1249}
+{"id": 24, "review": "MQM annotations:\n\"I don't think I'll\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1243}
+{"id": 25, "review": "MQM annotations:\n\"It's not a\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1238}
+{"id": 26, "review": "MQM annotations:\n\"where credit is\" - addition - 50", "severity": "minor", "category": "addition", "total_token": 1235}
+{"id": 27, "review": "MQM annotations:\n\"So, I have\" - addition - 55", "severity": "major", "category": "addition", "total_token": 1238}
+{"id": 28, "review": "MQM annotations:\n\"indeed feel quite\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1245}
+{"id": 29, "review": "MQM annotations:\n\"to the delivery\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1244}
+{"id": 30, "review": "MQM annotations:\n\"technology exports to\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1239}
+{"id": 31, "review": "MQM annotations:\n\"Just the cap\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1239}
+{"id": 32, "review": "MQM annotations:\n\"for skimming, not\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1246}
+{"id": 33, "review": "MQM annotations:\n\"The breathability is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1239}
+{"id": 34, "review": "MQM annotations:\n\"the headband is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1242}
+{"id": 35, "review": "MQM annotations:\n\"Explanation of some\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1241}
+{"id": 36, "review": "MQM annotations:\n\"as good as\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1240}
+{"id": 37, "review": "MQM annotations:\n\"I love you\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1243}
+{"id": 38, "review": "MQM annotations:\n\"Waiting for a\" - addition - 32", "severity": "minor", "category": "addition", "total_token": 1237}
+{"id": 39, "review": "MQM annotations:\n\"The worst shopping\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1240}
+{"id": 40, "review": "MQM annotations:\n\"brands and cheap\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1243}
+{"id": 41, "review": "MQM annotations:\n\"more improvements on\" - mistranslation - 20", "severity": "minor", "category": "mistranslation", "total_token": 1244}
+{"id": 42, "review": "MQM annotations:\n\"It can only\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1241}
+{"id": 43, "review": "MQM annotations:\n\"has brightened America's\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 44, "review": "MQM annotations:\n\"a telephone number\" - omission - 55", "severity": "major", "category": "omission", "total_token": 1239}
+{"id": 45, "review": "MQM annotations:\n\"feels like a\" - fluency (grammar) - 20", "severity": "minor", "category": "grammar", "total_token": 1253}
+{"id": 46, "review": "MQM annotations:\n\"hoop feet, grind the\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 47, "review": "MQM annotations:\n\"the clothes is\" - fluency (grammar) - 45", "severity": "minor", "category": "grammar", "total_token": 1244}
+{"id": 48, "review": "MQM annotations:\n\"speed is also\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1238}
+{"id": 49, "review": "MQM annotations:\n\"5 stars, poor\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1244}
+{"id": 50, "review": "MQM annotations:\n\"have been a\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1246}
+{"id": 51, "review": "MQM annotations:\n\"love to eat,\" - mistranslation - 42", "severity": "minor", "category": "mistranslation", "total_token": 1243}
+{"id": 52, "review": "MQM annotations:\n\"two major strategic\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 53, "review": "MQM annotations:\n\"Amazon for strict\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1251}
+{"id": 54, "review": "MQM annotations:\n\"is the product's\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1243}
+{"id": 55, "review": "MQM annotations:\n\"is not very\" - grammar - 25", "severity": "minor", "category": "grammar", "total_token": 1235}
+{"id": 56, "review": "MQM annotations:\n\"a very successful\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1245}
+{"id": 57, "review": "MQM annotation:\n\"the money be\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 58, "review": "MQM annotations:\n\"regret such an\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1248}
+{"id": 59, "review": "MQM annotations:\n\"Kuomintang considered it\" - omission - 55", "severity": "major", "category": "omission", "total_token": 1247}
+{"id": 60, "review": "MQM annotations:\n\"PS The appearance\" - mistranslation - 54", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 61, "review": "MQM annotations:\n\"postal courier is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1242}
+{"id": 62, "review": "MQM annotations:\n\"Pick-up service needs\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1240}
+{"id": 63, "review": "MQM annotations:\n\"The packaging is\" - omission - 55", "severity": "major", "category": "omission", "total_token": 1237}
+{"id": 64, "review": "MQM annotations:\n\"Quite a poor\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1243}
+{"id": 65, "review": "MQM annotations:\n\"average in terms\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1239}
+{"id": 66, "review": "MQM annotations:\n\"This document specifies\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1239}
+{"id": 67, "review": "MQM annotations:\n\"a genuine product\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1240}
+{"id": 68, "review": "MQM annotations:\n\"A portfolio of\" - incorrect word order - 60", "severity": "major", "category": "word order", "total_token": 1240}
+{"id": 69, "review": "MQM annotations:\n\"about this agency\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 70, "review": "MQM annotations:\n\"The image quality\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1237}
+{"id": 71, "review": "MQM annotations:\n\"That is why\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 72, "review": "MQM annotations:\n\"Is this how\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1241}
+{"id": 73, "review": "MQM annotations:\n\"Bentley watch is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1243}
+{"id": 74, "review": "MQM annotations:\n\"management products are\" - fluency - 10", "severity": "minor", "category": null, "total_token": 1243}
+{"id": 75, "review": "MQM annotations:\n\"it's been a long\" - grammar - 25", "severity": "minor", "category": "grammar", "total_token": 1251}
+{"id": 76, "review": "MQM annotations:\n\"11, 2023, 13:09:10 [Source: \" - incorrect word order - 10", "severity": "minor", "category": "word order", "total_token": 1309}
+{"id": 77, "review": "MQM annotations:\n\"shootdown took place 10\" - mistranslation - 26", "severity": "minor", "category": "mistranslation", "total_token": 1258}
+{"id": 78, "review": "MQM annotations:\n\"Unfortunately, the style is\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1260}
+{"id": 79, "review": "MQM annotations:\n\"Philippines reached a defense\" - incorrect word order - 54", "severity": "major", "category": "word order", "total_token": 1258}
+{"id": 80, "review": "MQM annotations:\n\"party lost an important\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1249}
+{"id": 81, "review": "MQM annotations:\n\"the Double Eleven is\" - fluency (grammar) - 25", "severity": "minor", "category": "grammar", "total_token": 1255}
+{"id": 82, "review": "MQM annotations:\n\"of synthetic opioids has\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1260}
+{"id": 83, "review": "MQM annotations:\n\"with a 19-fold increase\" - no error - 0", "severity": "minor", "category": null, "total_token": 1268}
+{"id": 84, "review": "MQM annotations:\n\"I feel a bit\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 85, "review": "MQM annotations:\n\"is impossible, and dare\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1260}
+{"id": 86, "review": "MQM annotations:\n\"Number of Code Positions\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 87, "review": "MQM annotations:\n\"worried that Alphabet is\" - grammar - 20", "severity": "minor", "category": "grammar", "total_token": 1250}
+{"id": 88, "review": "MQM annotations:\n\"room, it can still\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 89, "review": "MQM annotations:\n\"is an important part\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 90, "review": "MQM annotations:\n\"does it take four\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1261}
+{"id": 91, "review": "MQM annotations:\n\"is mediocre and does\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1249}
+{"id": 92, "review": "MQM annotations:\n\"The brush head attachments\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 93, "review": "MQM annotations:\n\"while opioids pose the\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 94, "review": "MQM annotations:\n\"Market - China News\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1258}
+{"id": 95, "review": "MQM annotations:\n\"the Poke Ball, you\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1258}
+{"id": 96, "review": "MQM annotations:\n\"tourism market will gradually\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1257}
+{"id": 97, "review": "MQM annotations:\n\"front panel and the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 98, "review": "MQM annotations:\n\"Death to the Islamic\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1256}
+{"id": 99, "review": "MQM annotations:\n\"Returns are not encouraged,\" - fluency (punctuation) - 10", "severity": "minor", "category": "punctuation", "total_token": 1260}
+{"id": 100, "review": "MQM annotations:\n\"sure what to do\" - mistranslation - 71", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 101, "review": "MQM annotations:\n\"I've never bought similar\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1253}
+{"id": 102, "review": "MQM annotations:\n\"not returning it is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 103, "review": "MQM annotations:\n\"returned it, having wasted\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1266}
+{"id": 104, "review": "MQM annotations:\n\"Thanks to the translator\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1254}
+{"id": 105, "review": "MQM annotations:\n\"the transportation protection of\" - fluency (incorrect word order) - 40", "severity": "minor", "category": "word order", "total_token": 1251}
+{"id": 106, "review": "MQM annotations:\n\"okay, but Amazon's after-sales\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1266}
+{"id": 107, "review": "MQM annotations:\n\"allow for deliveries on\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1250}
+{"id": 108, "review": "MQM annotations:\n\"Amazon's fake discounts are\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1259}
+{"id": 109, "review": "MQM annotations:\n\"I deleted all the\" - addition - 25", "severity": "minor", "category": "addition", "total_token": 1253}
+{"id": 110, "review": "MQM annotations:\n\"price of dental implant\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1260}
+{"id": 111, "review": "MQM annotations:\n\"foreign ones; both well-known\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 112, "review": "MQM annotations:\n\"new one, I thought\" - incorrect word order - 35", "severity": "minor", "category": "word order", "total_token": 1258}
+{"id": 113, "review": "MQM annotations:\n\"a place to complain\" - mistranslation - 50\n\nThe translation changes the perspective from the implied third-person in the source to a first-person perspective, affecting the clarity of who is unable to find a complaint area on Amazon.", "severity": "minor", "category": "mistranslation", "total_token": 1280}
+{"id": 114, "review": "MQM annotations:\n\"a refund for the\" - mistranslation - 63", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 115, "review": "MQM annotations:\n\"mirror is easily scratched\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1253}
+{"id": 116, "review": "MQM annotations:\n\"does not proceed to\" - mistranslation - 20", "severity": "minor", "category": "mistranslation", "total_token": 1251}
+{"id": 117, "review": "MQM annotations:\n\"is that the customer\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1259}
+{"id": 118, "review": "MQM annotations:\n\"the hell kind of\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1247}
+{"id": 119, "review": "MQM annotations:\n\"Among them, integrated circuits\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1269}
+{"id": 120, "review": "MQM annotations:\n\"manuscripts, Leonardo da Vinci's\" - omission - 58", "severity": "major", "category": "omission", "total_token": 1271}
+{"id": 121, "review": "MQM annotations:\n\"management products went on\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1247}
+{"id": 122, "review": "MQM annotations:\n\"in the front, they\" - grammar - 20", "severity": "minor", "category": "grammar", "total_token": 1265}
+{"id": 123, "review": "MQM annotations:\n\"but I have some\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1253}
+{"id": 124, "review": "MQM annotations:\n\"The Important Engine of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1247}
+{"id": 125, "review": "MQM annotations:\n\"a commodity be worn\" - mistranslation - 53", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 126, "review": "MQM annotations:\n\"a matching manufacturing process\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1248}
+{"id": 127, "review": "MQM annotations:\n\"goods, one star for\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1254}
+{"id": 128, "review": "MQM annotations:\n\"our country sent the\" - terminology - 15", "severity": "minor", "category": "terminology", "total_token": 1262}
+{"id": 129, "review": "MQM annotations:\n\"elastic waistband, so it's\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 130, "review": "MQM annotations:\n\"slender, it is not\" - mistranslation - 50", "severity": "minor", "category": "mistranslation", "total_token": 1257}
+{"id": 131, "review": "MQM annotations:\n\"very sorry for your\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 132, "review": "MQM annotations:\n\"in a 'guaranteed price\" - incorrect word order - 35", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 133, "review": "MQM annotations:\n\"reason behind the plunge\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1263}
+{"id": 134, "review": "MQM annotations:\n\"your own logistics can't\" - mistranslation - 30", "severity": "minor", "category": "mistranslation", "total_token": 1262}
+{"id": 135, "review": "MQM annotations:\n\"merchant has considered the\" - terminology - 25", "severity": "minor", "category": "terminology", "total_token": 1247}
+{"id": 136, "review": "MQM annotations:\n\"to cybersecurity information and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1254}
+{"id": 137, "review": "MQM annotations:\n\"A total of 25200\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1281}
+{"id": 138, "review": "MQM annotations:\n\"Kahramanmaras holding his recently\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1263}
+{"id": 139, "review": "MQM annotations:\n\"they're all the same,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1248}
+{"id": 140, "review": "MQM annotations:\n\"it one week after\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 141, "review": "MQM annotations:\n\"called the next day\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1251}
+{"id": 142, "review": "MQM annotations:\n\"are well made and\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1249}
+{"id": 143, "review": "MQM annotations:\n\"one called to give\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1256}
+{"id": 144, "review": "MQM annotations:\n\"Because I have a\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1258}
+{"id": 145, "review": "MQM annotations:\n\"of Code Positions in\" - fluency (incorrect word order) - 20", "severity": "minor", "category": "word order", "total_token": 1261}
+{"id": 146, "review": "MQM annotations:\n\"But it arguably destroys\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1250}
+{"id": 147, "review": "MQM annotations:\n\"China in early January\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1264}
+{"id": 148, "review": "MQM annotations:\n\"two-thirds of the 67,367\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1276}
+{"id": 149, "review": "MQM annotations:\n\"long comment, and I\" - addition - 15", "severity": "minor", "category": "addition", "total_token": 1254}
+{"id": 150, "review": "MQM annotations:\n\"careful when buying electronic\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1253}
+{"id": 151, "review": "MQM annotations:\n\"time, the machine is\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1259}
+{"id": 152, "review": "MQM annotation:\n\"Did I really buy\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1257}
+{"id": 153, "review": "MQM annotations:\n\"outsourcing to China than\" - mistranslation - 71", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 154, "review": "MQM annotations:\n\"receiving the shipment and\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1244}
+{"id": 155, "review": "MQM annotations:\n\"Hong Kong tourists and\" - mistranslation - 54", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 156, "review": "MQM annotations:\n\"Strong, sufficient materials, firm\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1272}
+{"id": 157, "review": "MQM annotations:\n\"Sol-ju, could only step\" - mistranslation - 30", "severity": "minor", "category": "mistranslation", "total_token": 1260}
+{"id": 158, "review": "MQM annotations:\n\"product with a very\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1249}
+{"id": 159, "review": "MQM annotations:\n\"indicates the language type\" - terminology - 39", "severity": "minor", "category": "terminology", "total_token": 1257}
+{"id": 160, "review": "MQM annotations:\n\"4. Install anti-virus software\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1281}
+{"id": 161, "review": "MQM annotations:\n\"punctuation, and incorrect numbering\" - incorrect word order - 10", "severity": "minor", "category": "punctuation", "total_token": 1269}
+{"id": 162, "review": "MQM annotations:\n\"born in China, I'm\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1249}
+{"id": 163, "review": "MQM annotations:\n\"In short, our whole family\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1257}
+{"id": 164, "review": "MQM annotations:\n\"quantity of new psychoactive\" - mistranslation - 20", "severity": "minor", "category": "mistranslation", "total_token": 1265}
+{"id": 165, "review": "MQM annotations:\n\"indication that the object\" - incorrect word order - 18", "severity": "minor", "category": "word order", "total_token": 1266}
+{"id": 166, "review": "MQM annotations:\n\"strongly recommended that Amazon\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1248}
+{"id": 167, "review": "MQM annotations:\n\"a Memorandum of Understanding\" - grammar - 15", "severity": "minor", "category": "grammar", "total_token": 1262}
+{"id": 168, "review": "MQM annotations:\n\"the world into an\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1262}
+{"id": 169, "review": "MQM annotations:\n\"electronic components fell by\" - terminology (inappropriate for context) - 20", "severity": "minor", "category": "terminology", "total_token": 1272}
+{"id": 170, "review": "MQM annotations:\n\"In comparison, 58 million\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1260}
+{"id": 171, "review": "MQM annotations:\n\"business opportunities and increase\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1250}
+{"id": 172, "review": "MQM annotations:\n\"good, but the platform\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 173, "review": "MQM annotations:\n\"customer\", but in the - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1256}
+{"id": 174, "review": "MQM annotations:\n\"supporting protests hack president's\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1261}
+{"id": 175, "review": "MQM annotations:\n\"This backpack is quite\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1255}
+{"id": 176, "review": "MQM annotations:\n\"If you do not\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1259}
+{"id": 177, "review": "MQM annotations:\n\"is not displayed and\" - mistranslation - 66", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 178, "review": "MQM annotations:\n\"the promises made by\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1256}
+{"id": 179, "review": "MQM annotations:\n\"the PS4, and is\" - mistranslation - 50", "severity": "minor", "category": "mistranslation", "total_token": 1255}
+{"id": 180, "review": "MQM annotations:\n\"should meet the requirements\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1259}
+{"id": 181, "review": "MQM annotations:\n\"Syria at more than\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 182, "review": "MQM annotations:\n\"label, with granules, definitely\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1269}
+{"id": 183, "review": "MQM annotations:\n\"audience for this document\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1257}
+{"id": 184, "review": "MQM annotations:\n\"Shenzhen: Building the No.\" - fluency (punctuation) - 25", "severity": "minor", "category": "punctuation", "total_token": 1266}
+{"id": 185, "review": "MQM annotations:\n\"flaws, but the tone\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1248}
+{"id": 186, "review": "MQM annotations:\n\"interacts intimately with his\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1257}
+{"id": 187, "review": "MQM annotations:\n\"fire, supporting the views\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1267}
+{"id": 188, "review": "MQM annotations:\n\"that the sound quality\" - incorrect word order - 12", "severity": "minor", "category": "word order", "total_token": 1260}
+{"id": 189, "review": "MQM annotations:\n\" \"Plan\" proposes to accelerate \" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1255}
+{"id": 190, "review": "MQM annotations:\n\"the product and keep\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1257}
+{"id": 191, "review": "MQM annotations:\n\"energy efficiency of 5G\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1259}
+{"id": 192, "review": "MQM annotations:\n\"buyer bears all shipping\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1253}
+{"id": 193, "review": "MQM annotations:\n\"that Alphabet shares plummeted\" - omission - 55", "severity": "major", "category": "omission", "total_token": 1262}
+{"id": 194, "review": "MQM annotations:\n\"Agency] [Editor: Li Xufeng]\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 195, "review": "MQM annotations:\n\"I will buy all\" - mistranslation - 35", "severity": "minor", "category": "mistranslation", "total_token": 1254}
+{"id": 196, "review": "MQM annotations:\n\"won't continue to buy\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1246}
+{"id": 197, "review": "MQM annotations:\n\"I admire you, and\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1248}
+{"id": 198, "review": "MQM annotations:\n\"four-byte part contains Chinese\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 199, "review": "MQM annotations:\n\"convenient to receive packages in\" - fluency (grammar) - 25", "severity": "minor", "category": "grammar", "total_token": 1279}
+{"id": 200, "review": "MQM annotations:\n\"frequently spreads, which has a\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1282}
+{"id": 201, "review": "MQM annotations:\n\"copied paragraph as the review\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1279}
+{"id": 202, "review": "MQM annotations:\n\"Singapore and Brunei, Prime Minister\" - incorrect word order - 25\n", "severity": "minor", "category": "word order", "total_token": 1286}
+{"id": 203, "review": "MQM annotations:\n\"must contact Quanfeng Express, which\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 204, "review": "MQM annotations:\n\"agency account systems are independent\" - terminology - 38", "severity": "minor", "category": "terminology", "total_token": 1266}
+{"id": 205, "review": "MQM annotations:\n\"it as not as loose\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1265}
+{"id": 206, "review": "MQM annotations:\n\"data from Canada also indicate\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1279}
+{"id": 207, "review": "MQM annotations:\n\"of non-internationally controlled substances is\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 208, "review": "MQM annotations:\n\"was a short sleeve that\" - mistranslation - 60", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 209, "review": "MQM annotations:\n\"The product was purchased on\" - mistranslation - 50", "severity": "minor", "category": "mistranslation", "total_token": 1270}
+{"id": 210, "review": "MQM annotations:\n\"use and supply may change,\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1270}
+{"id": 211, "review": "MQM annotations:\n\"announced the allocation of nearly\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1273}
+{"id": 212, "review": "MQM annotations:\n\"were flashing and it couldn't\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1270}
+{"id": 213, "review": "MQM annotations:\n\"what you buy, especially if\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1262}
+{"id": 214, "review": "MQM annotations:\n\"lacks the spirit of the\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 215, "review": "MQM annotations:\n\"brushing every day, and charging\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1272}
+{"id": 216, "review": "MQM annotations:\n\"damaged the product and then\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1280}
+{"id": 217, "review": "MQM annotations:\n\"is a crisis in Taiwan,\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1262}
+{"id": 218, "review": "MQM annotations:\n\"this document and the documents\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1261}
+{"id": 219, "review": "MQM annotations:\n\"since 2011, the use of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1284}
+{"id": 220, "review": "MQM annotations:\n\"is 'great health has a\" - mistranslation - 70", "severity": "no-error", "category": "no-error", "total_token": 1266}
+{"id": 221, "review": "MQM annotations:\n\"they are divided into two\" - grammar - 40", "severity": "minor", "category": "grammar", "total_token": 1263}
+{"id": 222, "review": "MQM annotations:\n\"the goods from Amazon are\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 223, "review": "MQM annotations:\n\" Brunei is one of the \" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1266}
+{"id": 224, "review": "MQM annotations:\n\"always trusted Philips, and I\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1274}
+{"id": 225, "review": "MQM annotations:\n\"of the People's Republic of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1262}
+{"id": 226, "review": "MQM annotations:\n\"know when it will be\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1260}
+{"id": 227, "review": "MQM annotations:\n\"I use this paragraph to\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 228, "review": "MQM annotations:\n\"called for changes in Soviet-dominated\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 229, "review": "MQM annotations:\n\"placed on the 3rd and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1268}
+{"id": 230, "review": "MQM annotations:\n\"the 'integrity, harmony, quality, excellence'\" - incorrect word order - 20", "severity": "no-error", "category": "no-error", "total_token": 1300}
+{"id": 231, "review": "MQM annotations:\n\"office, the whole room was\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1267}
+{"id": 232, "review": "MQM annotations:\n\"code positions have been changed\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1296}
+{"id": 233, "review": "MQM annotations:\n\"you use it, you must\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1261}
+{"id": 234, "review": "MQM annotations:\n\"relevant telecommunications company did not\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1264}
+{"id": 235, "review": "MQM annotations:\n\"in the rubble of the\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1273}
+{"id": 236, "review": "MQM annotations:\n\"microphone can be pointed at\" - fluency (awkward phrasing) - 20", "severity": "minor", "category": null, "total_token": 1276}
+{"id": 237, "review": "MQM annotations:\n\"be meticulous and strictly control\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1266}
+{"id": 238, "review": "MQM annotations:\n\"I only received it on\" - addition - 20", "severity": "minor", "category": "addition", "total_token": 1266}
+{"id": 239, "review": "MQM annotations:\n\"was supposed to be brought\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 240, "review": "MQM annotations:\n\"a 16-year-old boy and a\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1304}
+{"id": 241, "review": "MQM annotations:\n\"bare product as some online\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1278}
+{"id": 242, "review": "MQM annotations:\n\"spy balloon found in the\" - incorrect word order - 21", "severity": "minor", "category": "word order", "total_token": 1288}
+{"id": 243, "review": "MQM annotations:\n\"the end, there was only\" - fluency (inconsistency) - 11", "severity": "minor", "category": "inconsistency", "total_token": 1272}
+{"id": 244, "review": "MQM annotations:\n\"third in the local university\" - fluency (grammar) - 25", "severity": "minor", "category": "grammar", "total_token": 1282}
+{"id": 245, "review": "MQM annotations:\n\"not been used for more\" - incorrect word order - 23", "severity": "minor", "category": "word order", "total_token": 1274}
+{"id": 246, "review": "MQM annotations:\n\"whim of your couriers, why\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1287}
+{"id": 247, "review": "MQM annotations:\n\"I bought a mobile phone\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 248, "review": "MQM annotations:\n\"of people you know, and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1298}
+{"id": 249, "review": "MQM annotations:\n\"standby mode, activate the voice\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1278}
+{"id": 250, "review": "MQM annotations:\n\"and a more mature trading\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1274}
+{"id": 251, "review": "MQM annotations:\n\"the morning of the third\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1259}
+{"id": 252, "review": "MQM annotations:\n\"earning money that users do\" - mistranslation - 60", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 253, "review": "MQM annotations:\n\"I wonder if it's a\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1269}
+{"id": 254, "review": "MQM annotations:\n\"teams were dispatched to assess\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1278}
+{"id": 255, "review": "MQM annotations:\n\"taken the first photo of\" - omission - 65", "severity": "major", "category": "omission", "total_token": 1272}
+{"id": 256, "review": "MQM annotations:\n\"such as the payment of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1270}
+{"id": 257, "review": "MQM annotations:\n\"Beijing, where a subsidy of\" - mistranslation - 66", "severity": "major", "category": "mistranslation", "total_token": 1269}
+{"id": 258, "review": "MQM annotations:\n\"as the items purchased are\" - addition - 47", "severity": "minor", "category": "addition", "total_token": 1263}
+{"id": 259, "review": "MQM annotations:\n\"new active substances on the\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1264}
+{"id": 260, "review": "MQM annotations:\n\"indicates that Amazon does not\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1282}
+{"id": 261, "review": "MQM annotations:\n\"the installation was easy, am\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1274}
+{"id": 262, "review": "MQM annotations:\n\"Reuters report today, Iran commemorated\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1277}
+{"id": 263, "review": "MQM annotations:\n\"that can't come out, it's\" - fluency (grammar) - 50", "severity": "minor", "category": "grammar", "total_token": 1267}
+{"id": 264, "review": "MQM annotations:\n\"that in 2018, 192 million\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1285}
+{"id": 265, "review": "MQM annotations:\n\"bad, and shopping on Amazon\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1285}
+{"id": 266, "review": "MQM annotations:\n\"it really that Amazon's own\" - grammar - 55", "severity": "major", "category": "grammar", "total_token": 1286}
+{"id": 267, "review": "MQM annotations:\n\"for silence, as they struggle\" - mistranslation - 52", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 268, "review": "MQM annotations:\n\"Asia - On February 9,\" - addition - 50", "severity": "minor", "category": "addition", "total_token": 1287}
+{"id": 269, "review": "MQM annotations:\n\"I can only provide feedback\" - mistranslation - 20", "severity": "minor", "category": "mistranslation", "total_token": 1266}
+{"id": 270, "review": "MQM annotations:\n\"Canada, Germany, the United States\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1268}
+{"id": 271, "review": "MQM annotations:\n\"US suppression of China's advanced\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1275}
+{"id": 272, "review": "MQM annotations:\n\"kilometers back from out of\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1262}
+{"id": 273, "review": "MQM annotations:\n\"mark the expected delivery date\" - mistranslation - 22", "severity": "minor", "category": "mistranslation", "total_token": 1274}
+{"id": 274, "review": "MQM annotations:\n\"solutions, and expects China's development\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 275, "review": "MQM annotations:\n\"the first listed company in\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 276, "review": "MQM annotations:\n\"that the main reason for\" - grammar - 40", "severity": "minor", "category": "grammar", "total_token": 1261}
+{"id": 277, "review": "MQM annotations:\n\"it's been like that, no\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 278, "review": "MQM annotations:\n\"either, and the time can't\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1270}
+{"id": 279, "review": "MQM annotations:\n\"it as a TV, and\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1270}
+{"id": 280, "review": "MQM annotations:\n\"largest declines were in rubber\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1285}
+{"id": 281, "review": "MQM annotations:\n\"of ordinary life, with no\" - mistranslation - 60", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 282, "review": "MQM annotation:\n\"card box is pressed open\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 283, "review": "MQM annotations:\n\"one I bought before was\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1279}
+{"id": 284, "review": "MQM annotations:\n\"export value of all 11\" - mistranslation - 50", "severity": "minor", "category": "mistranslation", "total_token": 1269}
+{"id": 285, "review": "MQM annotations:\n\"grateful, so that our lives\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1281}
+{"id": 286, "review": "MQM annotations:\n\"protecting the rights of healthy\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 287, "review": "MQM annotations:\n\"would be better to have\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 288, "review": "MQM annotations:\n\"the order again on Monday,\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1274}
+{"id": 289, "review": "MQM annotations:\n\"the two packages in one\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1260}
+{"id": 290, "review": "MQM annotations:\n\"Leader Ayatollah Ali Khamenei issued\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1310}
+{"id": 291, "review": "MQM annotations:\n\"time, Communist leaders were forced\" - incorrect word order - 21", "severity": "minor", "category": "word order", "total_token": 1275}
+{"id": 292, "review": "MQM annotations:\n\"book is less a collection\" - fluency (grammar) - 20  ", "severity": "minor", "category": "grammar", "total_token": 1277}
+{"id": 293, "review": "MQM annotations:\n\"of the low number of\" - mistranslation - 60", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 294, "review": "MQM annotations:\n\"and the closest location to\" - mistranslation - 57", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 295, "review": "MQM annotations:\n\"genuine and the quality is\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1273}
+{"id": 296, "review": "MQM annotations:\n\"31 rallied between 1.27 million\" - terminology (number format) - 20", "severity": "minor", "category": "terminology", "total_token": 1280}
+{"id": 297, "review": "MQM annotations:\n\"to consolidate account information due\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1271}
+{"id": 298, "review": "MQM annotations:\n\"I happened to see it\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 299, "review": "MQM annotations:\n\"it took three days for\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1272}
+{"id": 300, "review": "MQM annotations:\n\"cooperate with us and create\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1263}
+{"id": 301, "review": "MQM annotations:\n\"GOV-MO: Police Notice: The Superintendent\" - mistranslation - 60", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 302, "review": "MQM annotations:\n\"Taiwan has been clarifying its\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1276}
+{"id": 303, "review": "MQM annotations:\n\"agonists and small quantities of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 304, "review": "MQM annotations:\n\"the seller asking if the\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1276}
+{"id": 305, "review": "MQM annotations:\n\"of the camera used, truly\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1281}
+{"id": 306, "review": "MQM annotations:\n\"Moreover, regarding the issue of\" - addition - 15", "severity": "minor", "category": "addition", "total_token": 1285}
+{"id": 307, "review": "MQM annotations:\n\"US job market will underpin\" - mistranslation - 56", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 308, "review": "MQM annotations:\n\"life, which is vividly reflected\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1275}
+{"id": 309, "review": "MQM annotations:\n\"Conservation and Environmental Protection was\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1298}
+{"id": 310, "review": "MQM annotations:\n\"may have to find new\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1270}
+{"id": 311, "review": "MQM annotations:\n\"of the country's morality police\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1298}
+{"id": 312, "review": "MQM annotations:\n\"supermarket to buy when I\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1262}
+{"id": 313, "review": "MQM annotations:\n\"The semiconductor industry is a\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1278}
+{"id": 314, "review": "MQM annotations:\n\"the United States allow the\" - mistranslation - 72", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 315, "review": "MQM annotations:\n\"by governments have caused severe disruption\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 316, "review": "MQM annotations:\n\"Cicek, was rescued from the rubble\" - incorrect word order - 14", "severity": "minor", "category": "word order", "total_token": 1319}
+{"id": 317, "review": "MQM annotations:\n\"E-account\" APP has been launched in - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1291}
+{"id": 318, "review": "MQM annotations:\n\"today, the US is preparing to\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1278}
+{"id": 319, "review": "MQM annotations:\n\"off by a few seconds even\" - mistranslation - 53", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 320, "review": "MQM annotations:\n\"restrictions on movement also limit access\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1289}
+{"id": 321, "review": "MQM annotation:\n\"few steps away from her husband\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1295}
+{"id": 322, "review": "MQM annotations:\n\"the originally hopeless rescue work, but\" - mistranslation - 52", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 323, "review": "MQM annotations:\n\"whether they receive enough recognition and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1285}
+{"id": 324, "review": "MQM annotations:\n\"nearly half more than the previous\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 325, "review": "MQM annotations:\n\"called on the Commission to \"immediately\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1300}
+{"id": 326, "review": "MQM annotations:\n\"Shanghai for inspection at my own\" - incorrect word order - 28", "severity": "minor", "category": "word order", "total_token": 1281}
+{"id": 327, "review": "MQM annotations:\n\"Japanese media, Kishida hoped to use\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1292}
+{"id": 328, "review": "MQM annotations:\n\"adjusted in this document (see Appendix\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1311}
+{"id": 329, "review": "MQM annotations:\n\"are all in English, which is\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1285}
+{"id": 330, "review": "MQM annotations:\n\" FPT University in Vietnam, with the \" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1290}
+{"id": 331, "review": "MQM annotations:\n\"shipment I've seen in a long\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1301}
+{"id": 332, "review": "MQM annotations:\n\"it's a pity not to use\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 333, "review": "MQM annotations:\n\"accordance with the provisions of GB/T\" - terminology - 20", "severity": "minor", "category": "terminology", "total_token": 1299}
+{"id": 334, "review": "MQM annotations:\n\"such as fentanyl, has led to\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 335, "review": "MQM annotations:\n\"trapped under the ruins for 129\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1290}
+{"id": 336, "review": "MQM annotations:\n\"you can smell the strong scent\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1293}
+{"id": 337, "review": "MQM annotations:\n\"I'm not sure what to put\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1288}
+{"id": 338, "review": "MQM annotations:\n\"been found, and life signs and\" - mistranslation - 45", "severity": "minor", "category": "mistranslation", "total_token": 1299}
+{"id": 339, "review": "MQM annotations:\n\"is unswervingly expanding its opening-up, the\" - grammar - 18", "severity": "minor", "category": "grammar", "total_token": 1295}
+{"id": 340, "review": "MQM annotations:\n\"the water box top at the\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1276}
+{"id": 341, "review": "MQM annotations:\n\"NPS accounted for only 2% of\" - mistranslation - 28", "severity": "minor", "category": "mistranslation", "total_token": 1314}
+{"id": 342, "review": "MQM annotations:\n\"high school, but I just couldn't\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 343, "review": "MQM annotations:\n\"headset really isn't as good as\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1284}
+{"id": 344, "review": "MQM annotations:\n\"tension between supply and demand in\" - terminology - 22", "severity": "minor", "category": "terminology", "total_token": 1275}
+{"id": 345, "review": "MQM annotations:\n\"the end of 2023, the proportion\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 346, "review": "MQM annotations:\n\"the bone tissue to support and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1295}
+{"id": 347, "review": "MQM annotations:\n\"was not good, and there is\" - mistranslation - 27", "severity": "minor", "category": "mistranslation", "total_token": 1274}
+{"id": 348, "review": "MQM annotations:\n\"affirmation, thoughtful moments, acts of service,\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 349, "review": "MQM annotations:\n\"can be obtained for just over\" - mistranslation - 61", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 350, "review": "MQM annotations:\n\"for all characters within the scope\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1283}
+{"id": 351, "review": "MQM annotations:\n\"but not very suitable for people\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1298}
+{"id": 352, "review": "MQM annotations:\n\"in urgent need, just send it\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 353, "review": "MQM annotations:\n\"used either as an adulterant in\" - incorrect word order - 10", "severity": "minor", "category": "word order", "total_token": 1316}
+{"id": 354, "review": "MQM annotations:\n\"the items were returned exactly as\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1289}
+{"id": 355, "review": "MQM annotations:\n\"and printing of the images are simply\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1313}
+{"id": 356, "review": "MQM annotations:\n\"the Vietnamese Government, Fan Mingzheng, and his\" - mistranslation - 30", "severity": "minor", "category": "mistranslation", "total_token": 1300}
+{"id": 357, "review": "MQM annotations:\n\"often tens of thousands per tooth, has\" - mistranslation - 58", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 358, "review": "MQM annotations:\n\"national mobilization against the government's pension reform\" - incorrect word order - 10", "severity": "minor", "category": "word order", "total_token": 1307}
+{"id": 359, "review": "MQM annotations:\n\"garner more political support for stronger U.S.\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1302}
+{"id": 360, "review": "MQM annotations:\n\"Finally, when I touched the headphone cord,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1292}
+{"id": 361, "review": "MQM annotations:\n\"an amnesty marking the anniversary of the\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1329}
+{"id": 362, "review": "MQM annotations:\n\"with GB 18030-2005, besides structural adjustments and\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1325}
+{"id": 363, "review": "MQM annotations:\n\"jet, the F-22, to shoot down an\" - incorrect word order - 16", "severity": "minor", "category": "word order", "total_token": 1323}
+{"id": 364, "review": "MQM annotations:\n\"very fast, arriving the day after the\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1295}
+{"id": 365, "review": "MQM annotations:\n\"on my request and informed me that\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1294}
+{"id": 366, "review": "MQM annotations:\n\" similar trend had been observed in other \" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1304}
+{"id": 367, "review": "MQM annotations:\n\"use, but there is a gap between\" - fluency - 25", "severity": "minor", "category": null, "total_token": 1296}
+{"id": 368, "review": "MQM annotations:\n\"they have informed the governments of more\" - incorrect word order - 22", "severity": "minor", "category": "word order", "total_token": 1297}
+{"id": 369, "review": "MQM annotations:\n\"and improve the quality of 5G network\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1295}
+{"id": 370, "review": "MQM annotations:\n\"in how to do it. It just\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1294}
+{"id": 371, "review": "MQM annotations:\n\"a story compiled for the sake of\" - fluency (grammar) - 20", "severity": "minor", "category": "grammar", "total_token": 1288}
+{"id": 372, "review": "MQM annotations:\n\"Iran held an official rally on Saturday\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1311}
+{"id": 373, "review": "MQM annotations:\n\"according to data from the National Aeronautics\" - mistranslation - 35", "severity": "minor", "category": "mistranslation", "total_token": 1315}
+{"id": 374, "review": "MQM annotations:\n\"Compared to the Philips product of the\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1300}
+{"id": 375, "review": "MQM annotations:\n\"introduce more commercial and leisure activities to\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 376, "review": "MQM annotations:\n\"of this year, with the accelerated implementation\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 377, "review": "MQM annotations:\n\"it for 280 yuan during a promotion,\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1295}
+{"id": 378, "review": "MQM annotations:\n\"National Development and Reform Commission, attended the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1287}
+{"id": 379, "review": "MQM annotations:\n\"panel are not consistent, after piecing together\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1300}
+{"id": 380, "review": "MQM annotations:\n\"to lag further, owing to excess savings\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1304}
+{"id": 381, "review": "MQM annotations:\n\"face of various unexpected shocks, China responded\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 382, "review": "MQM annotations:\n\"have carried out deadly repression against protests,\" - mistranslation - 27", "severity": "minor", "category": "mistranslation", "total_token": 1313}
+{"id": 383, "review": "MQM annotations:\n\"himself. He is no longer a complete\" - grammar - 22", "severity": "minor", "category": "grammar", "total_token": 1294}
+{"id": 384, "review": "MQM annotations:\n\"to call, and during this time, I\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1300}
+{"id": 385, "review": "MQM annotations:\n\"piece of the courier, so I could\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1316}
+{"id": 386, "review": "MQM annotations:\n\"uncomfortable. Modern urban people are a bit\" - fluency - 25", "severity": "minor", "category": null, "total_token": 1303}
+{"id": 387, "review": "MQM annotations:\n\"of rubble, and then found the father,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 388, "review": "MQM annotations:\n\"growth rate, the number of new students\" - mistranslation - 35", "severity": "minor", "category": "mistranslation", "total_token": 1326}
+{"id": 389, "review": "MQM annotations:\n\"Trade and Industry of Japan, and the Japan-China\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1320}
+{"id": 390, "review": "MQM annotations:\n\"and production, and marketing and trade. It mainly\" - fluency (grammar) - 25", "severity": "minor", "category": "grammar", "total_token": 1333}
+{"id": 391, "review": "MQM annotations:\n\"I previously bought online from another store had\" - terminology - 25", "severity": "minor", "category": "terminology", "total_token": 1298}
+{"id": 392, "review": "MQM annotations:\n\"EU was reportedly a response to the growing \" - incorrect word order - 21", "severity": "minor", "category": "word order", "total_token": 1312}
+{"id": 393, "review": "MQM annotations:\n\"and verifies them one by one through online\" - incorrect word order - 35", "severity": "minor", "category": "word order", "total_token": 1312}
+{"id": 394, "review": "MQM annotations:\n\"holding this forum is an important measure to\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1307}
+{"id": 395, "review": "MQM annotations:\n\"Kong, and are highly recommended if they are\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1300}
+{"id": 396, "review": "MQM annotations:\n\"the 'Action Plan to Strengthen the Comprehensive Partnership\" - mistranslation - 61", "severity": "minor", "category": "word order", "total_token": 1334}
+{"id": 397, "review": "MQM annotations:\n\"to open more bases to the US military\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1290}
+{"id": 398, "review": "MQM annotations:\n\"Chinese medical aid teams abroad, and sincere condolences\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 399, "review": "MQM annotations:\n\"person in charge of the organization came forward\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1299}
+{"id": 400, "review": "MQM annotations:\n\"Due to reasons such as Chinese and Western\" - grammar - 45", "severity": "minor", "category": "grammar", "total_token": 1302}
+{"id": 401, "review": "MQM annotations:\n\"the devastating earthquake in Turkey and neighboring Syria,\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1328}
+{"id": 402, "review": "MQM annotations:\n\"tourists put their health at the top of\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1306}
+{"id": 403, "review": "MQM annotations:\n\"half of the people in the country invested\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 404, "review": "MQM annotations:\n\"- the desire to be understood, affirmed, and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1311}
+{"id": 405, "review": "MQM annotations:\n\"situation in the affected area and the situation\" - no-error - 10", "severity": "no-error", "category": "no-error", "total_token": 1293}
+{"id": 406, "review": "MQM annotations:\n\"mistake, but I couldn't cancel the order. The\" - omission - 50", "severity": "minor", "category": "omission", "total_token": 1298}
+{"id": 407, "review": "MQM annotations:\n\"continuous advancement of the BSE market system, improving\" - omission - 65", "severity": "major", "category": "omission", "total_token": 1301}
+{"id": 408, "review": "MQM annotations:\n\"12th. It was almost 10 days in advance.\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1313}
+{"id": 409, "review": "MQM annotations:\n\"points out that since 2020, the number of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1299}
+{"id": 410, "review": "MQM annotations:\n\"No errors\" - 10", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 411, "review": "MQM annotations:\n\"harm have been shown to cause overdose deaths\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 412, "review": "MQM annotations:\n\"his wife's official visits to Singapore and Brunei\" - mistranslation - 62", "severity": "major", "category": "mistranslation", "total_token": 1325}
+{"id": 413, "review": "MQM annotations:\n\"or a wage strike, so trade unions hope that\" - mistranslation - 61", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 414, "review": "MQM annotations:\n\"news from the \"Shenzhen Gongxin\" WeChat public account on\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1326}
+{"id": 415, "review": "MQM annotations:\n\"in Turkey after being trapped for 122 hours, following\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1335}
+{"id": 416, "review": "MQM annotations:\n\"some member states say that if the EU could\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1329}
+{"id": 417, "review": "MQM annotations:\n\"China is willing to work with Japan to continue\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1313}
+{"id": 418, "review": "MQM annotations:\n\"last year, and it is now the fifth official\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1325}
+{"id": 419, "review": "MQM annotations:\n\"are hoping for more than a million people to\" - fluency - 20", "severity": "minor", "category": null, "total_token": 1328}
+{"id": 420, "review": "MQM annotations:\n\"buyers who believe that due to information asymmetry, it\" - incorrect word order - 35", "severity": "minor", "category": "word order", "total_token": 1314}
+{"id": 421, "review": "MQM annotations:\n\"or six in the evening. However, when I called\" - mistranslation - 20", "severity": "minor", "category": "mistranslation", "total_token": 1313}
+{"id": 422, "review": "MQM annotations:\n\"industries, many US companies have been deeply affected, including\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1342}
+{"id": 423, "review": "MQM annotations:\n\"reviews, so that other consumers will use them as\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1314}
+{"id": 424, "review": "MQM annotations:\n\"hundreds of synthetic drugs have been added, many of\" - mistranslation - 28", "severity": "minor", "category": "mistranslation", "total_token": 1330}
+{"id": 425, "review": "MQM annotations:\n\"temporarily close some of their branches due to operational\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1316}
+{"id": 426, "review": "MQM annotations:\n\"different sales organizations, but through the \"Fund E Account\",\" - mistranslation - 29", "severity": "minor", "category": "mistranslation", "total_token": 1323}
+{"id": 427, "review": "MQM annotations:\n\"read the product specifications clearly. I have no problem\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1309}
+{"id": 428, "review": "MQM annotations:\n\"to develop a health and wellness attraction on the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1325}
+{"id": 429, "review": "MQM annotations:\n\"returned once signed for. I had no choice but\" - mistranslation - 55", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 430, "review": "MQM annotations:\n\"amounted to US $31.51 billion, a decrease of 21.2\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1321}
+{"id": 431, "review": "MQM annotations:\n\"whispered to each other\" - no-error\n\"cheeks with both hands\" - incorrect word order - 25", "severity": "no-error", "category": "no-error", "total_token": 1356}
+{"id": 432, "review": "MQM annotations:  \n\"and saw that the order was still there and had\" - mistranslation - 64", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 433, "review": "MQM annotations:\n\"China Wealth Management Network released the first batch of personal\" - omission - 47", "severity": "minor", "category": "omission", "total_token": 1322}
+{"id": 434, "review": "MQM annotations:\n\" in hand with her father, she touched Kim Jong-un's chest \" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1345}
+{"id": 435, "review": "MQM annotations:\n\"to drug use disorders in 2017, and 50 percent of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1352}
+{"id": 436, "review": "MQM annotations:\n\"and immediately received a notification from the financial institution about\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1314}
+{"id": 437, "review": "MQM annotations:\n\"the United States, Colorado and Washington, non-medical use of cannabis\" - incorrect word order - 60", "severity": "major", "category": "word order", "total_token": 1347}
+{"id": 438, "review": "MQM annotations:\n\"the 'Fund E Account' provides individual investors with a 'one-stop'\" - incorrect word order - 21", "severity": "major", "category": "word order", "total_token": 1335}
+{"id": 439, "review": "MQM annotations:\n\"that their stores did not operate normally after the Spring\" - incorrect word order - 55", "severity": "major", "category": "word order", "total_token": 1317}
+{"id": 440, "review": "MQM annotations:\n\"the 31,000 deaths caused by the 2003 earthquake in neighbouring\" - incorrect word order - 52", "severity": "major", "category": "word order", "total_token": 1374}
+{"id": 441, "review": "MQM annotations:\n\"of 8G memory cards, and that smaller memory cards cannot\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1326}
+{"id": 442, "review": "MQM annotations:\n\"the strength of consumer credit data, we judge that the\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1333}
+{"id": 443, "review": "MQM annotations:\n\"didn't give it a full score is because once when\" - fluency (punctuation and grammar) - 25", "severity": "minor", "category": "grammar", "total_token": 1323}
+{"id": 444, "review": "MQM annotations:\n\"Zheng Yonggang served as the director of the state-owned cotton\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1346}
+{"id": 445, "review": "MQM annotations:\n\"didn't make any exaggerated claims, but Amazon changed the name\" - mistranslation - 74", "severity": "major", "category": "mistranslation", "total_token": 1330}
+{"id": 446, "review": "MQM annotations:\n\"but relatively low; new jobs in high-touch services, such as\" - incorrect word order - 12", "severity": "minor", "category": "word order", "total_token": 1338}
+{"id": 447, "review": "MQM annotations:\n\"improve the speed and efficiency of the company's product flow,\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1324}
+{"id": 448, "review": "MQM annotations:\n\"regular facial features, no obvious hair loss, and nearsightedness not\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1338}
+{"id": 449, "review": "MQM annotations:\n\"college degree or above, or be enrolled in a college\" - mistranslation - 63", "severity": "minor", "category": "mistranslation", "total_token": 1325}
+{"id": 450, "review": "MQM annotations:\n\"taken to the extreme, and the plot is as quiet\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1331}
+{"id": 451, "review": "MQM annotations:\n\"the efforts and process of the two sides to stabilize\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1323}
+{"id": 452, "review": "MQM annotations:\n\"the Singapore Tourism Board, tourist arrivals in 2022 increased 19-fold to\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1368}
+{"id": 453, "review": "MQM annotations:\n\"(Deutsche Welle Chinese website) Several days have passed since the earthquake\" - mistranslation - 48", "severity": "minor", "category": "mistranslation", "total_token": 1351}
+{"id": 454, "review": "MQM annotations:\n\"above or school students\" - incorrect word order - 65", "severity": "minor", "category": "mistranslation", "total_token": 1331}
+{"id": 455, "review": "MQM annotations:\n\"and launched new promotional videos on online and offline platforms for\" - fluency - 25", "severity": "minor", "category": null, "total_token": 1339}
+{"id": 456, "review": "MQM annotations:\n\"that I shouldn't have bought their product in the first place.\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1341}
+{"id": 457, "review": "MQM annotations:\n\"implementing Xi Jinping Thought on Socialism with Chinese Characteristics for a \" - mistranslation - 50", "severity": "minor", "category": "mistranslation", "total_token": 1360}
+{"id": 458, "review": "MQM annotations:\n\"Marquez's Love in the Time of Cholera), and the brief segments\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1364}
+{"id": 459, "review": "MQM annotations:\n\"8th, North Korea held a military parade for the 75th anniversary\" - mistranslation - 25", "severity": "minor", "category": "mistranslation", "total_token": 1349}
+{"id": 460, "review": "MQM annotations:\n\"Prime Minister Pham Minh Chinh and his wife visited the University\" - incorrect word order - 15", "severity": "minor", "category": "word order", "total_token": 1360}
+{"id": 461, "review": "MQM annotations:\n\"to prevent it from being opened, but this time there wasn't.\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1321}
+{"id": 462, "review": "MQM annotations:\n\"National People's Congress of China are held, where representatives and members\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1334}
+{"id": 463, "review": "MQM annotations:\n\"Yonggang stated in his speech that in the Chinese suit market\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1358}
+{"id": 464, "review": "MQM annotations:\n\"want it and wanted to cancel the order but couldn't. The\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1327}
+{"id": 465, "review": "MQM annotations:\n\"anniversary of the Iranian Revolution, the hardline government of Raisi faces\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1366}
+{"id": 466, "review": "MQM annotations:\n\"Dongguan Lingkong Remote Sensing Technology Co., Ltd., Yingmen Aviation Technology Group\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1371}
+{"id": 467, "review": "MQM annotations:\n\"willing to be a good friend and reliable partner of all\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1343}
+{"id": 468, "review": "MQM annotations:\n\"scientific and technological innovation and inject new impetus into economic and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1333}
+{"id": 469, "review": "MQM annotations:\n\"set of andrological physical examination worth 1,000 RMB, especially semen and chromosome\" - incorrect word order - 45", "severity": "no-error", "category": "no-error", "total_token": 1356}
+{"id": 470, "review": "MQM annotations:\n\"Standing Committee member of the Political Bureau of the Communist Party of\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1330}
+{"id": 471, "review": "MQM annotations:\n\"style is an exploratory endeavor, with many unknown areas that need to\" - incorrect word order - 21", "severity": "minor", "category": "word order", "total_token": 1333}
+{"id": 472, "review": "MQM annotations:\n\"on one hand, and building a 'de-Sinicized' semiconductor industry chain alliance on\" - incorrect word order - 40", "severity": "minor", "category": "word order", "total_token": 1367}
+{"id": 473, "review": "MQM annotations:\n\"Belgium\" - incorrect word order - 25\n\"EU\" - omission - 50", "severity": "minor", "category": "word order", "total_token": 1369}
+{"id": 474, "review": "MQM annotations:\n\"Bank of Shaanxi Province printed a poster with the slogan 'Paid Sperm\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1353}
+{"id": 475, "review": "MQM annotations:\n\"Later, I found out that it should be a problem with the\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1334}
+{"id": 476, "review": "MQM annotations:\n\"railway company called for a strike today, and the bus system should\" - incorrect word order - 50", "severity": "minor", "category": "word order", "total_token": 1348}
+{"id": 477, "review": "MQM annotations:\n\"skimpy, just a cardboard box with no protection whatsoever, and the box\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1340}
+{"id": 478, "review": "MQM annotations:\n\"demographics or general drug use patterns, are struggling to combat an opioid crisis\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1377}
+{"id": 479, "review": "MQM annotations:\n\"62 to 64, but the number of people who actually took to the\" - fluency (punctuation) - 20", "severity": "minor", "category": "punctuation", "total_token": 1356}
+{"id": 480, "review": "MQM annotations:\n\"and 34 cm wide, similar to the complete works of Michelangelo; the medium\" - incorrect word order - 52", "severity": "major", "category": "word order", "total_token": 1368}
+{"id": 481, "review": "MQM annotations:\n\"It requires both systematic planning and the courage to reform and innovate, continuously\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1357}
+{"id": 482, "review": "MQM annotations:\n\"and low-latency ultra-broadband network will be built to achieve the goal of 'dual\" - incorrect word order - 40", "severity": "no-error", "category": "no-error", "total_token": 1377}
+{"id": 483, "review": "MQM annotations:\n\"Strategic Competition between the United States and the Communist Party of China may put\" - incorrect word order - 30", "severity": "minor", "category": "word order", "total_token": 1361}
+{"id": 484, "review": "MQM annotations:\n\"between the straw and the cap was too close. Because the position of the\" - mistranslation - 40", "severity": "minor", "category": "mistranslation", "total_token": 1367}
+{"id": 485, "review": "MQM annotations:\n\"of 189,000; the unemployment rate fell to 3.4%, the lowest level in nearly 50\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1419}
+{"id": 486, "review": "MQM annotations:\n\"states could not prevent refugees from submitting 'countless' asylum applications in EU countries, leaving\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1396}
+{"id": 487, "review": "MQM annotations:\n\"when the diapers from JD.com had a strong smell after opening, the customer service\" - incorrect word order - 28", "severity": "minor", "category": "word order", "total_token": 1370}
+{"id": 488, "review": "MQM annotations:\n\"to log on to fake websites for redemption with the bait of redeeming rewards\" - fluency (incorrect word order) - 45", "severity": "minor", "category": "word order", "total_token": 1367}
+{"id": 489, "review": "MQM annotations:\n\"size of a small car, and much smaller than the Chinese spy balloon that\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1398}
+{"id": 490, "review": "MQM annotations:\n\"compared to 1.89 billion Singapore dollars in 2021, and has recovered to about 50% to\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1414}
+{"id": 491, "review": "MQM annotations:\n\"I bought this phone, I thought about the two feelings at the time, we could\" - mistranslation - 67", "severity": "major", "category": "mistranslation", "total_token": 1374}
+{"id": 492, "review": "MQM annotations:\n\"the Central Military Commission, wrote back to the 19th batch of Chinese medical team members assisting\" - incorrect word order - 55", "severity": "major", "category": "word order", "total_token": 1387}
+{"id": 493, "review": "MQM annotations:\n\"times when I saw Samsung mobile phone, I thought of her, and the pain filled my\" - incorrect word order - 45", "severity": "minor", "category": "word order", "total_token": 1403}
+{"id": 494, "review": "MQM annotations:\n\"with Wang Huning, a member of the Standing Committee of the Political Bureau of the CPC Central\" - incorrect word order - 20", "severity": "minor", "category": "word order", "total_token": 1375}
+{"id": 495, "review": "MQM annotations:\n\"which could be easily read as a paperback edition; secondly, unlike the complete Michelangelo collection, which was\" - mistranslation - 54", "severity": "major", "category": "mistranslation", "total_token": 1421}
+{"id": 496, "review": "MQM annotations:\n\"mission, vigorously promote the spirit of the Chinese medical team that is not afraid of hardship, willing to\" - incorrect word order - 48", "severity": "minor", "category": "word order", "total_token": 1395}
+{"id": 497, "review": "MQM annotations:\n\" Korea to establish a \"technology alliance\", or establishing a chip \"quadrilateral alliance\" with South Korea, Japan, and Taiwan, China, or establishing a \" - grammar - 54", "severity": "major", "category": "grammar", "total_token": 1494}
+{"id": 498, "review": "MQM annotations:\n\"Characteristics for a New Era and the spirit of the 20th Party Congress at the Central Party School (National School of Administration) in the afternoon.\" - incorrect word order - 25", "severity": "minor", "category": "word order", "total_token": 1443}
+{"id": 499, "review": "MQM annotations:\n\"colleagues around me and they all said\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1500}
+{"id": 500, "review": "MQM annotations:\n\"I gave a\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 501, "review": "MQM annotations:\n\"second incoming call\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 502, "review": "MQM annotations:\n\"will not be\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 503, "review": "MQM annotations:\n\"Huawei is the\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1239}
+{"id": 504, "review": "MQM annotations:\n\"delivery man was\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 505, "review": "MQM annotations:\n\"was a disappointment.\" - mistranslation - 77", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 506, "review": "MQM annotations:\n\"feeling too good\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 507, "review": "MQM annotations:\n\"used 3-4 times.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 508, "review": "MQM annotations:\n\"will take a\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 509, "review": "MQM annotations:\n\"often can't connect\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 510, "review": "MQM annotations:\n\"the color is\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 511, "review": "MQM annotations:\n\"The terminology fluctuates\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 512, "review": "MQM annotations:\n\"I became a\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 513, "review": "MQM annotations:\n\"mattress is really\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1247}
+{"id": 514, "review": "MQM annotations:\n\"cut is too\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 515, "review": "MQM annotations:\n\"they mentioned some\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1238}
+{"id": 516, "review": "MQM annotations:\n\"think this is\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 517, "review": "MQM annotations:\n\"be that I'm\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 518, "review": "MQM annotations:\n\"A Quick Guide\" - addition - 85", "severity": "major", "category": "addition", "total_token": 1240}
+{"id": 519, "review": "MQM annotations:\n\"on Saturday and\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 520, "review": "MQM annotations:\n\"Amazon's self-operated products\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 521, "review": "MQM annotations:\n\"News Financial Reporter\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 522, "review": "MQM annotations:\n\"high-quality city-level wireless\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 523, "review": "MQM annotations:\n\"think I'll get\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 524, "review": "MQM annotations:\n\"not a large\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1243}
+{"id": 525, "review": "MQM annotations:\n\"Give credit where\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 526, "review": "MQM annotations:\n\"have a few\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1237}
+{"id": 527, "review": "MQM annotations:\n\"PS: The wheels\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 528, "review": "MQM annotations:\n\"service were not\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 529, "review": "MQM annotations:\n\"restrictions on technology\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 530, "review": "MQM annotations:\n\"on the front.\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 531, "review": "MQM annotations:\n\"Suitable for skimming,\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 532, "review": "MQM annotations:\n\"breathability is also\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 533, "review": "MQM annotations:\n\"The material of\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1238}
+{"id": 534, "review": "MQM annotations:\n\"some characters and\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 535, "review": "MQM annotations:\n\"not as good\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 536, "review": "MQM annotations:\n\"can I love\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 537, "review": "MQM annotations:\n\"response from the\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 538, "review": "MQM annotations:\n\"The worst shopping\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1238}
+{"id": 539, "review": "MQM annotations:\n\"1. Big brands\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 540, "review": "MQM annotations:\n\"see more improvements\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1243}
+{"id": 541, "review": "MQM annotations:\n\"be said to\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 542, "review": "MQM annotations:\n\"The balloon incident\" - addition - 85", "severity": "major", "category": "addition", "total_token": 1239}
+{"id": 543, "review": "MQM annotation:\n\"telephone number on\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 544, "review": "MQM annotations:\n\"the book feels\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 545, "review": "MQM annotations:\n\"grind the instep\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 546, "review": "MQM annotations:\n\"the clothes is\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 547, "review": "MQM annotations:\n\"is also fast.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 548, "review": "MQM annotations:\n\"5 stars, poor\" - untranslated text - 90", "severity": "major", "category": "untranslated", "total_token": 1241}
+{"id": 549, "review": "MQM annotations:\n\"have been a\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1241}
+{"id": 550, "review": "MQM annotations:\n\"to eat, and\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 551, "review": "MQM annotations:\n\"we set two\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 552, "review": "MQM annotations:\n\"ask Amazon for\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 553, "review": "MQM annotations:\n\"anti-counterfeit label?\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 554, "review": "MQM annotations:\n\"purchase is not\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 555, "review": "MQM annotations:\n\"this was a\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1238}
+{"id": 556, "review": "MQM annotations:\n\"money be returned?\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 557, "review": "MQM annotations:\n\"an attitude towards\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 558, "review": "MQM annotations:\n\"Kuomintang considered it\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 559, "review": "MQM annotations:\n\"The appearance is\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 560, "review": "MQM annotations:\n\"The postal courier\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1239}
+{"id": 561, "review": "MQM annotations:\n\"service needs to\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1243}
+{"id": 562, "review": "MQM annotations:\n\"1 The packaging\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 563, "review": "MQM annotations:\n\"a poor review,\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 564, "review": "MQM annotations:\n\"Above average in\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1243}
+{"id": 565, "review": "MQM annotations:\n\"document specifies three\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1239}
+{"id": 566, "review": "MQM annotations:\n\"It's supposed to\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 567, "review": "MQM annotations:\n\"value for money\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1240}
+{"id": 568, "review": "MQM annotations:\n\"I'm really speechless\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1242}
+{"id": 569, "review": "MQM annotations:\n\"is simply unacceptable.\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 570, "review": "MQM annotations:\n\"That is why\" - addition - 75", "severity": "major", "category": "addition", "total_token": 1237}
+{"id": 571, "review": "MQM annotations:\n\"Is this how\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 572, "review": "MQM annotations:\n\"The Bentley watch\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1239}
+{"id": 573, "review": "MQM annotations:\n\"pension wealth management\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 574, "review": "MQM annotations:\n\"a long time,\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1244}
+{"id": 575, "review": "MQM annotations:\n\"11, 2023, 13:09:10 [Source: \" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1275}
+{"id": 576, "review": "MQM annotations:\n\"shootdown took place\" - mistranslation - 97", "severity": "major", "category": "untranslated", "total_token": 1288}
+{"id": 577, "review": "MQM annotations:\n\"the style is slim\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 578, "review": "MQM annotations:\n\"Combating the CCP, the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 579, "review": "MQM annotations:\n\"leader\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 580, "review": "MQM annotations:\n\"Double Eleven is much\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 581, "review": "MQM annotations:\n\"of synthetic opioids has\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 582, "review": "MQM annotations:\n\"rebounds strongly with a\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 583, "review": "MQM annotations:\n\"for that product designer.\u200f\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 584, "review": "MQM annotations:\n\"It is impossible, and\" - addition - 80", "severity": "major", "category": "addition", "total_token": 1245}
+{"id": 585, "review": "MQM annotations:\n\"Position Range Number of\" - untranslated text - 99", "severity": "major", "category": "untranslated", "total_token": 1258}
+{"id": 586, "review": "MQM annotations:\n\"worried that Alphabet is\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1249}
+{"id": 587, "review": "MQM annotations:\n\"in an air-conditioned room\" - mistranslation - 95", "severity": "major", "category": "untranslated", "total_token": 1253}
+{"id": 588, "review": "MQM annotations:\n\"part of our country's\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1259}
+{"id": 589, "review": "MQM annotations:\n\"take four or five\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 590, "review": "MQM annotations:\n\"product is mediocre and\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1260}
+{"id": 591, "review": "MQM annotations:\n\"head attachments are just\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 592, "review": "MQM annotations:\n\"Marijuana is the most\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1253}
+{"id": 593, "review": "MQM annotations:\n\"Estate Market - China\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 594, "review": "MQM annotations:\n\"you will get a\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 595, "review": "MQM annotations:\n\"market will gradually restart\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 596, "review": "MQM annotations:\n\"and the knobs are\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 597, "review": "MQM annotations:\n\"also a voice shouting\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 598, "review": "MQM annotations:\n\"kind of service is\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 599, "review": "MQM annotations:\n\"I'm not sure what\" - mistranslation - 81", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 600, "review": "MQM annotations:\n\"never bought similar products\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 601, "review": "MQM annotations:\n\"reason for not returning\" - mistranslation - 80", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 602, "review": "MQM annotations:\n\"pot clean and returned\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 603, "review": "MQM annotations:\n\"us wonderful foreign thoughts\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 604, "review": "MQM annotations:\n\"Hope to pay attention\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 605, "review": "MQM annotations:\n\"after-sales service is really\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 606, "review": "MQM annotations:\n\"does not allow for\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 607, "review": "MQM annotations:\n\"after the discount, but\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 608, "review": "MQM annotations:\n\"the Clarks from my\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1259}
+{"id": 609, "review": "MQM annotations:\n\"the price of dental\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 610, "review": "MQM annotations:\n\"ones; both well-known entrepreneurs\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 611, "review": "MQM annotations:\n\"I thought about cancelling\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 612, "review": "MQM annotations:\n\"a place to complain\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 613, "review": "MQM annotations:\n\"higher price, get a\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 614, "review": "MQM annotations:\n\"and dust can get\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1246}
+{"id": 615, "review": "MQM annotations:\n\"it stops and does\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 616, "review": "MQM annotations:\n\"2 points is that\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 617, "review": "MQM annotations:\n\"is this?\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 618, "review": "MQM annotations:\n\"them, integrated circuits fell\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 619, "review": "MQM annotations:\n\"In contrast to Michelangelo's\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 620, "review": "MQM annotations:\n\"personal pension wealth management\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 621, "review": "MQM annotations:\n\"there's space in the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 622, "review": "MQM annotations:\n\"have some complaints about\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 623, "review": "MQM annotations:\n\"China News Network\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 624, "review": "MQM annotations:\n\"How can the interior\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 625, "review": "MQM annotations:\n\"matching manufacturing process to\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1245}
+{"id": 626, "review": "MQM annotations:\n\"one star for logistics\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 627, "review": "MQM annotations:\n\"country sent the first\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1253}
+{"id": 628, "review": "MQM annotations:\n\"there is no elastic\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 629, "review": "MQM annotations:\n\"particularly slender, it is\" - mistranslation - 70", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 630, "review": "MQM annotations:\n\"sorry for your loss.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 631, "review": "MQM annotations:\n\"conditions in a 'guaranteed\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 632, "review": "MQM annotations:\n\"reason behind the plunge\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1247}
+{"id": 633, "review": "MQM annotations:\n\"the service, then simply\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 634, "review": "MQM annotations:\n\"merchant has considered the\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1262}
+{"id": 635, "review": "MQM annotations:\n\"Pay more attention to\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 636, "review": "MQM annotations:\n\"code points from 0xFD308130\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1264}
+{"id": 637, "review": "MQM annotations:\n\"A man from Kahramanmaras\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1281}
+{"id": 638, "review": "MQM annotations:\n\"the same, so let's\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1258}
+{"id": 639, "review": "MQM annotations:\n\"bought it one week\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 640, "review": "MQM annotations:\n\"I called the next\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 641, "review": "MQM annotations:\n\"are well made and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 642, "review": "MQM annotations:\n\"to the end, no\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 643, "review": "MQM annotations:\n\"didn't use it much\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1257}
+{"id": 644, "review": "MQM annotations:\n\"Table 3 Arrangement of\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 645, "review": "MQM annotations:\n\"destroys the whole sense\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1257}
+{"id": 646, "review": "MQM annotations:\n\"Marcos Jr. visited China\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 647, "review": "MQM annotations:\n\"of the 67,367 overdose\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 648, "review": "MQM annotations:\n\"my first long comment,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 649, "review": "MQM annotations:\n\"electronic products on Amazon\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 650, "review": "MQM annotations:\n\"it's been a long\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1253}
+{"id": 651, "review": "MQM annotations:\n\"I? Did I really\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1259}
+{"id": 652, "review": "MQM annotations:\n\"much better off outsourcing\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1257}
+{"id": 653, "review": "MQM annotations:\nEmpty tags - omission - 80", "severity": "major", "category": "omission", "total_token": 1249}
+{"id": 654, "review": "MQM annotations:\n\"Hong Kong tourists and\" - addition - 85", "severity": "major", "category": "addition", "total_token": 1242}
+{"id": 655, "review": "MQM annotations:\n\"Strong, sufficient materials, firm\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1262}
+{"id": 656, "review": "MQM annotations:\n\"the first lady, Ri\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 657, "review": "MQM annotations:\n\"a very simple design\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 658, "review": "MQM annotation:\n\"of the source file\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1249}
+{"id": 659, "review": "MQM annotations:\n\"mobile device, or computer,\" - addition - 90", "severity": "major", "category": "addition", "total_token": 1259}
+{"id": 660, "review": "MQM annotations:\n\"There are also problems\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 661, "review": "MQM annotations:\n\"bit confused\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1262}
+{"id": 662, "review": "MQM annotations:\n\"our whole family loves\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 663, "review": "MQM annotations:\n\"the overall quantity of\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 664, "review": "MQM annotations:\n\"considered that there was\" - mistranslation - 72", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 665, "review": "MQM annotation:\n\" \" (missing text) - omission - 83", "severity": "major", "category": "omission", "total_token": 1259}
+{"id": 666, "review": "MQM annotations:\n\"Singapore signed a Memorandum\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 667, "review": "MQM annotations:\n\"has plunged the world\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 668, "review": "MQM annotations:\n\"20.1% year-on-year, the largest\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 669, "review": "MQM annotations:\n\"58 million people used\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 670, "review": "MQM annotations:\n\"Two-day intensive itinerary to\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 671, "review": "MQM annotations:\n\"but the platform bureaucracy\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1250}
+{"id": 672, "review": "MQM annotations:\n\"but in the text\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1247}
+{"id": 673, "review": "MQM annotations:\n\"of revolution Hackers supporting\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 674, "review": "MQM annotations:\n\"and appears to be\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 675, "review": "MQM annotations:\n\"If you do not\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 676, "review": "MQM annotations:\n\"Sleep detection is not\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 677, "review": "MQM annotations:\n\"I am very concerned\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 678, "review": "MQM annotations:\n\"more portable\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 679, "review": "MQM annotations:\n\"this document should meet\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1251}
+{"id": 680, "review": "MQM annotations:\n\"at 20,665 and in\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 681, "review": "MQM annotations:\n\"definitely repurchase!\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 682, "review": "MQM annotations:\n\"been added (see Chapter\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1265}
+{"id": 683, "review": "MQM annotations:\n\"the No. 1 domestic\" - mistranslation - 82", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 684, "review": "MQM annotations:\n\"There are minor flaws,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 685, "review": "MQM annotations:\n\"intimately with his daughter,\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1247}
+{"id": 686, "review": "MQM annotations:\n\"added fuel to the\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1256}
+{"id": 687, "review": "MQM annotation:\n\"quality was even surround\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 688, "review": "MQM annotations:\n\"to accelerate the upgrade\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 689, "review": "MQM annotations:\n\"read this manual carefully\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1252}
+{"id": 690, "review": "MQM annotations:\n\"the energy efficiency of\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 691, "review": "MQM annotations:\n\"bears all shipping costs.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1258}
+{"id": 692, "review": "MQM annotations:\n\"Bard answered wrongly.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1253}
+{"id": 693, "review": "MQM annotations:\n\"2023, 13:07:20 [Source: Xinhua\" - addition - 85", "severity": "major", "category": "addition", "total_token": 1279}
+{"id": 694, "review": "MQM annotations:\n\"my books here.\u200f\u200f\u200f\u200f\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1296}
+{"id": 695, "review": "MQM annotations:\n\"continue to buy in\" - mistranslation - 62", "severity": "major", "category": "mistranslation", "total_token": 1255}
+{"id": 696, "review": "MQM annotations:\n\"you, and I want\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1247}
+{"id": 697, "review": "MQM annotations:\n\"The four-byte part contains\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1248}
+{"id": 698, "review": "MQM annotations:\n\"to having an elderly\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 699, "review": "MQM annotations:\n\"on consumer confidence.\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 700, "review": "MQM annotations:\n\"I use a copied paragraph\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1277}
+{"id": 701, "review": "MQM annotations:\n\"Thanh participated in more than\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 702, "review": "MQM annotations:\n\"Quanfeng Express, which is not\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 703, "review": "MQM annotations:\n\"agency account systems are independent\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 704, "review": "MQM annotations:\n\"friend who has 5200, and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 705, "review": "MQM annotations:\n\"as the legal market expands\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1269}
+{"id": 706, "review": "MQM annotations:\n\"emergence of non-internationally controlled substances\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 707, "review": "MQM annotations:\n\"a zipped hoodie when we\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 708, "review": "MQM annotations:\n\"and the reviews also indicated\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1274}
+{"id": 709, "review": "MQM annotations:\n\"The patterns of drug use\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 710, "review": "MQM annotations:\n\"government announced the allocation of\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 711, "review": "MQM annotations:\n\"there was something wrong with\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 712, "review": "MQM annotations:\n\"from Hong Kong.\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1266}
+{"id": 713, "review": "MQM annotations:\n\"Amazon lacks the spirit of\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1260}
+{"id": 714, "review": "MQM annotations:\n\"without any problems, brushing every\" - mistranslation - 82", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 715, "review": "MQM annotations:\n\"product, or I deliberately damaged\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 716, "review": "MQM annotations:\n\"in the Philippines.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 717, "review": "MQM annotations:\n\"status of previous versions of\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 718, "review": "MQM annotations:\n\"use of marijuana in Uruguay\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 719, "review": "MQM annotations:\n\"new energy and new materials,\" - addition - 85", "severity": "major", "category": "addition", "total_token": 1278}
+{"id": 720, "review": "MQM annotations:\n\"into two packages with different\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1265}
+{"id": 721, "review": "MQM annotations:\n\"fake, or if they were\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 722, "review": "MQM annotations:\n\"is one of the symbols\" - mistranslation - 89", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 723, "review": "MQM annotations:\n\"it yet. I've always trusted\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 724, "review": "MQM annotations:\n\"by the Ministry of Industry\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 725, "review": "MQM annotations:\n\"be available again.\u200f\u200f\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1261}
+{"id": 726, "review": "MQM annotations:\n\"this product is at least\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 727, "review": "MQM annotations:\n\"Mikhail Gorbachev came to power\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 728, "review": "MQM annotations:\n\"3rd and arrived on the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 729, "review": "MQM annotations:\n\"excellence\" business philosophy, products based\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1272}
+{"id": 730, "review": "MQM annotations:\n\"testing in the office, the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 731, "review": "MQM annotations:\n\"changed in the four-byte encoding\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 732, "review": "MQM annotations:\n\"it, you must wait for\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 733, "review": "MQM annotations:\n\"investigation, it was confirmed that\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 734, "review": "MQM annotations:\n\"were rescued days after surviving\" - mistranslation - 99", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 735, "review": "MQM annotations:\n\"the mouth to make the\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 736, "review": "MQM annotations:\n\"be meticulous and strictly control\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 737, "review": "MQM annotations:\n\"16th, but I only received\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 738, "review": "MQM annotations:\n\"supposed to be brought out,\" - mistranslation - 83", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 739, "review": "MQM annotations:\n\"16-year-old boy and a 70-year-old\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 740, "review": "MQM annotations:\n\"air bag added inside, not\" - untranslated text - 97", "severity": "major", "category": "untranslated", "total_token": 1301}
+{"id": 741, "review": "MQM annotations:\n\"did not have a 'payload'\" - mistranslation - 70", "severity": "major", "category": "untranslated", "total_token": 1281}
+{"id": 742, "review": "MQM annotations:\n\"back of the little lion\" - mistranslation - 96", "severity": "major", "category": "untranslated", "total_token": 1289}
+{"id": 743, "review": "MQM annotations:\n\"University of Brunei is the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 744, "review": "MQM annotations:\n\"to charge the product before\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 745, "review": "MQM annotations:\n\"at the whim of your\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 746, "review": "MQM annotations:\n\"card, I bought it myself,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 747, "review": "MQM annotations:\n\"bland marriages of people you\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 748, "review": "MQM annotations:\n\"have quick wake-up settings enabled).\" - addition - 100", "severity": "major", "category": "addition", "total_token": 1298}
+{"id": 749, "review": "MQM annotation:\n\"financing is an important basic\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 750, "review": "MQM annotations:\n\"asked if the goods had\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 751, "review": "MQM annotations:\n\"traditional gyms generally adopt the\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 752, "review": "MQM annotations:\n\"interface, or if it's something\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 753, "review": "MQM annotations:\n\"At the same time, two\" - addition - 91", "severity": "major", "category": "addition", "total_token": 1270}
+{"id": 754, "review": "MQM annotations:\n\"telescope had taken the first\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 755, "review": "MQM annotations:\n\"arguing over issues such as\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 756, "review": "MQM annotations:\n\"5,150 yuan is available.\" - addition - 91", "severity": "major", "category": "addition", "total_token": 1273}
+{"id": 757, "review": "MQM annotations:\n\"from this seller, as the\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 758, "review": "MQM annotations:\n\"domestic market of Member States\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1266}
+{"id": 759, "review": "MQM annotations:\n\"does not value service feedback\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1264}
+{"id": 760, "review": "MQM annotations:\n\"reviews said the installation was\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 761, "review": "MQM annotations:\n\"Reuters report today, Iran commemorated\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1275}
+{"id": 762, "review": "MQM annotations:\n\"for a long time, except\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 763, "review": "MQM annotations:\n\"making it the most widely\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 764, "review": "MQM annotations:\n\"is too bad, and shopping\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 765, "review": "MQM annotations:\n\"that Amazon's own skincare products\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 766, "review": "MQM annotations:\n\"they often call for silence,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 767, "review": "MQM annotations:\n\"President Bongbong Marcos visited Japan\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 768, "review": "MQM annotations:\n\"Currently, I can't find an\" - addition - 92", "severity": "major", "category": "addition", "total_token": 1286}
+{"id": 769, "review": "MQM annotations:\n\"and Australia fell year on\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1267}
+{"id": 770, "review": "MQM annotations:\n\"advanced semiconductor industry has dragged\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1265}
+{"id": 771, "review": "MQM annotations:\n\"to drive 200 kilometers back\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 772, "review": "MQM annotations:\n\"the expected delivery date as\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 773, "review": "MQM annotations:\n\"forward to Chinese wisdom and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 774, "review": "MQM annotations:\n\"the first listed company in\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 775, "review": "MQM annotations:\n\"is the frequent and regular\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 776, "review": "MQM annotations:\n\"been looking at the price\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 777, "review": "MQM annotations:\n\"the time can't be adjusted.\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 778, "review": "MQM annotations:\n\"additional things like a TV\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 779, "review": "MQM annotations:\n\"were in rubber and plastic\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 780, "review": "MQM annotations:\n\"short story is a brief\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1288}
+{"id": 781, "review": "MQM annotations:\n\"packed, and the card box\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 782, "review": "MQM annotations:\n\"150 yuan more expensive, but\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 783, "review": "MQM annotations:\n\"11 major categories of goods\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 784, "review": "MQM annotations:\n\"fact, the closer we are,\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 785, "review": "MQM annotations:\n\"has attracted social attention.\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 786, "review": "MQM annotations:\n\"to have half the domestic\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1269}
+{"id": 787, "review": "MQM annotations:\n\"I looked at the order\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1254}
+{"id": 788, "review": "MQM annotations:\n\"quality of the two packages\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 789, "review": "MQM annotations:\n\"issued an amnesty that included\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1262}
+{"id": 790, "review": "MQM annotations:\n\"time, Communist leaders were forced\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 791, "review": "MQM annotations:\n\"is less a collection of\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 792, "review": "MQM annotations:\n\"the harms associated with opioids\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 793, "review": "MQM annotations:\n\"and the closest location to\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 794, "review": "MQM annotations:\n\"I will not dare to\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 795, "review": "MQM annotations:\n\"on January 31 rallied between\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 796, "review": "MQM annotations:\n\"Is it difficult to consolidate\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 797, "review": "MQM annotations:\n\"happened to see it and\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 798, "review": "MQM annotations:\n\"three days for the goods\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 799, "review": "MQM annotations:\n\"and abroad to cooperate with\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 800, "review": "MQM annotations:\n\"the public to beware of\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1263}
+{"id": 801, "review": "MQM annotations:\n\"ruling Democratic Progressive Party in\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1278}
+{"id": 802, "review": "MQM annotations:\n\"followed by synthetic cannabinoid receptor\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 803, "review": "MQM annotations:\n\"number could be provided, and\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 804, "review": "MQM annotations:\n\"specifically calling to ask about\" - mistranslation - 65", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 805, "review": "MQM annotations:\n\"as 2016, and now in\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 806, "review": "MQM annotations:\n\"Continued tight supply and demand\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 807, "review": "MQM annotations:\n\"people love peace and cherish\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 808, "review": "MQM annotations:\n\"Conservation and Environmental Protection was\" - mistranslation - 93", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 809, "review": "MQM annotations:\n\"have to find new routes\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 810, "review": "MQM annotations:\n\"Amini in the custody of\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 811, "review": "MQM annotations:\n\"have time.\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 812, "review": "MQM annotations:\n\"has long formed a closely\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1261}
+{"id": 813, "review": "MQM annotations:\n\"Canada, Uruguay, and 11 jurisdictions\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 814, "review": "MQM annotations:\n\"overwhelmed health services to the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 815, "review": "MQM annotations:\n\"in Diyarbakir, Turkey's largest city in\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1307}
+{"id": 816, "review": "MQM annotations:\n\"the 'Fund E-account' APP has been\" - untranslated text - 85", "severity": "major", "category": "addition", "total_token": 1319}
+{"id": 817, "review": "MQM annotations:\n\"today, the US is preparing to\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1290}
+{"id": 818, "review": "MQM annotations:\n\"feel it wouldn't be off by\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1276}
+{"id": 819, "review": "MQM annotations:\n\"restrictions on movement also limit access\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 820, "review": "MQM annotations:\n\"the whole time, always a few\" - mistranslation - 80", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 821, "review": "MQM annotations:\n\"same time, the number of casualties\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 822, "review": "MQM annotations:\n\"the level of salary, but whether\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 823, "review": "MQM annotations:\n\"asylum applications last year, nearly half\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 824, "review": "MQM annotations:\n\"external borders, including through infrastructure and\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1292}
+{"id": 825, "review": "MQM annotations:\n\"to contact the agency, which asked\" - mistranslation - 81", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 826, "review": "MQM annotations:\n\"deal with the Taiwan Strait crisis\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 827, "review": "MQM annotations:\n\"GB 18030-2005, the glyphs at some\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1301}
+{"id": 828, "review": "MQM annotations:\n\"version on the Internet, which is\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 829, "review": "MQM annotations:\n\"the University of Brunei officially established\" - mistranslation - 96", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 830, "review": "MQM annotations:\n\"with no protection at all, no\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 831, "review": "MQM annotations:\n\"it, you can change the insole,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 832, "review": "MQM annotations:\n\"Drafting Rules of Standardization Documents.\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1297}
+{"id": 833, "review": "MQM annotations:\n\"of synthetic opioids, such as fentanyl,\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 834, "review": "MQM annotations:\n\"for 129 hours asked the rescuers\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 835, "review": "MQM annotations:\n\"unpleasant smell when charging, even if\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 836, "review": "MQM annotations:\n\"redundant to me, as I'm not\" - mistranslation - 80", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 837, "review": "MQM annotations:\n\"have been conducted on 25 severely\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 838, "review": "MQM annotations:\n\"of economic development is increasing, and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 839, "review": "MQM annotations:\n\"because there are two components at\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 840, "review": "MQM annotations:\n\"2018 this figure had risen to\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 841, "review": "MQM annotations:\n\"the entire book took up a\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 842, "review": "MQM annotations:\n\"this headset really isn't as good\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 843, "review": "MQM annotations:\n\"market without going through a recession.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 844, "review": "MQM annotations:\n\"PON ports will reach 100%, and\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1279}
+{"id": 845, "review": "MQM annotations:\n\"implantation refers to a method of\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1296}
+{"id": 846, "review": "MQM annotations:\n\"good, and there is significant pressure\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 847, "review": "MQM annotations:\n\"thoughtful moments, acts of service, gratifying\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 848, "review": "MQM annotations:\n\"be obtained for just over 180\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 849, "review": "MQM annotations:\n\"and output functions for all characters\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 850, "review": "MQM annotations:\n\"people already in sales work who\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1282}
+{"id": 851, "review": "MQM annotations:\n\"seller much because the computer was\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 852, "review": "MQM annotations:\n\"cocaine and methamphetamine, or in the\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 853, "review": "MQM annotations:\n\"the items were returned exactly as\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 854, "review": "MQM annotations:\n\"Map Collection\", the choice, layout, and\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1294}
+{"id": 855, "review": "MQM annotations:\n\"Minister of the Vietnamese Government, Fan Mingzheng,\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 856, "review": "MQM annotations:\n\"patients with missing teeth, but the cost,\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 857, "review": "MQM annotations:\n\"calling on people to take to the\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 858, "review": "MQM annotations:\n\"national security threat posed by China and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 859, "review": "MQM annotations:\n\"plug it into my phone and open\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 860, "review": "MQM annotations:\n\"As part of an amnesty marking the\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 861, "review": "MQM annotations:\n\"GB 18030-2005 'Information Technology - Chinese Encoding\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1339}
+{"id": 862, "review": "MQM annotations:\n\"F-22, to shoot down an unidentified object\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1317}
+{"id": 863, "review": "MQM annotations:\n\"as described in the picture, and the\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1317}
+{"id": 864, "review": "MQM annotations:\n\"system and would cancel the order after\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 865, "review": "MQM annotations:\n\"use had increased since legalization, although a\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1293}
+{"id": 866, "review": "MQM annotations:\n\"are okay to use, but there is\" - mistranslation - 78", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 867, "review": "MQM annotations:\n\"incident, and international coordination is critical to\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 868, "review": "MQM annotations:\n\"the quality standard specifications for 5G network\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 869, "review": "MQM annotations:\n\"points out the direction but does not\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 870, "review": "MQM annotations:\n\"example, but it will be more convincing\" - mistranslation - 85", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 871, "review": "MQM annotations:\n\"an official rally on Saturday to commemorate\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 872, "review": "MQM annotations:\n\"from the National Aeronautics and Space Administration,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1316}
+{"id": 873, "review": "MQM annotations:\n\"to the Philips product of the same\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 874, "review": "MQM annotations:\n\"The tourism board recently announced plans to\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1297}
+{"id": 875, "review": "MQM annotations:\n\"the price reduction of dental implants on\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 876, "review": "MQM annotations:\n\"for 280 yuan during a promotion, which\" - addition - 90", "severity": "major", "category": "addition", "total_token": 1292}
+{"id": 877, "review": "MQM annotations:\n\"member of the Politburo of the CPC\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 878, "review": "MQM annotations:\n\"consistent, after piecing together there is a\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 879, "review": "MQM annotations:\n\"job market to lag further, owing to\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 880, "review": "MQM annotations:\n\"extraordinary economic governance experience and measures, fully\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 881, "review": "MQM annotations:\n\"out deadly repression against protests, which is\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1301}
+{"id": 882, "review": "MQM annotations:\n\"this little lion who has succeeded in\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1312}
+{"id": 883, "review": "MQM annotations:\n\"I called Amazon customer service and emailed\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1291}
+{"id": 884, "review": "MQM annotations:\n\"and I was told that I had\" - mistranslation - 75", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 885, "review": "MQM annotations:\n\"urban people are a bit unreceptive to\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1318}
+{"id": 886, "review": "MQM annotations:\n\"the father, but he insisted on saving\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1301}
+{"id": 887, "review": "MQM annotations:\n\"new students from Malaysia, Japan and Singapore\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 888, "review": "MQM annotations:\n\"by the National Development and Reform Commission\" - addition - 90", "severity": "major", "category": "addition", "total_token": 1322}
+{"id": 889, "review": "MQM annotations:\n\"mainly produces men's outdoor casual clothing and is\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1315}
+{"id": 890, "review": "MQM annotations:\n\"and even after 28 days, there was no\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 891, "review": "MQM annotations:\n\"the EU was reportedly a response to the\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1300}
+{"id": 892, "review": "MQM annotations:\n\"requests for assistance through various channels such as\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1312}
+{"id": 893, "review": "MQM annotations:\n\"Jinping and Prime Minister Fumio Kishida in Bangkok\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1318}
+{"id": 894, "review": "MQM annotations:\n\"good quality and cost effective, cheaper than those\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 895, "review": "MQM annotations:\n\"the 'Action Plan to Strengthen the Comprehensive Partnership\" - untranslated text - 100", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 896, "review": "MQM annotations:\n\"to open more bases to the US military\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1330}
+{"id": 897, "review": "MQM annotations:\n\"sincere condolences are extended to comrades who are\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 898, "review": "MQM annotations:\n\"organization came forward to respond, promising to work\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 899, "review": "MQM annotations:\n\"Chinese and Western cultural backgrounds, there are more\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 900, "review": "MQM annotations:\n\"Since the devastating earthquake in Turkey and neighboring\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 901, "review": "MQM annotations:\n\"Lingli, executive director of sports and wellness tourism\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 902, "review": "MQM annotations:\n\"half of the people in the country invested\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 903, "review": "MQM annotations:\n\"psychological needs - the desire to be understood,\" - mistranslation - 90", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 904, "review": "MQM annotations:\n\"site, and continue to carry out in-depth rescue\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 905, "review": "MQM annotations:\n\"cancel the order. The link to contact customer\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 906, "review": "MQM annotations:\n\"an important step in the continuous advancement of\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 907, "review": "MQM annotations:\n\"21st. As a result, it arrived on the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 908, "review": "MQM annotations:\n\"of fresh students returning home to seek employment\" - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 909, "review": "MQM annotations:\n\"from the First Affiliated Hospital of Zhengzhou University\" - addition - 91", "severity": "major", "category": "addition", "total_token": 1299}
+{"id": 910, "review": "MQM annotations:\n\"opioid psychoactive substances are analogues of fentanyl, whose\" - addition - 100", "severity": "major", "category": "addition", "total_token": 1317}
+{"id": 911, "review": "MQM annotations:\n\"Singapore and Brunei have been a complete success,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 912, "review": "MQM annotations:\n\"French people, they do not have to choose\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1325}
+{"id": 913, "review": "MQM annotations:\n\"Industry and Information Technology recently issued the 'Shenzhen Speedy\" - untranslated text - 98", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 914, "review": "MQM annotations:\n\"two women were rescued from the rubble of a\" - addition - 98", "severity": "major", "category": "addition", "total_token": 1314}
+{"id": 915, "review": "MQM annotation:\n\"other infrastructure along the external border, it would free\" - untranslated text - 98", "severity": "major", "category": "untranslated", "total_token": 1333}
+{"id": 916, "review": "MQM annotations:\n\"to work with Japan to continue deepening cooperation in\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 917, "review": "MQM annotations:\n\"According to the South Korean media, Kim's exposure has\" - addition - 100", "severity": "major", "category": "addition", "total_token": 1316}
+{"id": 918, "review": "MQM annotations:\n\"and 90,000 to 120,000 in the Paris metropolitan area.\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1334}
+{"id": 919, "review": "MQM annotations:\n\"also buyers who believe that due to information asymmetry,\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 920, "review": "MQM annotations:\n\"in the afternoon, and the seller assured me that\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 921, "review": "MQM annotations:\n\"have been deeply affected, including electronic design automation tool\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1309}
+{"id": 922, "review": "MQM annotations:\n\"that other consumers will use them as a reference\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1338}
+{"id": 923, "review": "MQM annotations:\n\"synthetic drugs have been added, many of which are\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 924, "review": "MQM annotations:\n\"of their branches due to operational issues, instead of\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1329}
+{"id": 925, "review": "MQM annotations:\n\"different sales organizations, but through the 'Fund E Account'\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 926, "review": "MQM annotations:\n\"and didn't read the product specifications clearly. I have\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1318}
+{"id": 927, "review": "MQM annotations:\n\"Singapore's tourism, the Singapore Tourism Board launched an intention\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 928, "review": "MQM annotations:\n\"service, and they said the same thing, that signed\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1333}
+{"id": 929, "review": "MQM annotations:\n\"January this year amounted to US $31.51 billion, a\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1321}
+{"id": 930, "review": "MQM annotations:\n\"never faded, and they whispered to each other. Kim\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 931, "review": "MQM annotations:\n\"not been shipped. I immediately contacted customer service to cancel\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1348}
+{"id": 932, "review": "MQM annotations:\n\"batch of personal pension wealth management products, and seven personal\" - untranslated text - 97", "severity": "major", "category": "untranslated", "total_token": 1328}
+{"id": 933, "review": "MQM annotations:\n\"images also showed Kim Yo-jong sitting with Kim Jong-un on\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1329}
+{"id": 934, "review": "MQM annotations:\n\"life believed to have been lost to disability or premature\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1339}
+{"id": 935, "review": "MQM annotations:\n\"code, and immediately received a notification from the financial institution\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1349}
+{"id": 936, "review": "MQM annotations:\n\"of cannabis by adults has increased, particularly over the past\" - addition - 96", "severity": "major", "category": "addition", "total_token": 1318}
+{"id": 937, "review": "MQM annotations:\n\"Account\" provides individual investors with a \"one-stop\" query service for\" - untranslated text - 98", "severity": "major", "category": "untranslated", "total_token": 1346}
+{"id": 938, "review": "MQM annotations:\n\"members found that their stores did not operate normally after\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1326}
+{"id": 939, "review": "MQM annotations:\n\"by several strong aftershocks in Turkey and Syria, is the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 940, "review": "MQM annotations:\n\"would like you to be aware of this.\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1361}
+{"id": 941, "review": "MQM annotations:\n\"strength of consumer credit data, we judge that the US\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 942, "review": "MQM annotations:\n\"offline navigation, there was a phenomenon of not positioning. I\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1336}
+{"id": 943, "review": "MQM annotations:\n\"last century, Zheng Yonggang served as the director of the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 944, "review": "MQM annotations:\n\"itself wasn't my problem. As a consumer, I asked for\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1346}
+{"id": 945, "review": "MQM annotations:\n\"hotels and education and health care, have rebounded sharply, and\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1334}
+{"id": 946, "review": "MQM annotations:\n\"speed and efficiency of the company's product flow, logistics, and\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1334}
+{"id": 947, "review": "MQM annotations:\n\"has the highest requirements. In addition to education, they also\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1326}
+{"id": 948, "review": "MQM annotations:\n\"color blindness, color deficiency, genetic diseases such as Hepatitis B,\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1333}
+{"id": 949, "review": "MQM annotations:\n\"with the pursuit of simplicity in word choice and sentence\" - mistranslation - 91", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 950, "review": "MQM annotations:\n\"US for seriously impacting and damaging the efforts and process\" - addition - 90", "severity": "major", "category": "addition", "total_token": 1328}
+{"id": 951, "review": "MQM annotations:\n\"4 million to 6 million, and tourists have recovered to\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 952, "review": "MQM annotations:\n\"passed since the earthquake hit parts of Turkey and Syria, and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1360}
+{"id": 953, "review": "MQM annotations:\n\"The Human Sperm Bank of China's Yunnan Province issued a promotion\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1347}
+{"id": 954, "review": "MQM annotations:\n\"discounts, including discounted round-trip tickets between Hong Kong and Macau, and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1342}
+{"id": 955, "review": "MQM annotations:\n\"who would dare to buy things on Amazon in the future?\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1341}
+{"id": 956, "review": "MQM annotations:\n\"with Chinese Characteristics for a New Era and the spirit of \" - addition - 95", "severity": "major", "category": "addition", "total_token": 1338}
+{"id": 957, "review": "MQM annotations:\n\"the everyday plot does not dazzle or expand one's thinking and\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1359}
+{"id": 958, "review": "MQM annotations:\n\"75th anniversary of the founding of its army, and Kim Jong-un's\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1366}
+{"id": 959, "review": "MQM annotations:\n\"during his visit to Brunei Darussalam, on the morning of February\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1348}
+{"id": 960, "review": "MQM annotations:\n\"phone, there would also be a sticker-like seal that could be\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1360}
+{"id": 961, "review": "MQM annotations:\n\"Congress of China are held, where representatives and members discuss the\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1321}
+{"id": 962, "review": "MQM annotations:\n\"Business Leaders Annual Meeting and the 22nd China Future Stars Annual\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1336}
+{"id": 963, "review": "MQM annotations:\n\"order but couldn't. The delivery person took it back and said\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1357}
+{"id": 964, "review": "MQM annotations:\n\"government of Raisi faces the boldest challenge from young protesters demanding\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1328}
+{"id": 965, "review": "MQM annotations:\n\"are: Beijing Nanjiang Aerospace Technology Co., Ltd., China Electronics Technology Group's\" - untranslated text - 98", "severity": "major", "category": "untranslated", "total_token": 1369}
+{"id": 966, "review": "MQM annotations:\n\"and State, that is, independence, diversification, change, willing to be a\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1369}
+{"id": 967, "review": "MQM annotations:\n\"training, and policy incentives will make China continue to be full\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1344}
+{"id": 968, "review": "MQM annotations:\n\"pointed out that sperm donors can get a full set of\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 969, "review": "MQM annotations:\n\"the People's Republic of China, Song Tao, and the Standing Committee member\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1349}
+{"id": 970, "review": "MQM annotations:\n\"to be promoted through reform and innovation, and we must not stick\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1331}
+{"id": 971, "review": "MQM annotations:\n\"has never ceased its efforts to suppress China's 'core' development, precisely suppressing\" - mistranslation - 95", "severity": "major", "category": "untranslated", "total_token": 1339}
+{"id": 972, "review": "MQM annotations:\n\"President Ursula von der Leyen said that EU leaders agreed to introduce\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1355}
+{"id": 973, "review": "MQM annotations:\n\"saying that the Human Sperm Bank of Shaanxi Province printed a poster\" - addition - 100", "severity": "major", "category": "addition", "total_token": 1368}
+{"id": 974, "review": "MQM annotations:\n\"that I couldn't connect to the bracelet. Both device manuals expressed their\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1350}
+{"id": 975, "review": "MQM annotations:\n\"able to travel to the meeting place, and in areas where schools\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1335}
+{"id": 976, "review": "MQM annotations:\n\"cardboard box with no protection whatsoever, and the box that holds the\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1347}
+{"id": 977, "review": "MQM annotations:\n\"that is fueling the opioid crisis; in North America it is fentanyl.\" - addition - 98", "severity": "major", "category": "addition", "total_token": 1338}
+{"id": 978, "review": "MQM annotations:\n\"64, but the number of people who actually took to the streets to\" - mistranslation - 94", "severity": "major", "category": "mistranslation", "total_token": 1378}
+{"id": 979, "review": "MQM annotations:\n\"is approximately 36 cm long and 23 cm wide; and this version is\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1352}
+{"id": 980, "review": "MQM annotations:\n\"It relates to the governance of the party, the country, and the military,\" - addition - 92", "severity": "major", "category": "addition", "total_token": 1362}
+{"id": 981, "review": "MQM annotations:\n\"Everything\" network construction, and create the first in China and the world's leading - addition - 95", "severity": "major", "category": "addition", "total_token": 1358}
+{"id": 982, "review": "MQM annotations:\n\"in addition to the actions of the Biden administration, newly established House of\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1362}
+{"id": 983, "review": "MQM annotations:\n\"of the straw is vertically straight, my son always has to hold the protrusion\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1363}
+{"id": 984, "review": "MQM annotations:\n\"non-farm payrolls, significantly higher than market expectations of 189,000; the unemployment rate fell to\" - addition - 100", "severity": "major", "category": "addition", "total_token": 1379}
+{"id": 985, "review": "MQM annotations:\n\"and overburdened immigration authorities of member states could not prevent refugees from submitting 'countless'\" - addition - 95", "severity": "major", "category": "addition", "total_token": 1410}
+{"id": 986, "review": "MQM annotations:\n\"the diapers from JD.com had a strong smell after opening, the customer service still\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1393}
+{"id": 987, "review": "MQM annotations:\n\"victims. They lured the victims to log on to fake websites for redemption with\" - addition - 98", "severity": "major", "category": "addition", "total_token": 1369}
+{"id": 988, "review": "MQM annotations:\n\"metres (40,000 ft), about the size of a small car, and much smaller than\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1371}
+{"id": 989, "review": "MQM annotations:\n\"billion Singapore dollars in 2021, and has recovered to about 50% to 52% of\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1412}
+{"id": 990, "review": "MQM annotations:\n\"don't want to meet in a lifetime, and some things you don't want to know\" - mistranslation - 98", "severity": "major", "category": "mistranslation", "total_token": 1400}
+{"id": 991, "review": "MQM annotations:\n\"News Agency, Beijing, February 10th, Xi Jinping, General Secretary of the Central Committee of the\" - addition - 97", "severity": "major", "category": "addition", "total_token": 1381}
+{"id": 992, "review": "MQM annotations:\n\"mobile phone worth more than 2,000 yuan, but when I bought it for her, I didn't\" - mistranslation - 100", "severity": "major", "category": "mistranslation", "total_token": 1391}
+{"id": 993, "review": "MQM annotations:\n\"the Central News Agency today, Xia Liyan, vice chairman of the Kuomintang, led a delegation to\" - mistranslation - 97", "severity": "major", "category": "mistranslation", "total_token": 1411}
+{"id": 994, "review": "MQM annotations:\n\"the complete Michelangelo collection, which was dominated by paintings, the manuscript in black and white by Leonardo\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1377}
+{"id": 995, "review": "MQM annotations:\n\"promote the spirit of the Chinese medical team that is not afraid of hardship, willing to dedicate,\" - untranslated text - 95", "severity": "major", "category": "untranslated", "total_token": 1416}
+{"id": 996, "review": "MQM annotations:\n\"quadrilateral alliance\" with South Korea, Japan, and Taiwan, China, or establishing a semiconductor industry chain \"small circle\" through - mistranslation - 92", "severity": "major", "category": "mistranslation", "total_token": 1407}
+{"id": 997, "review": "MQM annotations:\n\"News Agency reported from Beijing that the newly appointed members and alternate members of the Central Committee, as well as the main\" - mistranslation - 95", "severity": "major", "category": "mistranslation", "total_token": 1480}
+{"id": 998, "review": "MQM annotations:\n\"for it. I quickly contacted the courier company, but they said only the sender could initiate an inquiry. I contacted Amazon customer service and waited\" - untranslated text - 100", "severity": "major", "category": "untranslated", "total_token": 1439}
+{"id": 999, "review": "MQM annotations:\n[Empty space] - omission - 57", "severity": "major", "category": "omission", "total_token": 1485}

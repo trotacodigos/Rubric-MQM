@@ -1,0 +1,17 @@
+Outlined below are the definition of a scale of severity of translation errors.
+Scale 10: The error has negligible impact; the message and intent are unaffected.
+Scale 20: The error is tweaking some wording but leaving the overall message intact.
+Scale 30: The error has minimal effect on clarity; the intent remains clear.
+Scale 40: The error could lead to minor misunderstandings but overall message is still graspable.
+Scale 50: The error is affecting clarity; the message may require some interpretation.
+Scale 60: The error is distorting part of the message and intent can be ambiguous.
+Scale 70: The error is leading to misunderstandings and altering the message substantially.
+Scale 80: The error makes the core parts of the message misinterpretable, affecting communication.
+Scale 90: The error is causing serious miscommunication and loss of original intent.
+Scale 100: The error makes the translation completely unfaithful and misleading.
+
+{source_lang} source: ```{source_seg}```
+{target_lang} translation: ```{target_seg}```
+
+Based on the source and machine translation segments surrounded with triple backticks, identify error types in the segment and classify them. The categories of errors are: addition, mistranslation, omission, untranslated text, grammar, inconsistency, punctuation, source issue, incorrect word order, terminology (inappropriate for context, inconsistent use), or no-error, according to the given definition.
+Evaluate the severity of each error on a scale from 1 to 100 according to the given rubric. Return answer in a Python dictionary of error span as keys and error category and severity as values.
