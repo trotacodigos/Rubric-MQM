@@ -1,0 +1,1000 @@
+{"id": 0, "review": "Severity Ratings:\n\"final effect was\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1276}
+{"id": 1, "review": "Severity Rating:\n\"I gave a\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 2, "review": "Severity Ratings:\n\"incoming call and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1275}
+{"id": 3, "review": "Severity Rating:\n\"I hope it\" - addition - 4", "severity": "minor", "category": "addition", "total_token": 1271}
+{"id": 4, "review": "Severity Rating:\n\"is the national\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 5, "review": "Severity Ratings:\n\"very active and\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1277}
+{"id": 6, "review": "Severity Ratings:\n\"$600 and was\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 7, "review": "Severity Ratings:\n\"too good about\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1269}
+{"id": 8, "review": "Severity Ratings:\n\"been used 3-4\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1279}
+{"id": 9, "review": "Severity Rating:\n\"will take a\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 10, "review": "Severity Rating:\n\"often can't connect\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 11, "review": "Severity Ratings:\n\"Very good, the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 12, "review": "\"terminology fluctuates between\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 13, "review": "\"became a die-hard\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1277}
+{"id": 14, "review": "\"The Yalan mattress is really nice\"\n\nSeverity Ratings:\n\"mattress is really\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1282}
+{"id": 15, "review": "Severity Ratings:\n\"price cut is\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 16, "review": "\"mentioned some issue\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1272}
+{"id": 17, "review": "\"think this is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 18, "review": "\"Could it be\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1273}
+{"id": 19, "review": "Severity Rating:\n\"to Understanding Internet\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1273}
+{"id": 20, "review": "\"I want delivery\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 21, "review": "Severity Rating:\n\"self-operated products are\" - terminology (inappropriate for context) - 3", "severity": "minor", "category": "terminology", "total_token": 1284}
+{"id": 22, "review": "Severity Ratings:\n\"Financial Reporter Xia\" - terminology (inappropriate for context) - 3", "severity": "minor", "category": "terminology", "total_token": 1274}
+{"id": 23, "review": "Severity Ratings:\n\"high-quality city-level wireless\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1282}
+{"id": 24, "review": "Severity Ratings:\n\"don't think I'll\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 25, "review": "Severity Ratings:\n\"It's not a\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 26, "review": "\"where credit is\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1265}
+{"id": 27, "review": "Severity Ratings:\n\"So, I have\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1273}
+{"id": 28, "review": "\"inidivid feel quite\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 29, "review": "Severity Ratings:\n\"to the delivery\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1277}
+{"id": 30, "review": "\"technology exports to\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1270}
+{"id": 31, "review": "Severity Ratings:\n\"Just the cap\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 32, "review": "Severity Ratings:\n\"for skimming, not\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1276}
+{"id": 33, "review": "\"The breathability is\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1269}
+{"id": 34, "review": "Severity Rating:\n\"the headband is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 35, "review": "Severity Ratings:\n\"Explanation of some\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 36, "review": "Severity Rating:\n\"as good as\" - mistranslation - 5\n\nThe phrase \"\u6ca1\u6709\u60f3\u8c61\u7684\u90a3\u4e48\u597d\" translates to \"not as good as imagined\" instead of \"not as good as it looks,\" which changes the intended comparison from imagined expectations to visual appearance.", "severity": "none", "category": null, "total_token": 1315}
+{"id": 37, "review": "Severity Rating:\n\"I love you\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 38, "review": "Severity Ratings:\n\"Waiting for a\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1272}
+{"id": 39, "review": "Severity Ratings:\n\"The worst shopping\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1271}
+{"id": 40, "review": "Severity Ratings:\n\"brands and cheap\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1276}
+{"id": 41, "review": "Severity Rating:\n\"more improvements on\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1277}
+{"id": 42, "review": "Severity Rating:\n\"It can only\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1274}
+{"id": 43, "review": "Severity Rating:\n\"has brightened America's\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 44, "review": "Severity Rating:\n\"a telephone number\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1272}
+{"id": 45, "review": "\"feels like a\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1277}
+{"id": 46, "review": "Severity Ratings:\n\"feet, grind the\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 47, "review": "\"the clothes is\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1270}
+{"id": 48, "review": "Severity Rating:\n\"speed is also\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1272}
+{"id": 49, "review": "Severity Ratings:\n\"5 stars, poor\" - no-error - Not applicable (no error present)", "severity": "no-error", "category": "no-error", "total_token": 1281}
+{"id": 50, "review": "Severity Ratings:\n\"have been a\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1275}
+{"id": 51, "review": "Severity Rating:\n\"love to eat,\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1276}
+{"id": 52, "review": "Severity Rating:\n\"two major strategic\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1274}
+{"id": 53, "review": "Severity Ratings:\n\"Amazon for strict\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1284}
+{"id": 54, "review": "Severity Rating:\n\"is the product's\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1276}
+{"id": 55, "review": "Severity Rating:\n\"is not very\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1266}
+{"id": 56, "review": "\"a very successful\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 57, "review": "Severity Rating:\n\"the money be\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1276}
+{"id": 58, "review": "Severity Ratings:\n\"regret such an\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 59, "review": "Severity Ratings:\n\"Kuomintang considered it\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1280}
+{"id": 60, "review": "Severity Ratings:\n\"PS The appearance\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1273}
+{"id": 61, "review": "Severity Ratings:\n\"postal courier is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 62, "review": "Severity Ratings:\n\"Pick-up service needs\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1270}
+{"id": 63, "review": "Severity Ratings:\n\"The packaging is\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1270}
+{"id": 64, "review": "Severity Ratings:\n\"Quite a poor\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 65, "review": "Severity Rating:\n\"average in terms\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1270}
+{"id": 66, "review": "Severity Rating:\n\"This document specifies\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1272}
+{"id": 67, "review": "\"a genuine product,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1267}
+{"id": 68, "review": "Severity Rating:\n\"A portfolio of\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 69, "review": "Severity Rating:\n\"about this agency\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1284}
+{"id": 70, "review": "Severity Ratings:\n\"The image quality\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1267}
+{"id": 71, "review": "\"That is why\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1273}
+{"id": 72, "review": "Severity Rating:\n\"Is this how\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 73, "review": "\"Bentley watch is\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1273}
+{"id": 74, "review": "Severity Ratings:\n\"management products are\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1277}
+{"id": 75, "review": "Severity Rating:\n\"it's been a long\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1284}
+{"id": 76, "review": "\" 11, 2023, 13:09:10 [Source: \" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1336}
+{"id": 77, "review": "Severity Ratings:\n\"shootdown took place 10\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 78, "review": "Severity Rating:\n\"Unfortunately, the style is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1290}
+{"id": 79, "review": "Severity Ratings:\n\"Philippines reached a defense\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 80, "review": "Severity Ratings:\n\"party lost an important\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1279}
+{"id": 81, "review": "Severity Rating:\n\"the Double Eleven is\" - fluency (grammar) - 3", "severity": "minor", "category": "grammar", "total_token": 1288}
+{"id": 82, "review": "Severity Ratings:\n\"of synthetic opioids has\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1290}
+{"id": 83, "review": "\"with a 19-fold increase\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1295}
+{"id": 84, "review": "\"I feel a bit\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 85, "review": "Severity Ratings:\n\"is impossible, and dare\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1293}
+{"id": 86, "review": "Severity Ratings:\n\"Number of Code Positions\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 87, "review": "Severity Ratings:\n\"worried that Alphabet is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1281}
+{"id": 88, "review": "Severity Ratings:\n\"room, it can still\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 89, "review": "\"is an important part\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 90, "review": "Severity Ratings:\n\"does it take four\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 91, "review": "Severity Ratings:\n\"is mediocre and does\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1282}
+{"id": 92, "review": "Severity Rating:\n\"The brush head attachments\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 93, "review": "Severity Ratings:\n\"while opioids pose the\" - addition - 4", "severity": "minor", "category": "addition", "total_token": 1294}
+{"id": 94, "review": "\"Market - China News\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1288}
+{"id": 95, "review": "Severity Ratings:\n\"the Poke Ball, you\" - fluency (incorrect word order) - 3", "severity": "minor", "category": "word order", "total_token": 1295}
+{"id": 96, "review": "Severity Ratings:\n\"tourism market will gradually\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 97, "review": "Severity Ratings:\n\"front panel and the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 98, "review": "Severity Ratings:\n\"Death to the Islamic\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 99, "review": "Severity Ratings:\n\"Returns are not encouraged\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1288}
+{"id": 100, "review": "\" sure what to do \" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 101, "review": "Severity Ratings:\n\"I've never bought similar\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1285}
+{"id": 102, "review": "Severity Rating:\n\"not returning it is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 103, "review": "Severity Ratings:\n\"returned it, having wasted\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 104, "review": "Severity Ratings:\n\"Thanks to the translator\" - no-error - 0\n", "severity": "no-error", "category": "no-error", "total_token": 1288}
+{"id": 105, "review": "Severity Ratings:\n\"the transportation protection of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1276}
+{"id": 106, "review": "Severity Ratings:\n\"okay, but Amazon's after-sales\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1299}
+{"id": 107, "review": "\"allow for deliveries on\" - mistranslation - 1", "severity": "minor", "category": "mistranslation", "total_token": 1284}
+{"id": 108, "review": "Severity Ratings:\n\"Amazon's fake discounts are\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 109, "review": "\" I deleted all the \" - addition - 4", "severity": "minor", "category": "addition", "total_token": 1284}
+{"id": 110, "review": "Severity Ratings:\n\"price of dental implant\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1293}
+{"id": 111, "review": "Severity Ratings:\n\"foreign ones; both well-known\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1306}
+{"id": 112, "review": "Severity Ratings:\n\"new one, I thought\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1291}
+{"id": 113, "review": "Severity Rating:\n\"a place to complain\" - grammar - 3", "severity": "minor", "category": "grammar", "total_token": 1276}
+{"id": 114, "review": "Severity Rating:\n\"a refund for the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1274}
+{"id": 115, "review": "Severity Rating:\n\"mirror is easily scratched\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 116, "review": "\"does not proceed to\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 117, "review": "\" is that the customer \" - no-error ", "severity": "no-error", "category": "no-error", "total_token": 1287}
+{"id": 118, "review": "Severity Ratings:\n\"the hell kind of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1277}
+{"id": 119, "review": "Severity Rating:\n\"Among them, integrated circuits\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1299}
+{"id": 120, "review": "Severity Ratings:\n\"manuscripts, Leonardo da Vinci's\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 121, "review": "\"management products went on\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1274}
+{"id": 122, "review": "\"in the front, they\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1297}
+{"id": 123, "review": "Severity Ratings:\n\"but I have some\" - addition - 3", "severity": "minor", "category": "addition", "total_token": 1284}
+{"id": 124, "review": "\"The Important Engine of\" - capitalization - 1", "severity": "minor", "category": null, "total_token": 1276}
+{"id": 125, "review": "Severity Rating:\n\"a commodity be worn\" - terminology (inappropriate for context) - 4", "severity": "minor", "category": "terminology", "total_token": 1281}
+{"id": 126, "review": "\"a matching manufacturing process\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1274}
+{"id": 127, "review": "Severity Ratings:\n\"goods, one star for\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1284}
+{"id": 128, "review": "Severity Rating:\n\"our country sent the\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1296}
+{"id": 129, "review": "Severity Ratings:\n\"elastic waistband, so it's\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1296}
+{"id": 130, "review": "Severity Ratings:\n\"slender, it is not\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1288}
+{"id": 131, "review": "Severity Ratings:\n\"very sorry for your\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 132, "review": "Severity Ratings:\n\"in a \\\"guaranteed price\" - incorrect word order - 2", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 133, "review": "Severity Ratings:\n\"reason behind the plunge\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1293}
+{"id": 134, "review": "Severity Ratings:\n\"your own logistics can't\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 135, "review": "\"The merchant has considered the\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1279}
+{"id": 136, "review": "Severity Rating:\n\"to cybersecurity information and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1284}
+{"id": 137, "review": "Severity Ratings:\n\"A total of 25200\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1310}
+{"id": 138, "review": "Severity Ratings:\n\"Kahramanmaras holding his recently\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1296}
+{"id": 139, "review": "Severity Ratings:\n\"they're all the same,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1281}
+{"id": 140, "review": "Severity Ratings:\n\"it one week after\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 141, "review": "Severity Rating:\n\"called the next day\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1288}
+{"id": 142, "review": "Severity Ratings:\n\"are well made and\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1282}
+{"id": 143, "review": "Severity Ratings:\n\"one called to give\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1289}
+{"id": 144, "review": "Severity Ratings:\n\"Because I have a\" - no-error - n/a", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 145, "review": "Severity Rating:\n\"of Code Positions in\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1286}
+{"id": 146, "review": "Severity Rating:\n\"But it arguably destroys\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1283}
+{"id": 147, "review": "Severity Ratings:\n\"China in early January\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1294}
+{"id": 148, "review": "Severity Ratings:\n\"two-thirds of the 67,367\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1309}
+{"id": 149, "review": "Severity Ratings:\n\"long comment, and I\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1285}
+{"id": 150, "review": "Severity Ratings:\n\"careful when buying electronic\" - fluency (incorrect word order) - 1", "severity": "minor", "category": "word order", "total_token": 1291}
+{"id": 151, "review": "\" time, the machine is \" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1288}
+{"id": 152, "review": "\"Did I really buy\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1287}
+{"id": 153, "review": "Severity Ratings:\n\"outsourcing to China than\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 154, "review": "\"receiving the shipment and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1271}
+{"id": 155, "review": "Severity Ratings:\n\"Hong Kong tourists and\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 156, "review": "Severity Ratings:\n\"Strong, sufficient materials, firm\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1305}
+{"id": 157, "review": "Severity Ratings:\n\"Sol-ju, could only step\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1293}
+{"id": 158, "review": "Product Error Analysis:\n\"product with a very\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1283}
+{"id": 159, "review": "Severity Rating:\n\"indicates the language type\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1288}
+{"id": 160, "review": "\"4. Install anti-virus software\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1308}
+{"id": 161, "review": "Severity Rating:\n\"punctuation, and incorrect numbering\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1298}
+{"id": 162, "review": "Severity Ratings:\n\"born in China, I'm\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1279}
+{"id": 163, "review": "\"In short, our whole family\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1287}
+{"id": 164, "review": "Severity Ratings:\n\"quantity of new psychoactive\" - terminology - 5", "severity": "major", "category": "terminology", "total_token": 1296}
+{"id": 165, "review": "Severity Ratings:\n\"indication that the object\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1299}
+{"id": 166, "review": "Severity Ratings:\n\"strongly recommended that Amazon\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1278}
+{"id": 167, "review": "Severity Ratings:\n\"a Memorandum of Understanding\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1296}
+{"id": 168, "review": "\"the world into an\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1289}
+{"id": 169, "review": "Severity Rating:\n\"electronic components fell by\" - terminology - 2", "severity": "minor", "category": "terminology", "total_token": 1299}
+{"id": 170, "review": "Severity Ratings:\n\"In comparison, 58 million\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1294}
+{"id": 171, "review": "Severity Ratings:\n\"business opportunities and increase\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1279}
+{"id": 172, "review": "Severity Ratings:\n\"good, but the platform\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 173, "review": "Severity Ratings:\n\" \"customer\", but in the \" - fluency (punctuation) - 1", "severity": "minor", "category": "punctuation", "total_token": 1295}
+{"id": 174, "review": "Severity Ratings:\n\"supporting protests hack president's\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1294}
+{"id": 175, "review": "Severity Ratings:\n\"This backpack is quite\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1289}
+{"id": 176, "review": "Severity Rating:\n\"If you do not\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 177, "review": "Severity Ratings:\n\"is not displayed and\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 178, "review": "\"the promises made by\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 179, "review": "Severity Rating:\n\"the PS4, and is\" - addition - 6", "severity": "major", "category": "addition", "total_token": 1286}
+{"id": 180, "review": "Severity Rating:\n\"should meet the requirements\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1289}
+{"id": 181, "review": "Severity Ratings:\n\"Syria at more than\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 182, "review": "Severity Ratings:\n\"label, with granules, definitely \" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1300}
+{"id": 183, "review": "Severity Ratings:\n\"audience for this document\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1289}
+{"id": 184, "review": "Severity Ratings:\n\"Shenzhen: Building the No.\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 185, "review": "Severity Rating:\n\"flaws, but the tone\" - addition - 7", "severity": "major", "category": "addition", "total_token": 1279}
+{"id": 186, "review": "\"intracts intimately with his\" - mistranslation - 5", "severity": "major", "category": "addition", "total_token": 1287}
+{"id": 187, "review": "\"This undoubtedly added fuel to the <v> fire, supporting the views </v> of the hardliners towards China.\"\n\nRatings:\n\"fire, supporting the views\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1320}
+{"id": 188, "review": "Severity Ratings:\n\"that the sound quality\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1292}
+{"id": 189, "review": "\"Plan proposes to accelerate\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1280}
+{"id": 190, "review": "\"the product and keep\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1288}
+{"id": 191, "review": "\"energy efficiency of 5G\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1289}
+{"id": 192, "review": "\"buyer bears all shipping\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1283}
+{"id": 193, "review": "Severity Ratings:\n\"that Alphabet shares plummeted\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1295}
+{"id": 194, "review": "Severity Ratings:\n\"Agency] [Editor: Li Xufeng]\" - punctuation - 2", "severity": "minor", "category": "punctuation", "total_token": 1334}
+{"id": 195, "review": "Severity Rating:\n\"I will buy all\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 196, "review": "Severity Rating:\n\"won't continue to buy\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1275}
+{"id": 197, "review": "\"I admire you, and\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1277}
+{"id": 198, "review": "\"four-byte part contains Chinese\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 199, "review": "Severity Rating:\n\"convenient to receive packages in\" - grammar - 3", "severity": "minor", "category": "grammar", "total_token": 1308}
+{"id": 200, "review": "Severity Ratings:\n\"frequently spreads, which has a\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1315}
+{"id": 201, "review": "Severity Rating:\n\"copied paragraph as the review\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1312}
+{"id": 202, "review": "\"Singapore and Brunei, Prime Minister\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1311}
+{"id": 203, "review": "Severity Ratings:\n\"must contact Quanfeng Express, which\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1329}
+{"id": 204, "review": "Severity Ratings:\n\"agency account systems are independent\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 205, "review": "Severity Rating:\n\"it as not as loose\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 206, "review": "\"data from Canada also indicate\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1306}
+{"id": 207, "review": "Severity Ratings:\n\"of non-internationally controlled substances is\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1324}
+{"id": 208, "review": "Severity Rating:\n\"was a short sleeve that\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1309}
+{"id": 209, "review": "\"The product was purchased on\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 210, "review": "Severity Rating:\n\"use and supply may change,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1300}
+{"id": 211, "review": "Severity Ratings:\n\"announced the allocation of nearly\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 212, "review": "Severity Ratings:\n\"were flashing and it couldn't\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 213, "review": "Severity Ratings:\n\"what you buy, especially if\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1294}
+{"id": 214, "review": "Severity Ratings:\n\"lacks the spirit of the\" - fluency (grammar) - 3", "severity": "minor", "category": "grammar", "total_token": 1307}
+{"id": 215, "review": "Severity Ratings:\n\"brushing every day, and charging\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1305}
+{"id": 216, "review": "Severity Rating:\n\"damaged the product and then\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1309}
+{"id": 217, "review": "Severity Ratings:\n\"is a crisis in Taiwan,\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1295}
+{"id": 218, "review": "Severity Ratings:\n\"this document and the documents\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1293}
+{"id": 219, "review": "\"since 2011, the use of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1311}
+{"id": 220, "review": "Severity Ratings:\n\"is 'great health has a\" - mistranslation - 5", "severity": "no-error", "category": "no-error", "total_token": 1299}
+{"id": 221, "review": "Severity Rating:\n\"they are divided into two\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1294}
+{"id": 222, "review": "Severity Rating:\n\"the goods from Amazon are\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 223, "review": "Severity Ratings:\n\"Brunei is one of the\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1299}
+{"id": 224, "review": "Severity Ratings:\n\"always trusted Philips, and I\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1304}
+{"id": 225, "review": "Severity Ratings:\n\"of the People's Republic of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1292}
+{"id": 226, "review": "Severity Rating:\n\"know when it will be\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1293}
+{"id": 227, "review": "Severity Ratings:\n\"I use this paragraph to\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1299}
+{"id": 228, "review": "Severity Rating:\n\"called for changes in Soviet-dominated\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1321}
+{"id": 229, "review": "Severity Ratings:\n\"placed on the 3rd and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 230, "review": "Severity Ratings:\n\"the \\\"integrity, harmony, quality, excellence\\\"\" - grammar - 2", "severity": "no-error", "category": "no-error", "total_token": 1331}
+{"id": 231, "review": "Severity Ratings:\n\"office, the whole room was\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 232, "review": "Severity Rating:\n\"code positions have been changed\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1329}
+{"id": 233, "review": "Severity Rating:\n\"you use it, you must\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1294}
+{"id": 234, "review": "\"relevant telecommunications company did not\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1291}
+{"id": 235, "review": "Severity Ratings:\n\"in the rubble of the\" - omission - 6", "severity": "major", "category": "omission", "total_token": 1305}
+{"id": 236, "review": "Severity Ratings:\n\"microphone can be pointed at\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1302}
+{"id": 237, "review": "Severity Rating:\n\"be meticulous and strictly control\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1296}
+{"id": 238, "review": "Severity Ratings:\n\"I only received it on\" - addition - 3", "severity": "minor", "category": "addition", "total_token": 1299}
+{"id": 239, "review": "Severity Rating:\n\"was supposed to be brought\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1304}
+{"id": 240, "review": "\"a 16-year-old boy and a\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1333}
+{"id": 241, "review": "Severity Ratings:\n\"bare product as some online\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1311}
+{"id": 242, "review": "Severity Ratings:\n\"spy balloon found in the\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1321}
+{"id": 243, "review": "Severity Rating:\n\"the end, there was only\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1297}
+{"id": 244, "review": "Severity Rating:\n\"third in the local university\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1309}
+{"id": 245, "review": "\"not been used for more\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1300}
+{"id": 246, "review": "Severity Ratings:\n\"whim of your couriers, why\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1321}
+{"id": 247, "review": "Severity Ratings:\n\"I bought a mobile phone\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 248, "review": "Severity Ratings:\n\"of people you know, and\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1332}
+{"id": 249, "review": "Severity Ratings:\n\"standby mode, activate the voice\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1310}
+{"id": 250, "review": "Severity Ratings:\n\"and a more mature trading\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 251, "review": "Severity Ratings:\n\"the morning of the third\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1292}
+{"id": 252, "review": "Severity Ratings:\n\"earning money that users do \" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 253, "review": "Severity Ratings:\n\"I wonder if it's a\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1302}
+{"id": 254, "review": "Severity Ratings:\n\"teams were dispatched to assess\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1311}
+{"id": 255, "review": "Severity Ratings: \n\"taken the first photo of\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1306}
+{"id": 256, "review": "Severity Ratings:\n\"such as the payment of\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 257, "review": "Severity Rating:\n\"Beijing, where a subsidy of\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 258, "review": "Severity Ratings:\n\"as the items purchased are\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1296}
+{"id": 259, "review": "Severity Rating:\n\"new active substances on the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1293}
+{"id": 260, "review": "Severity Ratings:\n\"indicates that Amazon does not\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1315}
+{"id": 261, "review": "Severity Ratings:\n\"the installation was easy, am\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1307}
+{"id": 262, "review": "Severity Ratings:\n\" Reuters report today, Iran commemorated \" - fluency (missing article before 'Reuters' and tense inconsistency) - 3", "severity": "minor", "category": "inconsistency", "total_token": 1321}
+{"id": 263, "review": "Severity Rating:\n\"that can't come out, it's\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 264, "review": "Severity Ratings:\n\"that in 2018, 192 million\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1315}
+{"id": 265, "review": "Severity Ratings:\n\"bad, and shopping on Amazon\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1318}
+{"id": 266, "review": "Severity Ratings:\n\"it really that Amazon's own\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1321}
+{"id": 267, "review": "Severity Ratings:\n\" for silence, as they struggle \" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1323}
+{"id": 268, "review": "Severity Rating:\n\"Asia - On February 9,\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1320}
+{"id": 269, "review": "Severity Rating:\n\"I can only provide feedback\" - addition - 2", "severity": "minor", "category": "addition", "total_token": 1297}
+{"id": 270, "review": "Severity Ratings:\n\"Canada, Germany, the United States\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1301}
+{"id": 271, "review": "Severity Ratings:\n\"US suppression of China's advanced\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1309}
+{"id": 272, "review": "Severity Rating:\n\"kilometers back from out of\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1295}
+{"id": 273, "review": "Severity Rating:\n\"mark the expected delivery date\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1307}
+{"id": 274, "review": "Severity Ratings:\n\"solutions, and expects China's development\" - grammar - 3", "severity": "minor", "category": "grammar", "total_token": 1303}
+{"id": 275, "review": "\"the first listed company in\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1307}
+{"id": 276, "review": "Severity Rating:\n\"that the main reason for\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1292}
+{"id": 277, "review": "Severity Ratings:\n\"it's been like that, no\" - omission - 6", "severity": "major", "category": "omission", "total_token": 1313}
+{"id": 278, "review": "Severity Ratings:\n\"either, and the time can't\" - fluency - 3", "severity": "minor", "category": null, "total_token": 1302}
+{"id": 279, "review": "Severity Ratings:\n\"it as a TV, and\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 280, "review": "MQM annotations:\n\"largest declines were in rubber\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 281, "review": "Severity Rating:\n\"of ordinary life, with no\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1301}
+{"id": 282, "review": "Severity Rating:\n\"card box is pressed open\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 283, "review": "Severity Ratings:\n\"one I bought before was\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1308}
+{"id": 284, "review": "Severity Ratings:\n\"export value of all 11\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 285, "review": "Severity Rating:\n\"grateful, so that our lives\" - punctuation - 2", "severity": "minor", "category": "punctuation", "total_token": 1312}
+{"id": 286, "review": "\"protecting the rights of healthy\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 287, "review": "Severity Ratings:\n\"would be better to have\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 288, "review": "Severity Ratings:\n\"the order again on Monday,\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1305}
+{"id": 289, "review": "Severity Ratings:\n\"the two packages in one\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1293}
+{"id": 290, "review": "Severity Ratings:\n\"Leader Ayatollah Ali Khamenei issued\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1343}
+{"id": 291, "review": "Severity Ratings:\n\"time, Communist leaders were forced\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1308}
+{"id": 292, "review": "Severity Ratings:\n\"book is less a collection\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1306}
+{"id": 293, "review": "Severity Rating:\n\"of the low number of\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1301}
+{"id": 294, "review": "Severity Rating:\n\"and the closest location to\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 295, "review": "Severity Ratings:\n\"genuine and the quality is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1302}
+{"id": 296, "review": "Severity Ratings:\n\"31 rallied between 1.27 million\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 297, "review": "Severity Ratings:\n\"to consolidate account information due\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1304}
+{"id": 298, "review": "Severity Rating:\n\"I happened to see it\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 299, "review": "Severity Rating:\n\"it took three days for\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 300, "review": "Severity Ratings:\n\"cooperate with us and create\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1296}
+{"id": 301, "review": "Severity Ratings:\n\"GOV-MO: Police Notice: The Superintendent\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 302, "review": "Severity Ratings:\n\"Taiwan has been clarifying its\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1309}
+{"id": 303, "review": "Severity Rating:\n\"agonists and small quantities of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1310}
+{"id": 304, "review": "Severity Ratings:\n\"the seller asking if the\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1309}
+{"id": 305, "review": "Severity Ratings:\n\"of the camera used, truly\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1314}
+{"id": 306, "review": "\"Moreover, regarding the issue of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1316}
+{"id": 307, "review": "Severity Ratings:\n\"US job market will underpin\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 308, "review": "Severity Ratings:\n\"life, which is vividly reflected\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1308}
+{"id": 309, "review": "Severity Ratings:\n\"Conservation and Environmental Protection was\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1327}
+{"id": 310, "review": "Severity Ratings:\n\"may have to find new\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 311, "review": "\"of the country's morality police\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1325}
+{"id": 312, "review": "Severity Ratings:\n\"supermarket to buy when I\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1295}
+{"id": 313, "review": "Severity Rating:\n\"The semiconductor industry is a\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1310}
+{"id": 314, "review": "Severity Ratings:\n\"the United States allow the\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 315, "review": "\"by governments have caused severe disruption\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1328}
+{"id": 316, "review": "Severity Rating:\n\"Cicek, was rescued from the rubble\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1351}
+{"id": 317, "review": "Severity Ratings:\n\"E-account\" - punctuation - 2", "severity": "no-error", "category": "no-error", "total_token": 1317}
+{"id": 318, "review": "Severity Ratings:\n\"today, the US is preparing to\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1312}
+{"id": 319, "review": "Severity Rating:\n\"off by a few seconds even\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 320, "review": "Severity Rating:\n\"restrictions on movement also limit access\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1322}
+{"id": 321, "review": "Severity Rating:\n\"few steps away from her husband\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1327}
+{"id": 322, "review": "Severity Ratings:\n\"the originally hopeless rescue work, but\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 323, "review": "Severity Ratings:\n\"whether they receive enough recognition and\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1318}
+{"id": 324, "review": "Severity Rating:\n\"nearly half more than the previous\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1326}
+{"id": 325, "review": "Severity Ratings:\n\"called on the Commission to 'immediately\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1333}
+{"id": 326, "review": "Severity Rating:\n\"Shanghai for inspection at my own\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1314}
+{"id": 327, "review": "Severity Ratings:\n\"Japanese media, Kishida hoped to use\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1321}
+{"id": 328, "review": "Severity Rating:\n\"adjusted in this document (see Appendix\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1347}
+{"id": 329, "review": "Severity Rating:\n\"are all in English, which is\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1317}
+{"id": 330, "review": "Severity Ratings:\n\"FPT University in Vietnam, with the\" - no-error - n/a", "severity": "no-error", "category": "no-error", "total_token": 1323}
+{"id": 331, "review": "Severity Ratings:\n\"shipment I've seen in a long\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1334}
+{"id": 332, "review": "Severity Rating:\n\"it's a pity not to use\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1324}
+{"id": 333, "review": "Severity Ratings:\n\"accordance with the provisions of GB/T\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1330}
+{"id": 334, "review": "Severity Ratings:\n\"such as fentanyl, has led to\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1324}
+{"id": 335, "review": "Severity Ratings:\n\"trapped under the ruins for 129\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1324}
+{"id": 336, "review": "Severity Rating:\n\"you can smell the strong scent\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1323}
+{"id": 337, "review": "\"I'm not sure what to put\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1315}
+{"id": 338, "review": "Severity Ratings:\n\"been found, and life signs and\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 339, "review": "Severity Ratings:\n\"is unswervingly expanding its opening-up, the\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1329}
+{"id": 340, "review": "Severity Ratings:\n\"the water box top at the\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 341, "review": "Severity Ratings:\n\"NPS accounted for only 2% of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1343}
+{"id": 342, "review": "Severity Ratings:\n\" high school, but I just couldn't \" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1308}
+{"id": 343, "review": "Severity Ratings:\n\"headset really isn't as good as\" - mistranslation - 1", "severity": "minor", "category": "mistranslation", "total_token": 1318}
+{"id": 344, "review": "Severity Rating:\n\"tension between supply and demand in\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1310}
+{"id": 345, "review": "\"the end of 2023, the proportion\" - incorrect word order - 1", "severity": "minor", "category": "word order", "total_token": 1333}
+{"id": 346, "review": "Severity Ratings:\n\"the bone tissue to support and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1325}
+{"id": 347, "review": "Severity Ratings:\n\"was not good, and there is\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1303}
+{"id": 348, "review": "Severity Ratings:\n\"affirmation, thoughtful moments, acts of service,\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1337}
+{"id": 349, "review": "Severity Ratings:\n\"can be obtained for just over\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 350, "review": "Severity Rating:\n\"for all characters within the scope\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1316}
+{"id": 351, "review": "Severity Rating:\n\"but not very suitable for people\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1328}
+{"id": 352, "review": "Severity Ratings:\n\"in urgent need, just send it\" - fluency (incorrect word order) - 4", "severity": "minor", "category": "word order", "total_token": 1323}
+{"id": 353, "review": "Severity Rating:\n\"used either as an adulterant in\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1345}
+{"id": 354, "review": "Severity Ratings:\n\"the items were returned exactly as\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1319}
+{"id": 355, "review": "Severity Ratings:\n\"and printing of the images are simply\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1346}
+{"id": 356, "review": "Severity Ratings:\n\"the Vietnamese Government, Fan Mingzheng, and his\" - terminology (inappropriate for context) -5", "severity": "none", "category": "terminology", "total_token": 1336}
+{"id": 357, "review": "Severity Ratings:\n\"often tens of thousands per tooth, has\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1335}
+{"id": 358, "review": "Severity Ratings:\n\"national mobilization against the government's pension reform\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1340}
+{"id": 359, "review": "Severity Ratings:\n\"garner more political support for stronger U.S.\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1333}
+{"id": 360, "review": "Severity Ratings:\n\"Finally, when I touched the headphone cord,\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1329}
+{"id": 361, "review": "\"an amnesty marking the anniversary of the\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1359}
+{"id": 362, "review": "Severity Ratings:\n\"with GB 18030-2005, besides structural adjustments and\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1358}
+{"id": 363, "review": "Severity Ratings:\n\"jet, the F-22, to shoot down an\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1356}
+{"id": 364, "review": "Severity Ratings:\n\"very fast, arriving the day after the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1325}
+{"id": 365, "review": "Severity Ratings:\n\"on my request and informed me that\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1327}
+{"id": 366, "review": "Severity Ratings:\n\"similar trend had been observed in other\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1334}
+{"id": 367, "review": "Severity Ratings:\n\"use, but there is a gap between\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1330}
+{"id": 368, "review": "Severity Ratings:\n\"they have informed the governments of more\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1330}
+{"id": 369, "review": "Severity Rating:\n\"and improve the quality of 5G network\" - incorrect word order - 1", "severity": "minor", "category": "word order", "total_token": 1328}
+{"id": 370, "review": "Severity Ratings:\n\"in how to do it. It just\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1327}
+{"id": 371, "review": "Severity Ratings:\n\"a story compiled for the sake of\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1319}
+{"id": 372, "review": "Severity Ratings:\n\"Iran held an official rally on Saturday\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1344}
+{"id": 373, "review": "Severity Rating:\n\"according to data from the National Aeronautics\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1348}
+{"id": 374, "review": "Severity Ratings:\n\"Compared to the Philips product of the\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1333}
+{"id": 375, "review": "\"introduce more commercial and leisure activities to\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1331}
+{"id": 376, "review": "\"of this year, with the accelerated implementation\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1318}
+{"id": 377, "review": "Severity Ratings:\n\"it for 280 yuan during a promotion,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1325}
+{"id": 378, "review": "Severity Ratings:\n\"National Development and Reform Commission, attended the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1320}
+{"id": 379, "review": "Severity Ratings:\n\"panel are not consistent, after piecing together\" - grammar - 3", "severity": "minor", "category": "grammar", "total_token": 1331}
+{"id": 380, "review": "Severity Ratings:\n\"to lag further, owing to excess savings\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1337}
+{"id": 381, "review": "\"face of various unexpected shocks, China responded\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1329}
+{"id": 382, "review": "Severity Ratings:\n\"have carried out deadly repression against protests,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1342}
+{"id": 383, "review": "Severity Ratings:\n\"himself. He is no longer a complete\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1329}
+{"id": 384, "review": "Severity Ratings:\n\"to call, and during this time, I\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1333}
+{"id": 385, "review": "Severity Ratings:\n\"piece of the courier, so I could\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1349}
+{"id": 386, "review": "Severity Ratings:\n\"uncomfortable. Modern urban people are a bit\" - grammar - 2\n", "severity": "minor", "category": "grammar", "total_token": 1336}
+{"id": 387, "review": "Severity Ratings:\n\"of rubble, and then found the father,\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1337}
+{"id": 388, "review": "Severity Ratings:\n\"growth rate, the number of new students\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1359}
+{"id": 389, "review": "Severity Ratings:\n\"Trade and Industry of Japan, and the Japan-China\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1349}
+{"id": 390, "review": "Severity Ratings:\n\"and production, and marketing and trade. It mainly\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1360}
+{"id": 391, "review": "Severity Ratings:\n\"I previously bought online from another store had\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1333}
+{"id": 392, "review": "Severity Ratings:\n\"EU was reportedly a response to the growing\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1341}
+{"id": 393, "review": "Severity Ratings:\n\"and verifies them one by one through online\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1345}
+{"id": 394, "review": "Severity Ratings:\n\"holding this forum is an important measure to\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1340}
+{"id": 395, "review": "Severity Ratings:\n\"Kong, and are highly recommended if they are\" - grammar - 5", "severity": "major", "category": "grammar", "total_token": 1331}
+{"id": 396, "review": "Severity Rating:\n\"the 'Action Plan to Strengthen the Comprehensive Partnership\" - omission - 7", "severity": "major", "category": "grammar", "total_token": 1365}
+{"id": 397, "review": "Severity Rating:\n\"to open more bases to the US military\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1320}
+{"id": 398, "review": "Severity Ratings:\n\"Chinese medical aid teams abroad, and sincere condolences\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 399, "review": "Severity Ratings:\n\"person in charge of the organization came forward\" - terminology - 3", "severity": "minor", "category": "terminology", "total_token": 1331}
+{"id": 400, "review": "Severity Ratings:\n\"Due to reasons such as Chinese and Western\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1335}
+{"id": 401, "review": "Severity Ratings:\n\"the devastating earthquake in Turkey and neighboring Syria,\" - mistranslation - 3", "severity": "minor", "category": "mistranslation", "total_token": 1361}
+{"id": 402, "review": "\"tourists put their health at the top of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1333}
+{"id": 403, "review": "Severity Ratings:\n\"half of the people in the country invested\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1336}
+{"id": 404, "review": "\"- the desire to be understood, affirmed, and\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1338}
+{"id": 405, "review": "Severity Ratings:\n\"situation in the affected area and the situation\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1326}
+{"id": 406, "review": "Severity Ratings:\n\"mistake, but I couldn't cancel the order. The\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1333}
+{"id": 407, "review": "Severity Ratings:\n\"continuous advancement of the BSE market system, improving\" - grammar - 4", "severity": "minor", "category": "grammar", "total_token": 1334}
+{"id": 408, "review": "Severity Ratings:\n\"12th. It was almost 10 days in advance.\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1343}
+{"id": 409, "review": "Severity Ratings:\n\"points out that since 2020, the number of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1332}
+{"id": 410, "review": "Severity Ratings:\n\"First Affiliated Hospital of Zhengzhou University that, taking\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1345}
+{"id": 411, "review": "Severity Ratings:\n\"harm have been shown to cause overdose deaths\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1353}
+{"id": 412, "review": "Severity Ratings:\n\"his wife's official visits to Singapore and Brunei\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1358}
+{"id": 413, "review": "Severity Ratings:\n\"or a wage strike, so trade unions hope that\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1361}
+{"id": 414, "review": "Severity Ratings:\n\"news from the \"Shenzhen Gongxin\" WeChat public account on\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1355}
+{"id": 415, "review": "Severity Ratings:\n\"in Turkey after being trapped for 122 hours, following\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1368}
+{"id": 416, "review": "Severity Rating:\n\"some member states say that if the EU could\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1359}
+{"id": 417, "review": "Severity Ratings:\n\"China is willing to work with Japan to continue\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1343}
+{"id": 418, "review": "Severity Ratings:\n\"last year, and it is now the fifth official\" - omission - 6", "severity": "major", "category": "omission", "total_token": 1356}
+{"id": 419, "review": "Severity Rating:\n\"are hoping for more than a million people to\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1360}
+{"id": 420, "review": "Severity Ratings:\n\"buyers who believe that due to information asymmetry, it\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1343}
+{"id": 421, "review": "Severity Ratings:\n\"or six in the evening. However, when I called\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1346}
+{"id": 422, "review": "Severity Ratings:\n\"industries, many US companies have been deeply affected, including\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1372}
+{"id": 423, "review": "Severity Ratings:\n\"reviews, so that other consumers will use them as\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1347}
+{"id": 424, "review": "Severity Ratings:\n\"hundreds of synthetic drugs have been added, many of\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1359}
+{"id": 425, "review": "Severity Ratings:\n\"temporarily close some of their branches due to operational\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1347}
+{"id": 426, "review": "Severity Ratings:\n\"different sales organizations, but through the 'Fund E Account',\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1352}
+{"id": 427, "review": "Severity Ratings:\n\"read the product specifications clearly. I have no problem\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1342}
+{"id": 428, "review": "\"to develop a health and wellness attraction on the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1355}
+{"id": 429, "review": "Severity Ratings:\n\"returned once signed for. I had no choice but\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1348}
+{"id": 430, "review": "Severity Ratings:\n\"amounted to US $31.51 billion, a decrease of 21.2\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1354}
+{"id": 431, "review": "Severity Ratings:\n\"whispered to each other. Kim Ju-ae once held her father's\" - omission - 5", "severity": "major", "category": "omission", "total_token": 1385}
+{"id": 432, "review": "Severity Ratings:\n\"and saw that the order was still there and had\" - addition - 6", "severity": "major", "category": "addition", "total_token": 1358}
+{"id": 433, "review": "Severity Ratings:\n\"China Wealth Management Network released the first batch of personal\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1356}
+{"id": 434, "review": "Severity Ratings:\n\"in hand with her father, she touched Kim Jong-un's chest\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1377}
+{"id": 435, "review": "\"to drug use disorders in 2017, and 50 percent of\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1385}
+{"id": 436, "review": "Severity Rating:\n\"and immediately received a notification from the financial institution about\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1347}
+{"id": 437, "review": "Severity Ratings:\n\"the United States, Colorado and Washington, non-medical use of cannabis\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1380}
+{"id": 438, "review": "Severity Ratings:\n\"the 'Fund E Account' provides individual investors with a 'one-stop'\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1367}
+{"id": 439, "review": "Severity Ratings:\n\"that their stores did not operate normally after the Spring\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1350}
+{"id": 440, "review": "Severity Ratings:\n\"the 31,000 deaths caused by the 2003 earthquake in neighbouring\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1407}
+{"id": 441, "review": "Severity Ratings:\n\" of 8G memory cards, and that smaller memory cards cannot \" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1356}
+{"id": 442, "review": "MQM annotations:\n\"the strength of consumer credit data, we judge that the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1364}
+{"id": 443, "review": "Severity Ratings:\n\"didn't give it a full score is because once when\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1346}
+{"id": 444, "review": "Severity Rating:\n\"Zheng Yonggang served as the director of the state-owned cotton\" - grammar - 3", "severity": "minor", "category": "grammar", "total_token": 1377}
+{"id": 445, "review": "Severity Ratings:\n\"didn't make any exaggerated claims, but Amazon changed the name\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1363}
+{"id": 446, "review": "Severity Ratings:\n\"but relatively low; new jobs in high-touch services, such as\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1367}
+{"id": 447, "review": "Severity Rating:\n\"improve the speed and efficiency of the company's product flow,\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1353}
+{"id": 448, "review": "Severity Ratings:\n\"regular facial features, no obvious hair loss, and nearsightedness not\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1371}
+{"id": 449, "review": "Severity Ratings:\n\"college degree or above, or be enrolled in a college,\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1358}
+{"id": 450, "review": "Severity Rating:\n\"taken to the extreme, and the plot is as quiet\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1365}
+{"id": 451, "review": "Severity Ratings:\n\"the efforts and process of the two sides to stabilize\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1356}
+{"id": 452, "review": "Severity Ratings:\n\"the Singapore Tourism Board, tourist arrivals in 2022 increased 19-fold to\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1400}
+{"id": 453, "review": "Severity Rating:\n\"(Deutsche Welle Chinese website) Several days have passed since the earthquake\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1383}
+{"id": 454, "review": "Severity Ratings:\n\"above or school students\" - mistranslation - 7\n", "severity": "no-error", "category": "no-error", "total_token": 1365}
+{"id": 455, "review": "Severity Ratings:\n\"and launched new promotional videos on online and offline platforms for\" - grammatical inconsistency - 3", "severity": "minor", "category": "inconsistency", "total_token": 1373}
+{"id": 456, "review": "Severity Ratings:\n\"that I shouldn't have bought their product in the first place.\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1374}
+{"id": 457, "review": "Severity Ratings:\n\"implementing Xi Jinping Thought on Socialism with Chinese Characteristics for a\" - grammar - 1", "severity": "minor", "category": "grammar", "total_token": 1391}
+{"id": 458, "review": "Severity Ratings:\n\"Marquez's Love in the Time of Cholera), and the brief segments\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1398}
+{"id": 459, "review": "Severity Ratings:\n\"8th, North Korea held a military parade for the 75th anniversary\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1378}
+{"id": 460, "review": "Severity Ratings:\n\"Prime Minister Pham Minh Chinh and his wife visited the University\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1389}
+{"id": 461, "review": "Severity Ratings:\n\"to prevent it from being opened, but this time there wasn't.\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1351}
+{"id": 462, "review": "Severity Ratings:\n\" National People's Congress of China are held, where representatives and members \" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1367}
+{"id": 463, "review": "Severity Rating:\n\"Yonggang stated in his speech that in the Chinese suit market\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1388}
+{"id": 464, "review": "\"want it and wanted to cancel the order but couldn't. The\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1353}
+{"id": 465, "review": "Severity Ratings:\n\"anniversary of the Iranian Revolution, the hardline government of Raisi faces\" - no-error - 0", "severity": "no-error", "category": "no-error", "total_token": 1399}
+{"id": 466, "review": "Severity Ratings:\n\"Yingmen Aviation Technology Group\" - incorrect word order - 4", "severity": "no-error", "category": "no-error", "total_token": 1393}
+{"id": 467, "review": "Severity Ratings:\n\"willing to be a good friend and reliable partner of all\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1376}
+{"id": 468, "review": "Severity Ratings:\n\"scientific and technological innovation and inject new impetus into economic and\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1369}
+{"id": 469, "review": "Severity Ratings:\n\"set of andrological physical examination worth 1,000 RMB, \"especially semen and chromosome\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1390}
+{"id": 470, "review": "Severity Ratings:\n\"Standing Committee member of the Political Bureau of the Communist Party of\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1363}
+{"id": 471, "review": "\"style is an exploratory endeavor, with many unknown areas that need to\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1363}
+{"id": 472, "review": "Severity Ratings:\n\"on one hand, and building a 'de-Sinicized' semiconductor industry chain alliance on\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1399}
+{"id": 473, "review": "Severity Ratings:\n\"Belgium] According to Agence France-Presse on February 10, at the latest EU\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1410}
+{"id": 474, "review": "Severity Ratings:\n\"Bank of Shaanxi Province printed a poster with the slogan 'Paid Sperm\" - no-error\n", "severity": "no-error", "category": "no-error", "total_token": 1387}
+{"id": 475, "review": "Severity Ratings:\n\"Later, I found out that it should be a problem with the\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1364}
+{"id": 476, "review": "Severity Ratings:\n\"railway company called for a strike today, and the bus system should\" - grammar - 5", "severity": "major", "category": "grammar", "total_token": 1379}
+{"id": 477, "review": "Severity Ratings:\n\"skimpy, just a cardboard box with no protection whatsoever, and the box\" - mistranslation - 2", "severity": "minor", "category": "mistranslation", "total_token": 1374}
+{"id": 478, "review": "\"demographics or general drug use patterns, are struggling to combat an opioid crisis\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1404}
+{"id": 479, "review": "Severity Ratings:\n\"62 to 64, but the number of people who actually took to the\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1384}
+{"id": 480, "review": "Severity Ratings:\n\"and 34 cm wide, similar to the complete works of Michelangelo; the medium\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1397}
+{"id": 481, "review": "Severity Ratings:\n\"It requires both systematic planning and the courage to reform and innovate, continuously\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1387}
+{"id": 482, "review": "Severity Ratings:\n\"and low-latency ultra-broadband network will be built to achieve the goal of 'dual\" - fluency (punctuation) - 3", "severity": "no-error", "category": "no-error", "total_token": 1414}
+{"id": 483, "review": "Severity Ratings:\n\"Strategic Competition between the United States and the Communist Party of China may put\" - incorrect word order - 2", "severity": "minor", "category": "word order", "total_token": 1394}
+{"id": 484, "review": "Severity Ratings:\n\"between the straw and the cap was too close. Because the position of the\" - grammar - 2", "severity": "minor", "category": "grammar", "total_token": 1398}
+{"id": 485, "review": "Severity Ratings:\n\"of 189,000; the unemployment rate fell to 3.4%, the lowest level in nearly 50\" - no-error - 1", "severity": "no-error", "category": "no-error", "total_token": 1451}
+{"id": 486, "review": "\"states could not prevent refugees from submitting 'countless' asylum applications in EU countries, leaving\" - incorrect word order - 3", "severity": "no-error", "category": "no-error", "total_token": 1427}
+{"id": 487, "review": "Severity Ratings:\n\"when the diapers from JD.com had a strong smell after opening, the customer service\" - no-error - N/A", "severity": "no-error", "category": "no-error", "total_token": 1402}
+{"id": 488, "review": "Severity Ratings:\n\"to log on to fake websites for redemption with the bait of redeeming rewards\" - incorrect word order - 3", "severity": "minor", "category": "word order", "total_token": 1396}
+{"id": 489, "review": "Severity Ratings:\n\"size of a small car, and much smaller than the Chinese spy balloon that\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1428}
+{"id": 490, "review": "Severity Ratings:\n\"compared to 1.89 billion Singapore dollars in 2021, and has recovered to about 50% to\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1448}
+{"id": 491, "review": "Severity Ratings:\n\"When I bought this phone, I thought about the two feelings at the time, we could\" - incorrect word order - 4", "severity": "minor", "category": "word order", "total_token": 1408}
+{"id": 492, "review": "Severity Ratings:\n\"the Central Military Commission, wrote back to the 19th batch of Chinese medical team members assisting\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1416}
+{"id": 493, "review": "Severity Ratings:\n\"times when I saw Samsung mobile phone, I thought of her, and the pain filled my\" - incorrect word order - 5", "severity": "major", "category": "word order", "total_token": 1436}
+{"id": 494, "review": "Severity Ratings:\n\"with Wang Huning, a member of the Standing Committee of the Political Bureau of the CPC Central\" - incorrect word order - 1", "severity": "minor", "category": "word order", "total_token": 1408}
+{"id": 495, "review": "Severity Ratings:\n\"which could be easily read as a paperback edition; secondly, unlike the complete Michelangelo collection, which was\" - fluency (grammar) - 2", "severity": "minor", "category": "grammar", "total_token": 1456}
+{"id": 496, "review": "Severity Ratings:\n\"mission, vigorously promote the spirit of the Chinese medical team that is not afraid of hardship, willing to\" - mistranslation - 4", "severity": "minor", "category": "mistranslation", "total_token": 1428}
+{"id": 497, "review": "Severity Ratings:\n\"Korea to establish a \"technology alliance\", or establishing a chip \"quadrilateral alliance\" with South Korea, Japan, and Taiwan, China, or establishing a \" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1529}
+{"id": 498, "review": "\"Characteristics for a New Era and the spirit of the 20th Party Congress at the Central Party School (National School of Administration) in the afternoon.\" - no-error", "severity": "no-error", "category": "no-error", "total_token": 1469}
+{"id": 499, "review": "\"colleagues around me and they all said\" - fluency (clarity) - 3", "severity": "minor", "category": null, "total_token": 1534}
+{"id": 500, "review": "\"I gave a\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 501, "review": "\"second incoming call\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 502, "review": "Severity Rating:\n\"will not be\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 503, "review": "Severity Ratings:\n\"Huawei is the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1272}
+{"id": 504, "review": "Severity Ratings:\n\"delivery man was\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 505, "review": "Severity Ratings:\n\"was a disappointment.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 506, "review": "Severity Ratings:\n\"feeling too good\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 507, "review": "\"used 3-4 times.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 508, "review": "Severity Rating:\n\"will take a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 509, "review": "Severity Ratings:\n\"often can't connect\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 510, "review": "Severity Ratings:\n\"the color is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 511, "review": "Severity Ratings:\n\"The terminology fluctuates\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 512, "review": "Severity Ratings:\n\"I became a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 513, "review": "Severity Rating:\n\"mattress is really\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 514, "review": "Severity Ratings:\n\"cut is too\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 515, "review": "Severity Ratings:\n\"they mentioned some\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 516, "review": "Severity Ratings:\n\"think this is\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 517, "review": "Severity Ratings:\n\"be that I'm\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 518, "review": "Severity Ratings:\n\"A Quick Guide\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 519, "review": "Severity Ratings:\n\"on Saturday and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 520, "review": "Severity Ratings:\n\"Amazon's self-operated products\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 521, "review": "Severity Ratings:\n\"News Financial Reporter\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 522, "review": "Severity Ratings:\n\"high-quality city-level wireless\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 523, "review": "Severity Ratings:\n\"think I'll get\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 524, "review": "Severity Ratings:\n\"not a large\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 525, "review": "Severity Ratings:\n\"Give credit where\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 526, "review": "Severity Ratings:\n\"have a few\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 527, "review": "\"The wheels\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1268}
+{"id": 528, "review": "Severity Rating:\n\"service were not\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 529, "review": "\"restrictions on technology\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 530, "review": "Severity Rating:\n\"on the front.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 531, "review": "Severity Rating:\n\"Suitable for skimming\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 532, "review": "\"breathability is also\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 533, "review": "Severity Ratings:\n\"The material of\" - addition - 7", "severity": "major", "category": "addition", "total_token": 1269}
+{"id": 534, "review": "Severity Ratings:\n\"some characters and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 535, "review": "Severity Rating:\n\"not as good\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 536, "review": "\"can I love\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1270}
+{"id": 537, "review": "Severity Ratings:\n\"response from the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 538, "review": "Severity Ratings:\n\"The worst shopping\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 539, "review": "Severity Ratings:\n\"Big brands\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 540, "review": "Severity Ratings:\n\"see more improvements\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 541, "review": "\"be said to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 542, "review": "Severity Ratings:\n\"The balloon incident\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1272}
+{"id": 543, "review": "\"telephone number on\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 544, "review": "\"the book feels\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 545, "review": "Severity Ratings:\n\"grind the instep.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 546, "review": "Severity Rating:\n\"the clothes is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 547, "review": "Severity Rating:\n\"is also fast.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 548, "review": "\"5 stars, poor\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 549, "review": "Severity Ratings:\n\"have been a\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 550, "review": "Severity Ratings:\n\"to eat, and\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 551, "review": "Severity Rating:\n\"we set two\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 552, "review": "Severity Rating:\n\"ask Amazon for\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 553, "review": "Severity Ratings:\n\"anti-counterfeit label?\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 554, "review": "Severity Rating:\n\"purchase is not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 555, "review": "Severity Ratings:\n\"this was a\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1271}
+{"id": 556, "review": "Severity Ratings:\n\"money be returned?\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 557, "review": "\"an attitude towards\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 558, "review": "Severity Ratings:\n\"Kuomintang considered it\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 559, "review": "Severity Ratings:\n\"The appearance is\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 560, "review": "\"The postal courier\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1269}
+{"id": 561, "review": "Severity Rating:\n\"service needs to\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 562, "review": "Severity Ratings:\n\"1 The packaging\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 563, "review": "Severity Ratings:\n\"a poor review,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 564, "review": "Severity Ratings:\n\"Above average in\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 565, "review": "Severity Ratings:\n\"document specifies three\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1272}
+{"id": 566, "review": "Severity Ratings:\n\"It's supposed to\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 567, "review": "Severity Rating:\n\"value for money\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1273}
+{"id": 568, "review": "Severity Ratings:\n\"I'm really speechless\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 569, "review": "\"is simply unacceptable.\" - addition - 6", "severity": "major", "category": "addition", "total_token": 1279}
+{"id": 570, "review": "Severity Rating:\n\"That is why\" - addition - 5", "severity": "major", "category": "addition", "total_token": 1270}
+{"id": 571, "review": "\"Is this how\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1275}
+{"id": 572, "review": "Severity Ratings:\n\"The Bentley watch\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1274}
+{"id": 573, "review": "Severity Ratings:\n\"pension wealth management\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 574, "review": "Severity Ratings:\n\"a long time,\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 575, "review": "Severity Ratings:\n\"11, 2023, 13:09:10 [Source:\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1306}
+{"id": 576, "review": "Severity Ratings:\n\"shootdown took place 10\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 577, "review": "Severity Rating:\n\"the style is slim\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 578, "review": "Severity Ratings:\n\"Combating the CCP, the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 579, "review": "\"leader\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 580, "review": "Severity Ratings:\n\"Double Eleven is much\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 581, "review": "Severity Ratings:\n\"of synthetic opioids has\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 582, "review": "Severity Ratings:\n\"rebounds strongly with a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 583, "review": "Severity Ratings:\n\"for that product designer.\u200f\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1298}
+{"id": 584, "review": "Severity Ratings:\n\"It is impossible, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1278}
+{"id": 585, "review": "Severity Ratings:\n\"Position Range Number of\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1291}
+{"id": 586, "review": "Severity Ratings:\n\"worried that Alphabet is\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1281}
+{"id": 587, "review": "Severity Ratings:\n\"in an air-conditioned room,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 588, "review": "Severity Ratings:\n\"part of our country's\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 589, "review": "\"take four or five\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 590, "review": "Severity Ratings:\n\"product is mediocre and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 591, "review": "Severity Ratings:\n\"head attachments are just\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 592, "review": "Severity Rating:\n\"Marijuana is the most\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 593, "review": "Severity Ratings:\n\"Estate Market - China\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 594, "review": "Severity Ratings:\n\"you will get a\" - addition - 7", "severity": "major", "category": "addition", "total_token": 1289}
+{"id": 595, "review": "\"market will gradually restart\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 596, "review": "Severity Ratings:\n\"and the knobs are\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 597, "review": "Severity Ratings:\n\"also a voice shouting,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 598, "review": "Severity Ratings:\n\"kind of service is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 599, "review": "Severity Ratings:\n\"I'm not sure what\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 600, "review": "Severity Ratings:\n\"never bought similar products\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 601, "review": "\"reason for not returning\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 602, "review": "Severity Ratings:\n\"pot clean and returned\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 603, "review": "Severity Ratings:\n\"us wonderful foreign thoughts\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 604, "review": "Severity Rating:\n\"Hope to pay attention\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 605, "review": "\"after-sales service is really\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 606, "review": "\"does not allow for\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 607, "review": "Severity Ratings:\n\"after the discount, but\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 608, "review": "Severity Ratings:\n\"the Clarks from my\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 609, "review": "Severity Ratings:\n\"the price of dental\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 610, "review": "Severity Ratings:\n\"ones; both well-known entrepreneurs\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 611, "review": "Severity Ratings:\n\"I thought about cancelling\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 612, "review": "Severity Ratings:\n\"a place to complain\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 613, "review": "Severity Rating:\n\"higher price, get a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 614, "review": "Severity Ratings:\n\"and dust can get\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1279}
+{"id": 615, "review": "Severity Ratings:\n\"it stops and does\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 616, "review": "Severity Ratings:\n\"2 points is that\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 617, "review": "Severity Rating:\n\"is this?\" - mistranslation - 5", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 618, "review": "Severity Ratings:\n\"them, integrated circuits fell\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 619, "review": "\"In contrast to Michelangelo's\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 620, "review": "Severity Ratings:\n\"personal pension wealth management\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 621, "review": "Severity Ratings:\n\"there's space in the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 622, "review": "Severity Ratings:\n\"have some complaints about\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 623, "review": "Severity Ratings:\n\"China News Network\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 624, "review": "\"How can the interior\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 625, "review": "Severity Ratings:\n\"matching manufacturing process to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1278}
+{"id": 626, "review": "Severity Ratings:\n\"one star for logistics\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 627, "review": "Severity Ratings:\n\"country sent the first\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 628, "review": "Severity Ratings:\n\"there is no elastic\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 629, "review": "Severity Ratings:\n\"particularly slender, it is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 630, "review": "Severity Ratings:\n\"sorry for your loss\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 631, "review": "Severity Ratings:\n\"conditions in a 'guaranteed\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 632, "review": "Severity Ratings:\n\"reason behind the plunge\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 633, "review": "Severity Ratings:\n\"the service, then simply\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 634, "review": "Severity Ratings:\n\"merchant has considered the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 635, "review": "Severity Ratings:\n\"Pay more attention to\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 636, "review": "MQM annotations:\n\"code points from 0xFD308130\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 637, "review": "Severity Ratings:\n\"A man from Kahramanmaras\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1316}
+{"id": 638, "review": "Severity Rating:\n\"the same, so let's\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 639, "review": "Severity Ratings:\n\"bought it one week\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 640, "review": "Severity Ratings:\n\"I called the next\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 641, "review": "Severity Rating:\n\"are well made and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 642, "review": "Severity Ratings:\n\"to the end, no\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1285}
+{"id": 643, "review": "Severity Rating:\n\"didn't use it much\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 644, "review": "\"Table 3 Arrangement of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 645, "review": "Severity Rating:\n\"destroys the whole sense\" - untranslated text/mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 646, "review": "Severity Rating:\n\"Marcos Jr. visited China\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1285}
+{"id": 647, "review": "Severity Rating:\n\"of the 67,367 overdose\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 648, "review": "Severity Rating:\n\"my first long comment\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 649, "review": "Severity Ratings:\n\"electronic products on Amazon\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 650, "review": "Severity Ratings:\n\"it's been a long\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 651, "review": "Severity Ratings:\n\"I? Did I really\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1292}
+{"id": 652, "review": "Severity Rating:\n\"much better off outsourcing\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1290}
+{"id": 653, "review": "Severity Rating:\n[Empty tag] - omission - 7\n\nExplanation:\nThere is a significant omission in the translation. The original Chinese sentence suggests a comparison between manufacturing in China and elsewhere (an unspecified location), with \"\u5c0f\u9a6c\" presumably referring to a place or company name. Instead of this comparative context, the English translation erroneously lacks this crucial content, as it leaves the comparison and location completely unclear, significantly impacting the intended meaning.", "severity": "major", "category": "omission", "total_token": 1360}
+{"id": 654, "review": "Severity Ratings:\n\"Hong Kong tourists and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1277}
+{"id": 655, "review": "Severity Rating:\n\"Strong, sufficient materials, firm\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 656, "review": "Severity Ratings:\n\"the first lady, Ri\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 657, "review": "Severity Ratings:\n\"a very simple design.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 658, "review": "Severity Rating:\n\"of the source file\" - omission - 8", "severity": "major", "category": "omission", "total_token": 1280}
+{"id": 659, "review": "Severity Ratings:\n\"mobile device, or computer,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1292}
+{"id": 660, "review": "Severity Rating:\n\"There are also problems\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 661, "review": "Severity Ratings:\n\"bit confused\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 662, "review": "Severity Rating:\n\"our whole family loves\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 663, "review": "Severity Ratings:\n\"in the overall quantity of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 664, "review": "\"considered that there was\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 665, "review": "Severity Ratings:\n\"\" (missing segment) - omission - 8", "severity": "major", "category": "omission", "total_token": 1291}
+{"id": 666, "review": "Severity Rating:\n\"Singapore signed a Memorandum\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 667, "review": "Severity Rating:\n\"has plunged the world\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 668, "review": "Severity Rating:\n\"20.1% year-on-year, the largest\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 669, "review": "Severity Ratings:\n\"58 million people used\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 670, "review": "Severity Ratings:\n\"Two-day intensive itinerary to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 671, "review": "Severity Ratings:\n\"but the platform bureaucracy\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 672, "review": "Severity Ratings:\n\"but in the text\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 673, "review": "Severity Ratings:\n\"of revolution Hackers supporting\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 674, "review": "\"and appears to be\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 675, "review": "\"If you do not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1286}
+{"id": 676, "review": "Severity Ratings:\n\"Sleep detection is not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 677, "review": "\"I am very concerned\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 678, "review": "Severity Rating:\n\"more portable.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 679, "review": "Severity Rating:\n\"this document should meet\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1284}
+{"id": 680, "review": "Severity Ratings:\n\"at 20,665 and in\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1297}
+{"id": 681, "review": "Severity Ratings:\n\"definitely repurchase!\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 682, "review": "Severity Ratings:\n\"been added (see Chapter\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 683, "review": "Severity Ratings:\n\"the No. 1 domestic\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 684, "review": "Severity Ratings:\n\"There are minor flaws,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 685, "review": "\"inimately with his daughter,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1276}
+{"id": 686, "review": "Severity Ratings:\n\"added fuel to the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 687, "review": "\"quality was even surround\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 688, "review": "Severity Rating:\n\"to accelerate the upgrade\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 689, "review": "\"read this manual carefully\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1282}
+{"id": 690, "review": "Severity Rating:\n\"the energy efficiency of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 691, "review": "Severity Rating:\n\"bears all shipping costs.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 692, "review": "\"Bard answered wrongly.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1283}
+{"id": 693, "review": "Severity Ratings:\n\"2023, 13:07:20 [Source: Xinhua\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1312}
+{"id": 694, "review": "Severity Ratings:\n\"my books here\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1325}
+{"id": 695, "review": "Severity Ratings:\n\"continue to buy in\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1288}
+{"id": 696, "review": "Severity Ratings:\n\"you, and I want\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1280}
+{"id": 697, "review": "Severity Ratings:\n\"The four-byte part contains\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1281}
+{"id": 698, "review": "Severity Ratings:\n\"to having an elderly\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 699, "review": "Severity Ratings:\n\"on consumer confidence\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 700, "review": "Severity Ratings:\n\"I use a copied paragraph\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1310}
+{"id": 701, "review": "Severity Ratings:\n\"Thanh participated in more than\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 702, "review": "Severity Ratings:\n\"Quanfeng Express, which is not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 703, "review": "Severity Ratings:\n\"agency account systems are independent\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 704, "review": "Severity Ratings:\n\"friend who has 5200, and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 705, "review": "Severity Ratings:\n\"as the legal market expands\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 706, "review": "\"emergence of non-internationally controlled substances\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1318}
+{"id": 707, "review": "Severity Ratings:\n\"a zipped hoodie when we\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1317}
+{"id": 708, "review": "Severity Ratings:\n\"and the reviews also indicated\" - addition - 7", "severity": "major", "category": "addition", "total_token": 1307}
+{"id": 709, "review": "Severity Ratings:\n\"The patterns of drug use\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 710, "review": "Severity Ratings:\n\"government announced the allocation of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 711, "review": "Severity Rating:\n\"there was something wrong with\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 712, "review": "\"from Hong Kong\" - addition - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 713, "review": "Severity Ratings:\n\"Amazon lacks the spirit of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 714, "review": "Severity Ratings:\n\"without any problems, brushing every\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 715, "review": "Severity Ratings:\n\"product, or I deliberately damaged\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 716, "review": "Severity Rating:\n\"in the Philippines.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 717, "review": "\"status of previous versions of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1293}
+{"id": 718, "review": "\"use of marijuana in Uruguay\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1291}
+{"id": 719, "review": "Severity Ratings:\n\"new energy and new materials,\" - addition - 7", "severity": "major", "category": "addition", "total_token": 1311}
+{"id": 720, "review": "Severity Ratings:\n\"into two packages with different\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 721, "review": "\"fake, or if they were\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 722, "review": "Severity Ratings:\n\"is one of the symbols\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 723, "review": "Severity Ratings:\n\"it yet. I've always trusted \" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 724, "review": "Severity Ratings:\n\"by the Ministry of Industry\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 725, "review": "\"be available again\" - addition - 7", "severity": "major", "category": "mistranslation", "total_token": 1289}
+{"id": 726, "review": "Severity Rating:\n\"this product is at least\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 727, "review": "Severity Ratings:\n\"Mikhail Gorbachev came to power\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 728, "review": "Severity Ratings:\n\"3rd and arrived on the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 729, "review": "Severity Ratings:\n\"excellence\" business philosophy, products based - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1304}
+{"id": 730, "review": "Severity Ratings:\n\"testing in the office, the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 731, "review": "Severity Ratings:\n\"changed in the four-byte encoding\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 732, "review": "Severity Rating:\n\"it, you must wait for\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 733, "review": "Severity Rating:\n\"investigation, it was confirmed that\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 734, "review": "Severity Ratings:\n\"were rescued days after surviving\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1297}
+{"id": 735, "review": "Severity Ratings:\n\"the mouth to make the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 736, "review": "Severity Ratings:\n\"be meticulous and strictly control\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 737, "review": "Severity Ratings:\n\"16th, but I only received\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 738, "review": "Severity Ratings:\n\" supposed to be brought out, \" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 739, "review": "Severity Rating:\n\"16-year-old boy and a 70-year-old\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 740, "review": "Severity Ratings:\n\"air bag added inside, not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1335}
+{"id": 741, "review": "Severity Ratings:\n\"did not have a 'payload'\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 742, "review": "Severity Ratings:\n\"back of the little lion\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 743, "review": "Severity Ratings:\n\"University of Brunei is the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 744, "review": "\"to charge the product before\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 745, "review": "Severity Ratings:\n\"at the whim of your\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 746, "review": "Severity Ratings:\n\"card, I bought it myself,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1319}
+{"id": 747, "review": "Severity Ratings:\n\"bland marriages of people you\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 748, "review": "Severity Ratings:\n\"have quick wake-up settings enabled)\" - addition - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 749, "review": "Severity Ratings:\n\"financing is an important basic\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 750, "review": "Severity Ratings:\n\"asked if the goods had\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 751, "review": "Severity Ratings:\n\"traditional gyms generally adopt the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 752, "review": "Severity Ratings:\n\"interface, or if it's something\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 753, "review": "Severity Ratings:\n\"At the same time, two\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 754, "review": "Severity Ratings:\n\"telescope had taken the first\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 755, "review": "Severity Ratings:\n\"arguing over issues such as\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 756, "review": "Severity Ratings:\n\"5,150 yuan is available.\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1306}
+{"id": 757, "review": "\"from this seller, as the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 758, "review": "Severity Ratings:\n\"domestic market of Member States\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1299}
+{"id": 759, "review": "\"does not value service feedback\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 760, "review": "Severity Ratings:\n\"reviews said the installation was\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 761, "review": "Severity Ratings:\n\"Reuters report today, Iran commemorated\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 762, "review": "Severity Ratings:\n\"for a long time, except\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1308}
+{"id": 763, "review": "Severity Ratings:\n\"making it the most widely\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 764, "review": "Severity Ratings:\n\"is too bad, and shopping\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1312}
+{"id": 765, "review": "Severity Ratings:\n\"that Amazon's own skincare products\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1318}
+{"id": 766, "review": "Severity Ratings:\n\"they often call for silence,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 767, "review": "Severity Ratings:\n\"President Bongbong Marcos visited Japan\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1327}
+{"id": 768, "review": "Severity Ratings:\n\"Currently, I can't find an\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1320}
+{"id": 769, "review": "Severity Ratings:\n\"and Australia fell year on\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1300}
+{"id": 770, "review": "Severity Ratings:\n\"advanced semiconductor industry has dragged\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1298}
+{"id": 771, "review": "Severity Ratings:\n\"to drive 200 kilometers back\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1311}
+{"id": 772, "review": "Severity Ratings:\n\"the expected delivery date as\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 773, "review": "Severity Ratings:\n\"forward to Chinese wisdom and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 774, "review": "Severity Ratings:\n\"the first listed company in\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 775, "review": "Severity Ratings:\n\"is the frequent and regular\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 776, "review": "Severity Ratings:\n\"been looking at the price\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 777, "review": "Severity Ratings:\n\"the time can't be adjusted.\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 778, "review": "Severity Ratings:\n\"additional things like a TV\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 779, "review": "Severity Ratings:\n\"were in rubber and plastic\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 780, "review": "Severity Ratings:\n\"short story is a brief\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 781, "review": "Severity Ratings:\n\" packed, and the card box \" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 782, "review": "Severity Ratings:\n\"150 yuan more expensive, but\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1307}
+{"id": 783, "review": "Severity Ratings:\n\"11 major categories of goods\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1313}
+{"id": 784, "review": "Severity Ratings:\n\"fact, the closer we are,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1303}
+{"id": 785, "review": "Severity Rating:\n\"has attracted social attention.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 786, "review": "Severity Ratings:\n\"to have half the domestic\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 787, "review": "Severity Ratings:\n\"I looked at the order\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1287}
+{"id": 788, "review": "Severity Ratings:\n\"quality of the two packages\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 789, "review": "Severity Ratings:\n\"issued an amnesty that included\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1295}
+{"id": 790, "review": "Severity Ratings:\n\"time, Communist leaders were forced\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 791, "review": "Severity Ratings:\n\"is less a collection of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1306}
+{"id": 792, "review": "Severity Rating:\n\"the harms associated with opioids\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 793, "review": "Severity Ratings:\n\"and the closest location to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 794, "review": "Severity Rating:\n\"I will not dare to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 795, "review": "Severity Ratings:\n\"on January 31 rallied between\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 796, "review": "Severity Ratings:\n\"Is it difficult to consolidate\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1304}
+{"id": 797, "review": "\"happened to see it and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1302}
+{"id": 798, "review": "Severity Ratings:\n\"three days for the goods\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 799, "review": "Severity Ratings:\n\"and abroad to cooperate with\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 800, "review": "Severity Ratings:\n\"the public to beware of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1296}
+{"id": 801, "review": "Severity Ratings:\n\"ruling Democratic Progressive Party in\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1311}
+{"id": 802, "review": "Severity Ratings:\n\"followed by synthetic cannabinoid receptor\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 803, "review": "Severity Ratings:\n\"number could be provided, and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1314}
+{"id": 804, "review": "Severity Ratings:\n\"specifically calling to ask about\" - mistranslation - 6", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 805, "review": "Severity Ratings:\n\"as 2016, and now in\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1316}
+{"id": 806, "review": "Severity Ratings:\n\"Continued tight supply and demand\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1319}
+{"id": 807, "review": "Severity Rating:\n\"people love peace and cherish\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1301}
+{"id": 808, "review": "Severity Rating:\n\"Conservation and Environmental Protection was\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 809, "review": "Severity Ratings:\n\"have to find new routes\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1330}
+{"id": 810, "review": "Severity Ratings:\n\"Amini in the custody of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1305}
+{"id": 811, "review": "Severity Rating:\n\"have time\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1327}
+{"id": 812, "review": "Severity Ratings:\n\"has long formed a closely\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1294}
+{"id": 813, "review": "Severity Ratings:\n\"Canada, Uruguay, and 11 jurisdictions\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1319}
+{"id": 814, "review": "Severity Ratings:\n\"overwhelmed health services to the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 815, "review": "Severity Ratings:\n\"in Diyarbakir, Turkey's largest city in\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1340}
+{"id": 816, "review": "Severity Ratings:\n\"the 'Fund E-account' APP has been\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1351}
+{"id": 817, "review": "Severity Ratings:\n\"today, the US is preparing to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 818, "review": "Severity Ratings:\n\"feel it wouldn't be off by\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 819, "review": "Severity Ratings:\n\"restrictions on movement also limit access\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1309}
+{"id": 820, "review": "Severity Rating:\n\"the whole time, always a few\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 821, "review": "\"a same time, the number of casualties\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1327}
+{"id": 822, "review": "Severity Ratings:\n\"the level of salary, but whether\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 823, "review": "Severity Ratings:\n\"asylum applications last year, nearly half\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 824, "review": "Severity Ratings:\n\"external borders, including through infrastructure and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1325}
+{"id": 825, "review": "Severity Ratings:\n\"to contact the agency, which asked\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 826, "review": "Severity Ratings:\n\"deal with the Taiwan Strait crisis.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1315}
+{"id": 827, "review": "Severity Ratings:\n\"GB 18030-2005, the glyphs at some\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1335}
+{"id": 828, "review": "Severity Ratings:\n\"version on the Internet, which is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1347}
+{"id": 829, "review": "Severity Ratings:\n\"the University of Brunei officially established\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1318}
+{"id": 830, "review": "Severity Ratings:\n\"with no protection at all, no\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 831, "review": "Severity Ratings:\n\"it, you can change the insole,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1337}
+{"id": 832, "review": "Severity Ratings:\n\" Drafting Rules of Standardization Documents.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 833, "review": "Severity Ratings:\n\"of synthetic opioids, such as fentanyl,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1336}
+{"id": 834, "review": "Severity Ratings:\n\"for 129 hours asked the rescuers\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1325}
+{"id": 835, "review": "Severity Ratings:\n\"unpleasant smell when charging, even if\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 836, "review": "\"redundant to me, as I'm not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 837, "review": "Severity Ratings:\n\"have been conducted on 25 severely\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1324}
+{"id": 838, "review": "Severity Ratings:\n\"of economic development is increasing, and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 839, "review": "Severity Ratings:\n\"because there are two components at\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1321}
+{"id": 840, "review": "Severity Ratings:\n\"2018 this figure had risen to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1312}
+{"id": 841, "review": "Severity Ratings:\n\"the entire book took up a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1342}
+{"id": 842, "review": "Severity Ratings:\n\"this headset really isn't as good\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1307}
+{"id": 843, "review": "Severity Ratings:\n\"market without going through a recession.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1318}
+{"id": 844, "review": "Severity Ratings:\n\"PON ports will reach 100%, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1312}
+{"id": 845, "review": "Severity Ratings:\n\"implantation refers to a method of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 846, "review": "Severity Ratings:\n\"good, and there is significant pressure\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 847, "review": "Severity Ratings:\n\"thoughtful moments, acts of service, gratifying\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1310}
+{"id": 848, "review": "Severity Ratings:\n\"be obtained for just over 180\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1333}
+{"id": 849, "review": "Severity Ratings:\n\"and output functions for all characters\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1324}
+{"id": 850, "review": "Severity Ratings:\n\"people already in sales work who\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1316}
+{"id": 851, "review": "Severity Ratings:\n\"seller much because the computer was\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1332}
+{"id": 852, "review": "Severity Ratings:\n\"cocaine and methamphetamine, or in the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1323}
+{"id": 853, "review": "Severity Ratings:\n\"the items were returned exactly as\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1347}
+{"id": 854, "review": "Severity Ratings:\n\"Map Collection\", the choice, layout, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1327}
+{"id": 855, "review": "Severity Ratings:\n\"Minister of the Vietnamese Government, Fan Mingzheng,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1351}
+{"id": 856, "review": "Severity Rating:\n\"patients with missing teeth, but the cost,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 857, "review": "Severity Ratings:\n\"calling on people to take to the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1333}
+{"id": 858, "review": "Severity Ratings:\n\"national security threat posed by China and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1338}
+{"id": 859, "review": "Severity Rating:\n\"plug it into my phone and open\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 860, "review": "Severity Ratings:\n\"As part of an amnesty marking the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1325}
+{"id": 861, "review": "Severity Ratings:\n\"GB 18030-2005 \"Information Technology - Chinese Encoding\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1372}
+{"id": 862, "review": "Severity Ratings:\n\"F-22, to shoot down an unidentified object\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1350}
+{"id": 863, "review": "Severity Ratings:\n\"as described in the picture, and the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1350}
+{"id": 864, "review": "Severity Ratings:\n\"system and would cancel the order after\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1327}
+{"id": 865, "review": "\" use had increased since legalization, although a \" - addition - 8", "severity": "major", "category": "addition", "total_token": 1324}
+{"id": 866, "review": "Severity Ratings:\n\"are okay to use, but there is\" - mistranslation - 7", "severity": "major", "category": "mistranslation", "total_token": 1340}
+{"id": 867, "review": "Severity Ratings:\n\"incident, and international coordination is critical to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 868, "review": "Severity Ratings:\n\"the quality standard specifications for 5G network\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1334}
+{"id": 869, "review": "\"points out the direction but does not\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1321}
+{"id": 870, "review": "Severity Ratings:\n\"example, but it will be more convincing\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 871, "review": "Severity Ratings:\n\"an official rally on Saturday to commemorate\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1320}
+{"id": 872, "review": "\"from the National Aeronautics and Space Administration\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1346}
+{"id": 873, "review": "Severity Ratings:\n\"to the Philips product of the same\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1344}
+{"id": 874, "review": "Severity Ratings:\n\"The tourism board recently announced plans to\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1330}
+{"id": 875, "review": "Severity Ratings:\n\"the price reduction of dental implants on\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1334}
+{"id": 876, "review": "Severity Ratings:\n\"for 280 yuan during a promotion, which\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1325}
+{"id": 877, "review": "Severity Ratings:\n\"member of the Politburo of the CPC\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1330}
+{"id": 878, "review": "Severity Ratings:\n\"consistent, after piecing together there is a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1326}
+{"id": 879, "review": "Severity Rating:\n\"job market to lag further, owing to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1331}
+{"id": 880, "review": "Severity Ratings:\n\"extraordinary economic governance experience and measures, fully\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1338}
+{"id": 881, "review": "Severity Ratings:\n\"out deadly repression against protests, which is\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1334}
+{"id": 882, "review": "Severity Ratings:\n\"this little lion who has succeeded in\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1345}
+{"id": 883, "review": "\"I called Amazon customer service and emailed\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1322}
+{"id": 884, "review": "Severity Ratings:\n\"and I was told that I had\" - addition - 6", "severity": "major", "category": "addition", "total_token": 1327}
+{"id": 885, "review": "Severity Ratings:\n\"urban people are a bit unreceptive to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1351}
+{"id": 886, "review": "Severity Ratings:\n\"the father, but he insisted on saving\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1335}
+{"id": 887, "review": "Severity Ratings:\n\"new students from Malaysia, Japan and Singapore\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 888, "review": "Severity Ratings:\n\"by the National Development and Reform Commission\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1355}
+{"id": 889, "review": "\"mainly produces men's outdoor casual clothing and is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1347}
+{"id": 890, "review": "Severity Ratings:\n\"and even after 28 days, there was no\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1362}
+{"id": 891, "review": "Severity Ratings:\n\"the EU was reportedly a response to the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1332}
+{"id": 892, "review": "Severity Ratings:\n\"requests for assistance through various channels such as\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1345}
+{"id": 893, "review": "Severity Ratings:\n\"Jinping and Prime Minister Fumio Kishida in Bangkok\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1353}
+{"id": 894, "review": "Severity Ratings:\n\"good quality and cost effective, cheaper than those\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1346}
+{"id": 895, "review": "Severity Ratings:\n\"the 'Action Plan to Strengthen the Comprehensive Partnership\" - addition - 8", "severity": "major", "category": "mistranslation", "total_token": 1333}
+{"id": 896, "review": "Severity Ratings:\n\"to open more bases to the US military\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1363}
+{"id": 897, "review": "Severity Ratings:\n\"sincere condolences are extended to comrades who are\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1325}
+{"id": 898, "review": "Severity Ratings:\n\"organization came forward to respond, promising to work\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 899, "review": "Severity Ratings:\n\"Chinese and Western cultural backgrounds, there are more\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1335}
+{"id": 900, "review": "Severity Ratings:\n\"Since the devastating earthquake in Turkey and neighboring\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1337}
+{"id": 901, "review": "Severity Ratings:\n\"Lingli, executive director of sports and wellness tourism\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1364}
+{"id": 902, "review": "Severity Ratings:\n\"half of the people in the country invested\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1339}
+{"id": 903, "review": "Severity Ratings:\n\"psychological needs - the desire to be understood,\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1338}
+{"id": 904, "review": "Severity Ratings:\n\"site, and continue to carry out in-depth rescue\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1346}
+{"id": 905, "review": "Severity Ratings:\n\"cancel the order. The link to contact customer\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1327}
+{"id": 906, "review": "Severity Ratings:\n\"an important step in the continuous advancement of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1328}
+{"id": 907, "review": "Severity Ratings:\n\"21st. As a result, it arrived on the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1339}
+{"id": 908, "review": "Severity Ratings:\n\"of fresh students returning home to seek employment\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1339}
+{"id": 909, "review": "Severity Ratings:\n\"from the First Affiliated Hospital of Zhengzhou University\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1332}
+{"id": 910, "review": "Severity Ratings:\n\"opioid psychoactive substances are analogues of fentanyl, whose\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1350}
+{"id": 911, "review": "Severity Ratings:\n\"Singapore and Brunei have been a complete success\" - mistranslation - 8", "severity": "major", "category": "addition", "total_token": 1356}
+{"id": 912, "review": "Severity Ratings:\n\"French people, they do not have to choose\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1358}
+{"id": 913, "review": "Severity Ratings:\n\n\"Industry and Information Technology recently issued the 'Shenzhen Speedy\" - untranslated text - 8", "severity": "major", "category": "mistranslation", "total_token": 1364}
+{"id": 914, "review": "Severity Ratings:\n\"two women were rescued from the rubble of a\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1347}
+{"id": 915, "review": "Severity Ratings:\n\"other infrastructure along the external border, it would free\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1367}
+{"id": 916, "review": "Severity Ratings:\n\"to work with Japan to continue deepening cooperation in\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1365}
+{"id": 917, "review": "Severity Ratings:\n\"According to the South Korean media, Kim's exposure has\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1349}
+{"id": 918, "review": "Severity Ratings:\n\"and 90,000 to 120,000 in the Paris metropolitan area.\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1369}
+{"id": 919, "review": "Severity Ratings:\n\"also buyers who believe that due to information asymmetry,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1363}
+{"id": 920, "review": "Severity Ratings:\n\"in the afternoon, and the seller assured me that\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1344}
+{"id": 921, "review": "Severity Ratings:\n\"have been deeply affected, including electronic design automation tool\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1344}
+{"id": 922, "review": "Severity Ratings:\n\"that other consumers will use them as a reference\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1371}
+{"id": 923, "review": "Severity Ratings:\n\"synthetic drugs have been added, many of which are\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1348}
+{"id": 924, "review": "\"of their branches due to operational issues, instead of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1359}
+{"id": 925, "review": "Severity Ratings:\n\"different sales organizations, but through the 'Fund E Account',\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1353}
+{"id": 926, "review": "Severity Ratings:\n\"and didn't read the product specifications clearly. I have\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1352}
+{"id": 927, "review": "Severity Ratings:\n\"Singapore's tourism, the Singapore Tourism Board launched an intention\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1344}
+{"id": 928, "review": "Severity Ratings:\n\"service, and they said the same thing, that signed\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1366}
+{"id": 929, "review": "Severity Ratings:\n\"January this year amounted to US $31.51 billion, a\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1352}
+{"id": 930, "review": "Severity Ratings:\n\"never faded, and they whispered to each other. Kim\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1343}
+{"id": 931, "review": "Severity Ratings:\n\"not been shipped. I immediately contacted customer service to cancel\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1380}
+{"id": 932, "review": "Severity Ratings:\n\"batch of personal pension wealth management products, and seven personal\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1360}
+{"id": 933, "review": "Severity Rating:\n\"images also showed Kim Yo-jong sitting with Kim Jong-un on\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1363}
+{"id": 934, "review": "Severity Rating:\n\"life believed to have been lost to disability or premature\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1372}
+{"id": 935, "review": "Severity Ratings:\n\"code, and immediately received a notification from the financial institution\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1381}
+{"id": 936, "review": "Severity Ratings:\n\"of cannabis by adults has increased, particularly over the past\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1351}
+{"id": 937, "review": "Severity Ratings:\n\"Account\" provides individual investors with a \"one-stop\" query service for\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1380}
+{"id": 938, "review": "Severity Ratings:\n\"members found that their stores did not operate normally after\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1359}
+{"id": 939, "review": "Severity Ratings:\n\"by several strong aftershocks in Turkey and Syria, is the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1354}
+{"id": 940, "review": "Severity Ratings:\n\"would like you to be aware of this\" - mistranslation - 8", "severity": "major", "category": "addition", "total_token": 1394}
+{"id": 941, "review": "Severity Rating:\n\"strength of consumer credit data, we judge that the US\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1356}
+{"id": 942, "review": "Severity Ratings:\n\"offline navigation, there was a phenomenon of not positioning. I\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1369}
+{"id": 943, "review": "Severity Ratings:\n\"last century, Zheng Yonggang served as the director of the\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1353}
+{"id": 944, "review": "Severity Ratings:\n\"itself wasn't my problem. As a consumer, I asked for\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1378}
+{"id": 945, "review": "Severity Ratings:\n\"hotels and education and health care, have rebounded sharply, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1365}
+{"id": 946, "review": "Severity Ratings:\n\"speed and efficiency of the company's product flow, logistics, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1367}
+{"id": 947, "review": "Severity Ratings:\n\"has the highest requirements. In addition to education, they also \" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1359}
+{"id": 948, "review": "Severity Ratings:\n\"color blindness, color deficiency, genetic diseases such as Hepatitis B,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1366}
+{"id": 949, "review": "Severity Ratings:\n\"with the pursuit of simplicity in word choice and sentence\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1355}
+{"id": 950, "review": "Severity Ratings:\n\"US for seriously impacting and damaging the efforts and process\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1362}
+{"id": 951, "review": "Severity Ratings:\n\"4 million to 6 million, and tourists have recovered to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1361}
+{"id": 952, "review": "Severity Ratings:\n\"passed since the earthquake hit parts of Turkey and Syria, and\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1391}
+{"id": 953, "review": "Severity Rating:\n\"The Human Sperm Bank of China's Yunnan Province issued a promotion\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1380}
+{"id": 954, "review": "Severity Ratings:\n\"discounts, including discounted round-trip tickets between Hong Kong and Macau, and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1375}
+{"id": 955, "review": "Severity Ratings:\n\"who would dare to buy things on Amazon in the future?\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1374}
+{"id": 956, "review": "Severity Ratings:\n\"with Chinese Characteristics for a New Era and the spirit of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1373}
+{"id": 957, "review": "Severity Ratings:\n\"the everyday plot does not dazzle or expand one's thinking and\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1392}
+{"id": 958, "review": "Severity Ratings:\n\"75th anniversary of the founding of its army, and Kim Jong-un's\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1399}
+{"id": 959, "review": "Severity Ratings:\n\"during his visit to Brunei Darussalam, on the morning of February\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1381}
+{"id": 960, "review": "Severity Ratings:\n\"phone, there would also be a sticker-like seal that could be\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1393}
+{"id": 961, "review": "Severity Ratings:\n\"Congress of China are held, where representatives and members discuss the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1352}
+{"id": 962, "review": "Severity Ratings:\n\"Business Leaders Annual Meeting and the 22nd China Future Stars Annual\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1369}
+{"id": 963, "review": "Severity Ratings:\n\"order but couldn't. The delivery person took it back and said\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1391}
+{"id": 964, "review": "Severity Ratings:\n\"government of Raisi faces the boldest challenge from young protesters demanding\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1361}
+{"id": 965, "review": "Severity Ratings:\n\"are: Beijing Nanjiang Aerospace Technology Co., Ltd., China Electronics Technology Group's\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1403}
+{"id": 966, "review": "Severity Ratings:\n\"and State, that is, independence, diversification, change, willing to be a\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1402}
+{"id": 967, "review": "Severity Ratings:\n\"training, and policy incentives will make China continue to be full\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1377}
+{"id": 968, "review": "Severity Ratings:\n\"pointed out that sperm donors can get a full set of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1370}
+{"id": 969, "review": "Severity Ratings:\n\"the People's Republic of China, Song Tao, and the Standing Committee member\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1382}
+{"id": 970, "review": "Severity Rating:\n\"to be promoted through reform and innovation, and we must not stick\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1363}
+{"id": 971, "review": "Severity Ratings:\n\"has never ceased its efforts to suppress China's 'core' development, precisely suppressing\" - mistranslation - 8", "severity": "major", "category": "addition", "total_token": 1372}
+{"id": 972, "review": "Severity Ratings:\n\"President Ursula von der Leyen said that EU leaders agreed to introduce\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1388}
+{"id": 973, "review": "\" saying that the Human Sperm Bank of Shaanxi Province printed a poster \" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1400}
+{"id": 974, "review": "Severity Ratings:\n\"that I couldn't connect to the bracelet. Both device manuals expressed their\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1384}
+{"id": 975, "review": "Severity Ratings:\n\"able to travel to the meeting place, and in areas where schools\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1367}
+{"id": 976, "review": "Severity Ratings:\n\"cardboard box with no protection whatsoever, and the box that holds the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1379}
+{"id": 977, "review": "Severity Ratings:\n\"that is fueling the opioid crisis; in North America it is fentanyl.\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1371}
+{"id": 978, "review": "Severity Ratings:\n\"64, but the number of people who actually took to the streets to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1411}
+{"id": 979, "review": "Severity Ratings:\n\"is approximately 36 cm long and 23 cm wide; and this version is\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1385}
+{"id": 980, "review": "Severity Ratings:\n\"It relates to the governance of the party, the country, and the military,\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1395}
+{"id": 981, "review": "Severity Ratings:\n\"Everything\\\" network construction, and create the first in China and the world's leading\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1392}
+{"id": 982, "review": "Severity Ratings:\n\"in addition to the actions of the Biden administration, newly established House of\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1395}
+{"id": 983, "review": "Severity Ratings:\n\"of the straw is vertically straight, my son always has to hold the protrusion\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1397}
+{"id": 984, "review": "Severity Ratings:\n\"non-farm payrolls, significantly higher than market expectations of 189,000; the unemployment rate fell to\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1412}
+{"id": 985, "review": "Severity Rating:\n\"and overburdened immigration authorities of member states could not prevent refugees from submitting 'countless'\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1443}
+{"id": 986, "review": "Severity Ratings:\n\"the diapers from JD.com had a strong smell after opening, the customer service still\" - untranslated text - 8", "severity": "major", "category": "untranslated", "total_token": 1425}
+{"id": 987, "review": "Severity Ratings:\n\"victims. They lured the victims to log on to fake websites for redemption with\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1404}
+{"id": 988, "review": "Severity Ratings:\n\"metres (40,000 ft), about the size of a small car, and much smaller than\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1405}
+{"id": 989, "review": "Severity Ratings:\n\"billion Singapore dollars in 2021, and has recovered to about 50% to 52% of\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1445}
+{"id": 990, "review": "Severity Ratings:\n\"don't want to meet in a lifetime, and some things you don't want to know\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1433}
+{"id": 991, "review": "Severity Ratings:\n\"News Agency, Beijing, February 10th, Xi Jinping, General Secretary of the Central Committee of the\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1414}
+{"id": 992, "review": "Severity Ratings:\n\"mobile phone worth more than 2,000 yuan, but when I bought it for her, I didn't\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1424}
+{"id": 993, "review": "Severity Ratings:\n\"the Central News Agency today, Xia Liyan, vice chairman of the Kuomintang, led a delegation to\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1444}
+{"id": 994, "review": "Severity Ratings:\n\"the complete Michelangelo collection, which was dominated by paintings, the manuscript in black and white by Leonardo\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1410}
+{"id": 995, "review": "Severity Ratings:\n\"promote the spirit of the Chinese medical team that is not afraid of hardship, willing to dedicate\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1450}
+{"id": 996, "review": "Severity Ratings:\n\"quadrilateral alliance with South Korea, Japan, and Taiwan, China, or establishing a semiconductor industry chain small circle through\" - mistranslation - 8", "severity": "major", "category": "mistranslation", "total_token": 1438}
+{"id": 997, "review": "Severity Ratings:\n\"News Agency reported from Beijing that the newly appointed members and alternate members of the Central Committee, as well as the main\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1511}
+{"id": 998, "review": "Severity Ratings:\n\"for it. I quickly contacted the courier company, but they said only the sender could initiate an inquiry. I contacted Amazon customer service and waited\" - addition - 8", "severity": "major", "category": "addition", "total_token": 1471}
+{"id": 999, "review": "Severity Ratings:\nThe segment \"<v> </v>\" indicates an omission in the translation, as the source mentions asking colleagues and ensuring none of them signed for the package.\n\n\"my\" - omission - 4", "severity": "minor", "category": "omission", "total_token": 1548}
