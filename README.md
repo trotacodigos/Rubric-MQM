@@ -17,15 +17,22 @@
     <figcaption>Figure 1: Six advantages of Rubric-MQM, addressing existing challenges of GEMBA-MQM. 'Major' and Mistranslation indicate precision, while 'No-error' refers to recall score.
 </figure>
 
-Furthermore, when assessing reference translations, RubricMQM demonstrates a markedly enhanced correlation, highlighting its robustness when applied to high-performing models. The accompanying figure also presents a novel evaluation insight, indicating that RubricMQM is capable of providing a new system-level result (in this case, for _Reference A_).
+### 
+Furthermore, when assessing reference translations, RubricMQM demonstrates a markedly enhanced correlation, highlighting its robustness when applied to high-performing models (Figure 2). Figure 3 also presents a novel evaluation insight, indicating that RubricMQM is capable of providing a new system-level result (in this case, for _Reference A_).
 
-<p float="center">
-  <img src="data/images/correlation.png" alt="Correlation" width="250"/>
-  <img src="data/images/new_result.png", alt="New Finding", width="250"/>
+<p align="center">
+    <img src="data/images/correlation.png" alt="Comparison" style="width:50%; height:auto;">
 </p>
-Figure 2: Segment-level correlations to DA-SQM.
+<p align="center">
+    Figure 2: Segment-level correlations to DA-SQM.
+</p>
 
-Figure 3. System-level score of _Reference A_ (-716.54).
+<p align="center">
+    <img src="data/images/new_result.png" alt="New Finding" style="width:50%; height:auto;">
+</p>
+<p align="center">
+    Figure 3. System-level score of "Reference A" (-716.54).
+</p>
 
 ---
 
