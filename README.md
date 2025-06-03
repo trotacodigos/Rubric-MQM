@@ -1,6 +1,6 @@
-# RUBRIC-MQM
+# Rubric-MQM
 
-**LLM-as-Judge for Span-Level Machine Translation Evaluation**
+**LLM-as-Judge for High-End Machine Translation Evaluation**
 
 ---
 
