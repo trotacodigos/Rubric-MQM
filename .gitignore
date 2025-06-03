@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
+.ipynb_checkpoints/
+evaluator/slot_scenarios/eaprompt.py
+
 __pycache__/
 *.py[cod]
 *$py.class
