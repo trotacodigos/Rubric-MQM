@@ -1,5 +1,5 @@
-from evaluator import base
-from evaluator.slot_scenarios.gemba import DefaultTemplate, DefaultPrompt
+from rubric_mqm import base
+from rubric_mqm.slot_scenarios.gemba import DefaultTemplate, DefaultPrompt
 
 
 class Template(DefaultTemplate):

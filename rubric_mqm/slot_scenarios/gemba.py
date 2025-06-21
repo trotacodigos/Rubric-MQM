@@ -1,4 +1,4 @@
-from evaluator import base
+from rubric_mqm import base
 from typing import Optional, Dict
 
 

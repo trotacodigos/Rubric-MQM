@@ -6,9 +6,9 @@ from typing import Union
 
 import pandas as pd
 
-from evaluator.call_api import get_api
-import evaluator.promptcue as cue
-from evaluator import worker as rubric_worker
+from rubric_mqm.call_api import get_api
+import rubric_mqm.promptcue as cue
+from rubric_mqm import worker as rubric_worker
 
 logging.basicConfig(level=logging.INFO)
 warnings.filterwarnings("ignore")

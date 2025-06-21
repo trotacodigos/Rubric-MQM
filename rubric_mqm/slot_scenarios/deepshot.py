@@ -1,4 +1,4 @@
-from evaluator.slot_scenarios.gemba import DefaultPrompt
+from rubric_mqm.slot_scenarios.gemba import DefaultPrompt
     
     
 class Prompt(DefaultPrompt):

@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ Summary
+## Summary
 
 **RUBRIC-MQM** is a modular, span-level MT evaluation framework that uses **LLMs to detect MQM-style translation errors** and compute **rubric-based scores (0–100)** at the span level. It improves upon [GEMBA-MQM (Kocmi & Federmann, 2023)](https://github.com/MicrosoftTranslator/GEMBA) by addressing newly discovered issues such as:
 
@@ -36,7 +36,7 @@ Furthermore, when assessing reference translations, RubricMQM demonstrates a mar
 
 ---
 
-## 🧩 Core Capabilities
+## Core Capabilities
 
 - **Span-level labeling** — Error classification with span localization  
 - **Rubric scoring** — Numerical quality estimation (1–100) based on prompt-based scoring criteria  
@@ -47,22 +47,34 @@ Furthermore, when assessing reference translations, RubricMQM demonstrates a mar
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-org/rubric-mqm
 cd rubric-mqm
+
+# Create your virtual environment and install
 pip install -r requirements.txt
+pip install -e .
+
 ```
 
+### Save your OpenAI API Keys
+```bash
+### Create an .env file and save your keys.
+### Make sure they’re comma-separated without space
+OPENAI_API_KEYS=sk-key1,sk-key2,sk-key3...
+
+```
+    
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 🛠️ 1. Build prompt from segments
 
 ```python
-from evaluator.prompt import RubricMQMPrompt
+from rubric_mqm.prompt import RubricMQMPrompt
 
 prompt = RubricMQMPrompt(
     source_lang="English",
@@ -75,30 +87,39 @@ print(prompt.create_prompt())
 
 ---
 
-### 🧪 2. Run CLI evaluation
+### 2. Run CLI evaluation
 
 ```bash
-python3 -m evaluator.worker \
-            -d data/sample.csv \
-            -o data/out.csv \
-            -e data/error.jsonl \
-            -m "gpt-4.1" \
-            -p  # Enable PromptCUE mode
+rubric_mqm -d data/sample.csv \
+           -o data/out.csv \
+           -e data/error.jsonl \
+           -m "gpt-4.1" \
+           -p  # Enable PromptCUE mode
 ```
 
 ---
 
-## 🗂 Directory Structure
+## Directory Structure
 
 ```
-rubric-mqm/
-├── evaluator/
+Rubric_MQM/
+│
+├── cli/
 │   ├── worker.py              # CLI entrypoint for evaluation
-│   ├── prompt/                # Prompt logic and rubric templates
-│   ├── slot_scenarios/        # Prebuilt prompt contexts for a better option
-├── parser/                    # Output parsing utilities
+│
+├── rubric_mqm/
+│   ├── slot_scenarios/        # Prebuilt prompt variations
+│   ├── prompt.py              # Prompt logic and rubric templates
+│   ├── promptcue.py           # PromptCUE mode
+│   ├── call_api.py
+│
+├── rmqm_parser/               # Output parsing utilities
+│
 ├── data/                      # Input/output examples
+│
 ├── requirements.txt
+├ ...
+│
 └── README.md
 ```
 

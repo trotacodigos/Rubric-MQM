@@ -1,6 +1,5 @@
-
-from evaluator import base
-from evaluator.slot_scenarios.gemba import DefaultPrompt
+from rubric_mqm import base
+from rubric_mqm.slot_scenarios.gemba import DefaultPrompt
 
 from typing import Optional, Dict, Type
 from functools import cached_property

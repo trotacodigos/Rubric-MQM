@@ -1,4 +1,4 @@
-from evaluator.slot_scenarios import deeprubric
+from rubric_mqm.slot_scenarios import deeprubric
 from typing import Optional
 
 
