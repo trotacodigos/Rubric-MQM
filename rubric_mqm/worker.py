@@ -14,7 +14,6 @@ from rmqm_parser.scale_parser import parse_annotations
 from rubric_mqm.call_api import get_api
 
 
-
 # === Configuration ===
 logging.basicConfig(level=logging.INFO)
 warnings.filterwarnings("ignore")

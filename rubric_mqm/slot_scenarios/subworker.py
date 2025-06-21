@@ -13,6 +13,9 @@ from rubric_mqm import worker as rubric_worker
 logging.basicConfig(level=logging.INFO)
 warnings.filterwarnings("ignore")
 
+from dotenv import load_dotenv
+import os
+
 
 # === Slot Scenario Selection ===
 def select_scenario(name: str):
@@ -126,9 +129,12 @@ def parse_args():
 
 
 # === Entry Point ===
-if __name__ == "__main__":
-    args = parse_args()
-
+def main():
+    args = arg_parse()
+    keys_raw = os.getenv("OPENAI_API_KEYS", args.api_keys)
+    if not keys_raw:
+        raise ValueError("No API keys provided via .env or CLI.")
+        
     if args.slot in ('deeprubric', 'deepsqm') and args.scale not in (4, 8, 100):
         raise ValueError("Invalid scale value for the selected slot.")
 
@@ -137,11 +143,14 @@ if __name__ == "__main__":
         'temperature': args.temperature,
         'max_tokens': args.max_tokens,
         'with_ref': args.with_ref,
-        'key': [],  # 🔒 Replace with actual key
+        'key': [key.strip() for key in keys_raw.split(",") if key.strip()],
         'promptcue': args.promptcue,
         'scale': args.scale,
         'slot': args.slot,
     }
-
+    
     df = pd.read_csv(args.input_file)
-    rubric_worker.main(df, args.output_file, args.error_log, reviewer_cfg, args.batch_mode, process_and_review_batch)
+    rubric_worker.run(df, args.output_file, args.error_log, reviewer_cfg, args.batch_mode, process_and_review_batch)
+    
+if __name__ == "__main__":
+    main()
