@@ -4,7 +4,7 @@
 
 ---
 
-## Summary
+## About
 
 **RUBRIC-MQM** is a modular, span-level MT evaluation framework that uses **LLMs to detect MQM-style translation errors** and compute **rubric-based scores (0–100)** at the span level. It improves upon [GEMBA-MQM (Kocmi & Federmann, 2023)](https://github.com/MicrosoftTranslator/GEMBA) by addressing newly discovered issues such as:
 
@@ -50,65 +50,82 @@ Furthermore, when assessing reference translations, RubricMQM demonstrates a mar
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/rubric-mqm
-cd rubric-mqm
+git clone https://github.com/trotacodigos/Rubric-MQM.git
+cd Rubric-MQM
 
-# Create your virtual environment and install
+# Create a new virtual environment and install
 pip install -r requirements.txt
 pip install -e .
-
 ```
-
-### Save your OpenAI API Keys
-```bash
-### Create an .env file and save your keys.
-### Make sure they’re comma-separated without space
-OPENAI_API_KEYS=sk-key1,sk-key2,sk-key3...
-
-```
-    
+  
 ---
 
-## Quickstart
+## Quick Start
 
-### 🛠️ 1. Build prompt from segments
-
+### 1. Python Implementation
 ```python
-from rubric_mqm.prompt import RubricMQMPrompt
+# Check if the version of openai >= 1.0
+import openai
+print(openai.__version__)
 
-prompt = RubricMQMPrompt(
-    source_lang="English",
-    target_lang="Spanish",
-    source_seg="This is a test.",
-    target_seg="Es una prueba.",
-)
-print(prompt.create_prompt())
+from rubric_mqm.worker import run_rmqm_eval
+
+# Introduce your keys
+your_api_keys = [key1, key2, ...]
+
+# Run evaluation
+run_rmqm_eval("data/sample.csv",
+              "data/out.csv",
+              "data/error.jsonl",
+               api_keys=your_api_keys,
+               model="gpt-4.1-mini")
+
 ```
 
 ---
 
-### 2. Run CLI evaluation
+### 2. CLI Implementation
+Create an .env file and save your OpenAI API keys. Make sure they’re comma-separated without space.
+```bash
+OPENAI_API_KEYS=sk-key1,sk-key2,sk-key3...
+```
 
+Then, test the module with sample data.
 ```bash
 rubric_mqm -d data/sample.csv \
            -o data/out.csv \
            -e data/error.jsonl \
-           -m "gpt-4.1" \
+           -m "gpt-4.1-mini" \
            -p  # Enable PromptCUE mode
 ```
 
+### Sample Instance
+
+|||
+|-|-|
+|Chinese Source|综合韩国“朝鲜新闻”等报导，金正恩、李雪主夫妇7日带著女儿金主爱出席晚宴的官方合照中，金主爱不仅罕见坐在父母正中间C位，在隔日晚间建军节第75周年阅兵仪式上，她还与金正恩一起登上主席台。|
+|English Translation|In the official photo of Kim Jong-un and his wife Ri Sol Ju at a dinner party with their daughter Kim Jong-un, Kim Jong-un not only rarely sits in the middle C of their parents, but also sits on the podium with Kim Jong-un at the 75th anniversary military parade the next evening.|
+|RubricMQM Review|"Kim Jong-un" - mistranslation - 80|
+||"Kim Jong-un" - inconsistency - 63|
+||"C位" - untranslated text - 65|
+||"their parents" - mistranslation - 78|
+||"sits on the podium with Kim Jong-un" - inconsistency - 70|
+|Score|-291 (or -2.91)|
+
+
+The answers are organized in the given format:
+```python
+"{'cat_pred': ['mistranslation', 'inconsistency', 'mistranslation', 'inconsistency'], 'sev_pred': [80, 63, 78, 70], 'score': -2.91}"
+```
 ---
 
 ## Directory Structure
 
 ```
 Rubric_MQM/
-│
-├── cli/
-│   ├── worker.py              # CLI entrypoint for evaluation
-│
 ├── rubric_mqm/
 │   ├── slot_scenarios/        # Prebuilt prompt variations
+│   ├── worker.py              # CLI entrypoint for evaluation
 │   ├── prompt.py              # Prompt logic and rubric templates
 │   ├── promptcue.py           # PromptCUE mode
 │   ├── call_api.py

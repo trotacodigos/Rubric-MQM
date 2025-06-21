@@ -4,14 +4,16 @@ import logging
 import math
 import warnings
 from typing import Union, List
-from dotenv import load_dotenv
 import pandas as pd
 from tqdm import tqdm
+import os
 
 from rubric_mqm.prompt import RubricMQMPrompt
 from rubric_mqm import promptcue as cue
 from rmqm_parser.scale_parser import parse_annotations
 from rubric_mqm.call_api import get_api
+
+
 
 # === Configuration ===
 logging.basicConfig(level=logging.INFO)
@@ -93,8 +95,8 @@ def process_and_review_batch(data: Union[pd.DataFrame, str],
     
 def arg_parse():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', '--input-file', required=True, help='Input CSV file path')
-    parser.add_argument('-o', '--output-file', required=True, help='Output CSV file path')
+    parser.add_argument('-d', '--input-file', required=True, help='Input .csv file path')
+    parser.add_argument('-o', '--output-file', required=True, help='Output .csv file path')
     parser.add_argument('-e', '--error-log', required=True, help='Path to save error logs (.jsonl)')
     parser.add_argument('-m', '--model-name', default='gpt-4.1-mini')
     parser.add_argument('-t', '--temperature', type=float, default=0.0)
@@ -102,6 +104,7 @@ def arg_parse():
     parser.add_argument('-b', '--batch-mode', action='store_true')
     parser.add_argument('-w', '--with-ref', action='store_true')
     parser.add_argument('-p', '--promptcue', action='store_true')
+    parser.add_argument('-k', '--api-keys', default="", help="Comma separated list of API keys")
     return parser.parse_args()
 
 
@@ -131,34 +134,58 @@ def run(df: pd.DataFrame,
         except Exception as e:
             logging.error(f"Failed to combine batch outputs: {e}")
             
-            
-def main():
-    # Load environment variables
-    load_dotenv()
-    
-    keys_raw = os.getenv("OPENAI_API_KEYS")
-    if not keys_raw:
-        raise ValueError("Missing OPENAI_API_KEYS in .env file!")
 
-    api_keys = [key.strip() for key in keys_raw.split(",") if key.strip()]
-    if not api_keys:
-        raise ValueError("No valid API keys found in OPENAI_API_KEYS")
-        
+# === CLI Entry Point ===
+def main():
     args = arg_parse()
+    keys_raw = os.getenv("OPENAI_API_KEYS", args.api_keys)
+    if not keys_raw:
+        raise ValueError("No API keys provided via .env or CLI.")
+
     cfg = {
         'model': args.model_name,
         'temperature': args.temperature,
         'max_tokens': args.max_tokens,
         'with_ref': args.with_ref,
-        'key': api_keys,
+        'key': [key.strip() for key in keys_raw.split(",") if key.strip()],
         'promptcue': args.promptcue,
     }
+
     input_df = pd.read_csv(args.input_file)
-    run(input_df, args.output_file, args.error_log, cfg, args.batch_mode)
+    run(input_df, args.output_file, args.error_log, cfg, args.batch_mode)            
+          
+        
+# === Notebook Entry Point ===
+def run_rmqm_eval( #TODO! 노트북으로 돌릴 때는 점수가 파싱되어 반환되도록 코드 짜기. score = [a, b, c, ...]
+    df: pd.DataFrame,
+    output_file: str,
+    error_log: str,
+    api_keys: List[str],
+    model: str = 'gpt-4.1-mini',
+    temperature: float = 0.0,
+    max_tokens: int = 1024,
+    with_ref: bool = False,
+    promptcue: bool = False,
+    batch_mode: bool = False
+):
+    if not len(api_keys):
+        raise ValueError("API key(s) must be provided.")
+
+    cfg = {
+        'model': model,
+        'temperature': temperature,
+        'max_tokens': max_tokens,
+        'with_ref': with_ref,
+        'key': api_keys,
+        'promptcue': promptcue,
+    }
+
+    run(df, output_file, error_log, cfg, batch_mode)
 
     
 # === CLI Interface ===
 if __name__ == "__main__":
+    from dotenv import load_dotenv
     main()
 
     

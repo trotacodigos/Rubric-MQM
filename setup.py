@@ -6,34 +6,6 @@
 """
 A setuptools based setup module.
 
-See:
-- https://packaging.python.org/en/latest/distributing.html
-- https://github.com/pypa/sampleproject
-
-To install:
-
-1. Setup pypi by creating ~/.pypirc
-
-        [distutils]
-        index-servers =
-          pypi
-          pypitest
-
-        [pypi]
-        username=
-        password=
-
-        [pypitest]
-        username=
-        password=
-
-2. Create the dist
-
-   python3 setup.py sdist bdist_wheel
-
-3. Push
-
-   twine upload dist/*
 """
 
 import os
@@ -45,9 +17,7 @@ ROOT = os.path.dirname(__file__)
 
 def get_version():
     """
-    Reads the version from blonde's __init__.py file.
-    We can't import the module because required modules may not
-    yet be installed.
+    Reads the version from Rubric-MQM's __init__.py file.
     """
     VERSION_RE = re.compile(r'''__version__ = ['"]([0-9.]+)['"]''')
     init = open(os.path.join(ROOT, 'rubric_mqm', '__init__.py')).read()
@@ -82,7 +52,7 @@ setup(
     url="https://github.com/trotacodigos/Rubric-MQM",
     packages=find_packages(exclude=["*.tests", "*.tests.*",
                                     "tests.*", "tests"]),
-    install_requires=['openai',
+    install_requires=['openai>1.0',
                       'numpy',
                       'packaging>=20.9',
                       'pandas>=1.0',
@@ -91,7 +61,7 @@ setup(
                       ],
     entry_points={
         'console_scripts': [
-            "rubric_mqm=cli.worker:main"
+            "rubric_mqm=rubric_mqm.worker:main"
         ]
     },
     include_package_data=True,
