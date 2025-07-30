@@ -34,6 +34,7 @@ Furthermore, when assessing reference translations, RubricMQM demonstrates a mar
     Figure 3. System-level score of "Reference A" (-716.54).
 </p>
 
+
 ---
 
 ## Core Capabilities
@@ -143,6 +144,7 @@ Rubric_MQM/
 ---
 
 ## 🔖 Citation
+Check our paper [here](https://aclanthology.org/2025.acl-industry.12/)!
 
 ```bibtex
 @inproceedings{kim-2025-rubric,
