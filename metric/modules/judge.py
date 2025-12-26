@@ -1,5 +1,5 @@
 from metric.core.engine import run_batch
 
-def postedit(**kwargs) -> dict:
+def evaluate(**kwargs) -> dict:
     result = run_batch(**kwargs)
-    return result["data"]["text"]
+    return result["details"]
