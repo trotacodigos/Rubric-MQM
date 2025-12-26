@@ -1,0 +1,21 @@
+version: "v2.0"
+
+reproducibility:
+  seed: 42
+
+model:
+  name: gpt-4.1-mini-2025-04-14
+  temperature: 0.7
+  max_tokens: 2048
+
+prompt:
+  version: "2.0"
+  template: mqm_v2
+  few_shot_examples: icl_v2
+
+parser:
+  type: ape_v2
+
+api:
+  max_semantic_retries: 2
+  sleep_sec: 0.0
