@@ -69,18 +69,19 @@ python -m metric.run \
 : Produces LLM-as-Judge compatible outputs (error categories, severities, scores),
 enabling reuse in existing evaluation workflows and prior experiments.
 
-**Table 1.** Sample instance of Rubric-MQM as an LLM-as-judge
+**Table 1.** Sample instance of Rubric-MQM's outputs
 
 |||
 |-|-|
 |Chinese Source|综合韩国“朝鲜新闻”等报导，金正恩、李雪主夫妇7日带著女儿金主爱出席晚宴的官方合照中，金主爱不仅罕见坐在父母正中间C位，在隔日晚间建军节第75周年阅兵仪式上，她还与金正恩一起登上主席台。|
 |English Translation|In the official photo of Kim Jong-un and his wife Ri Sol Ju at a dinner party with their daughter Kim Jong-un, Kim Jong-un not only rarely sits in the middle C of their parents, but also sits on the podium with Kim Jong-un at the 75th anniversary military parade the next evening.|
-|RubricMQM Review|"Kim Jong-un" - mistranslation - 80|
+|🤖 Output of a judge|"Kim Jong-un" - mistranslation - 80|
 ||"Kim Jong-un" - inconsistency - 63|
 ||"C位" - untranslated text - 65|
 ||"their parents" - mistranslation - 78|
 ||"sits on the podium with Kim Jong-un" - inconsistency - 70|
 |Score|-291 (or -2.91)|
+|🤖 Output of a post-editor|In the official photo of Kim Jong-un and Ri Sol Ju at a dinner party with their daughter Kim Joo-ae, Kim Joo-ae is not only rarely sitting in the middle C of their parents, but also stood on the rostrum with Kim Jong-un at the 75th anniversary military parade the next evening.|
 
 ## Directory Structure
 
