@@ -32,6 +32,9 @@ that can be reused for evaluation-oriented analysis.
   The original LLM-as-Judge framework of Rubric-MQM was presented at  
   the Annual Meeting of the Association for Computational Linguistics (ACL 2025).
 
+- **May 26, 2025 - v1.0 released**   
+  Rubric-MQM has been suggested as an LLM-as-judge metric in Machine Translation.
+
 
 ## Quick Start
 Choose which mode to run — APE or LLM-as-Judge — by using `--mode`.
