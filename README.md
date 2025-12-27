@@ -75,7 +75,23 @@ python -m metric.run \
   --workers 2
 ```
 
+### ➡ Prepare your data
+Input data must be provided as a CSV file. The required columns for all modes are:
+- src_lang
+- tgt_lang
+- src_text
+- target
+
+The rest items are optional.
+
+|||||||
+|-|-|-|-|-|-|
+|src_lang|tgt_lang|src_text|**target**|ref_text|domain|
+|...|...|...|...|...|...|
+
+
 # ✺ Sample Outputs
+Output data can be either a JSONL or CSV file.
 
 |||
 |-|-|
