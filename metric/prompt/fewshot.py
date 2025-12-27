@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict
 
 
-def gen_message(*, src_lang, tgt_lang, src_text, target, ref_text=None):
+def gen_message(*, src_lang, tgt_lang, src_text, target, domain, ref_text=None):
     """
     Generates message prompts for post-editing task.
     """
@@ -19,6 +19,7 @@ def gen_message(*, src_lang, tgt_lang, src_text, target, ref_text=None):
         tgt_lang=tgt_lang,
         src_text=src_text,
         target=target,
+        domain=domain,
         ref_text=ref_text
     )
     messages.append({"role": "user", "content": prompt})
@@ -28,7 +29,7 @@ def gen_message(*, src_lang, tgt_lang, src_text, target, ref_text=None):
 
 
 def icl_examples() -> List[Dict[str, str]]:
-    path = Path("metric/prompt/icl_examples.jsonl")
+    path = Path(__file__).parent / "icl_examples.jsonl"
 
     with open(path, "r", encoding="utf-8") as f:
         records = [
@@ -70,7 +71,7 @@ def load_instruction(
     version: str,
     with_ref: bool,
 ) -> str:
-    with open(Path("metric/prompt/template.jsonl"), "r", encoding="utf-8") as f:
+    with open(Path(__file__).parent / "template.jsonl", "r", encoding="utf-8") as f:
         for line in f:
             if not line.strip():
                 continue
@@ -92,11 +93,15 @@ def create_template(
     tgt_lang: str,
     src_text: str,
     target: str,
+    domain: str | None = None,
     ref_text: str | None = None,
     version: str = "2.0",
 ) -> str:
     with_ref = ref_text is not None
+
     instruction = load_instruction(version=version, with_ref=with_ref)
+    if domain is not None:
+        instruction = instruction.format(domain=domain)
 
     segments = [
         f"{src_lang} source:\n```{src_text}```",

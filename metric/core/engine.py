@@ -21,6 +21,7 @@ def build_request(
     tgt_lang: str,
     src_text: str,
     target: str,
+    domain: str,
     model: str,
     temperature: float,
     max_tokens: int,
@@ -32,6 +33,7 @@ def build_request(
         src_text=src_text,
         target=target,
         ref_text=ref_text,
+        domain=domain,
     )
 
     return {
@@ -44,15 +46,9 @@ def build_request(
     }
 
 
-def _process_row(args):
-    row, cfg, domain = args
-    return run_single(cfg, row, domain)
-
-
 def run_single(
     cfg: Dict[str, Any],
     row: Dict[str, Any],
-    domain: Optional[str] = None,
 ):
     request = build_request(
         src_lang=row["src_lang"],
@@ -60,6 +56,7 @@ def run_single(
         src_text=row["src_text"],
         target=row["target"],
         ref_text=row.get("ref_text"),
+        domain=row.get("domain", None),
         model=cfg["model"]["name"],
         temperature=cfg["model"]["temperature"],
         max_tokens=cfg["model"]["max_tokens"],
@@ -72,11 +69,14 @@ def run_single(
 def run_batch(
     df: pd.DataFrame,
     cfg: Dict[str, Any],
-    domain: Optional[str] = None,
     workers: Optional[int] = None,
     output_path: Optional[str] = None,
     progress_callback=None,
 ):
+    def _process_row(args):
+        row, cfg = args
+        return run_single(cfg, row)
+
     if not all(col in df.columns for col in REQUIRED_COLS):
         raise ValueError(f"Missing required columns: {REQUIRED_COLS}")
 
@@ -84,7 +84,7 @@ def run_batch(
     is_jsonl = output_path and output_path.endswith(".jsonl")
 
     task_data = [
-        (row.to_dict(), cfg, domain)
+        (row.to_dict(), cfg)
         for _, row in df.iterrows()
     ]
 
